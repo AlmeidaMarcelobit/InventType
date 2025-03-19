@@ -32,7 +32,7 @@
             <div class="equipamento-card">
                 <h4>🔩 Suporte</h4>
                 <p><strong>Modelo:</strong>Alumínio</p>
-                <p><strong>S/N:</strong> [Informação não fornecida]</p>
+                <p><strong>S/N:</strong></p>
                 <p><strong>Patrimônio:</strong> 931</p>
             </div>
             <div class="equipamento-card">
@@ -73,21 +73,15 @@
                 <p><strong>Patrimônio:</strong> 806</p>
             </div>
             <div class="equipamento-card">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Modelo:</strong>Dell P2018HC</p>
-                <p><strong>S/N:</strong> 1232C03</p>
-                <p><strong>Patrimônio:</strong> 043</p>
-            </div>
-            <div class="equipamento-card">
                 <h4>⌨️🖱️Teclado e Mouse</h4>
                 <p><strong>Modelo:</strong>Dell MK5221W</p>
-                <p><strong>S/N:</strong> CN-ONCRCC-LO300-331-KOUK-A0</p>
+                <p><strong>S/N:</strong> CN-ONCRCC-LO300-331-KOUK-A01</p>
                 <p><strong>Patrimônio:</strong> 320 - 863</p>
             </div>
             <div class="equipamento-card">
                 <h4>🎧 Fone</h4>
                 <p><strong>Modelo:</strong>Logitech H390</p>
-                <p><strong>S/N:</strong> 2309Me01AQY9</p>
+                <p><strong>S/N:</strong> 2309ME01AQY9</p>
                 <p><strong>Patrimônio:</strong> 856</p>
             </div>
         </div>
@@ -190,42 +184,36 @@
         <p><strong>Data de Admissão:</strong></p>
         <p><strong>Data de Demissão:</strong></p>
         <div class="equipamento-container">
-
             <div class="equipamento-card">
                 <h4>💻 Notebook</h4>
                 <p><strong>Patrimônio:</strong> 1522</p>
                 <p><strong>Série:</strong> PE9014315053</p>
                 <p><strong>Modelo:</strong> Lenovo V15 G3</p>
             </div>
-
             <div class="equipamento-card">
                 <h4>⌨️ Teclado e Mouse</h4>
                 <p><strong>Patrimônio:</strong> 1515 - 1005</p>
                 <p><strong>Série:</strong> 2345CE4BA568 - 2343LZX861V8</p>
                 <p><strong>Modelo:</strong> Logitech MK270</p>
             </div>
-
             <div class="equipamento-card">
                 <h4>🎧 Fone</h4>
                 <p><strong>Patrimônio:</strong> 888</p>
                 <p><strong>Série:</strong> 2316ME02F898</p>
                 <p><strong>Modelo:</strong> Logitech H390</p>
             </div>
-
             <div class="equipamento-card">
                 <h4>🔩 Suporte de Alumínio para Notebook</h4>
                 <p><strong>Patrimônio:</strong> 1226</p>
                 <p><strong>Série:</strong></p>
                 <p><strong>Modelo:</strong> Alumínio</p>
             </div>
-
             <div class="equipamento-card">
                 <h4>🔌 Carregador Motorola</h4>
                 <p><strong>Patrimônio:</strong> 1225</p>
                 <p><strong>Série:</strong> SA18D5739</p>
                 <p><strong>Modelo:</strong> MC-107</p>
             </div>
-
             <div class="device">
                 <h4>⚡ Fonte</h4>
                 <p><strong>Patrimônio:</strong> 1227</p>
@@ -404,7 +392,7 @@
         </div>
     </div>
 
-    <div class="card-box">
+    <div class="card-box caixa-red" > <!-- Validar caixa -->
         <h2>📦ID Caixa: 11</h2>
         <h3>👤 Mariane de Souza Pinheiro</h3>
         <p><strong>Departamento:</strong> Telemedicina</p>
