@@ -68,7 +68,8 @@
                 <p><strong>Patrimônio: </strong>657</p>
                 <p><strong>Série: </strong>274048218</p>
                 <p><strong>Modelo: </strong>Jabra HSC016</p>
-            </div>la
+            </div>
+            la
             <div class="device">
                 <h4>📱 Celular</h4>
                 <p><strong>Patrimônio: </strong>663</p>
@@ -1399,7 +1400,7 @@
             <div class="device">
                 <h4>🔩 Suporte de Alumínio para Notebook</h4>
                 <p><strong>Patrimônio: </strong> 365</p>
-                <p><strong>Série: </strong> </p>
+                <p><strong>Série: </strong></p>
                 <p><strong>Modelo: </strong> Alumínio</p>
             </div>
             <div class="device">
@@ -2663,6 +2664,42 @@
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <h3>👤 Daniel Braz</h3>
+        <p><strong>Cargo:</strong>Desenvolvedor Fullstack PL</p>
+        <p><strong>Departamento:</strong>Desenvolvimento</p>
+        <p><strong>E-mail:</strong>daniel.braz@amorsaude.com</p>
+        <p><strong>CPF:</strong>125.722.706-84</p>
+        <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
+        <p><span class="status Online">Status: Online</span></p>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio:</strong>1576</p>
+                <p><strong>Série:</strong>peock1k8</p>
+                <p><strong>Modelo:</strong>Lenovo v15 G3 IAP</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>893</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Aluminio</p>
+            </div>
+            <div class="device">
+                <h4>⌨️🖱️Teclado e Mouse</h4>
+                <p><strong>Patrimônio:</strong>1575</p>
+                <p><strong>Série:</strong>2347CE267D98</p>
+                <p><strong>Modelo:</strong>Logitech MK270</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio:</strong>1167</p>
+                <p><strong>Série:</strong>VN-ORMH97-LXN00-43S-07NK-AO1</p>
+                <p><strong>Modelo:</strong>Dell WH1022</p>
             </div>
         </div>
     </div>
@@ -5841,7 +5878,30 @@
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
         <p><span class="status Online">Status: </span></p>
         <div class="devices">
-            <!-- Equipamentos a serem adicionados -->
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>1174</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Aluminio</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio:</strong>1173</p>
+                <p><strong>Série:</strong>vn-ormh97-lxn00-43s-050h-a01</p>
+                <p><strong>Modelo:</strong>Dell HS2201</p>
+            </div>
+            <div class="device">
+                <h4>⌨️🖱️Teclado e Mouse</h4>
+                <p><strong>Patrimônio:</strong>1526</p>
+                <p><strong>Série:</strong>2345CE4B4F8</p>
+                <p><strong>Modelo:</strong>Logitech MK270</p>
+            </div>
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio:</strong>1194</p>
+                <p><strong>Série:</strong>peoc9bxc</p>
+                <p><strong>Modelo:</strong>Lenovo Win-11</p>
+            </div>
         </div>
         <div class="devices">
             <div class="responsibility-link">
@@ -8947,7 +9007,7 @@
             <div class="device">
                 <h4>🔩 Suporte</h4>
                 <p><strong>Patrimônio: </strong> 963</p>
-                <p><strong>Série: </strong> N/A</p>
+                <p><strong>Série: </strong></p>
                 <p><strong>Modelo: </strong> Alumínio</p>
             </div>
             <div class="device">
