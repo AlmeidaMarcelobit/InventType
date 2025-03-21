@@ -93,11 +93,11 @@ body {
     font-weight: bold;
 }
 
-.status.Online {
+.online {
     color: green;
 }
 
-.status.Offline {
+.offline {
     color: red;
 }
 
