@@ -16,7 +16,7 @@
 <body>
     <?php include '../includes/header.php';  ?>
     <h2 style="text-align:center; margin-top: 10px">🏭Estoque de Kits</h2>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 01</h2>
         <p><strong>Substituição:</strong> Guilherme Neto</p>
         <p><strong>Departamento:</strong> Relacionamento com Profissionais da Saúde</p>
@@ -55,7 +55,7 @@
     </div>
 
 
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 02</h2>
         <p><strong>Substituição:</strong> Felipe Fernandes</p>
         <p><strong>Departamento:</strong> Inteligência de Negócio</p>
@@ -90,7 +90,7 @@
             <p><strong>Alerta:</strong> Alocado temporariamente para Bruna Alitéia de Souza Branco</p>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 03</h2>
         <p><strong>Substituição:</strong> Amanda Gazetta Amigo</p>
         <p><strong>Departamento:</strong> Inteligência de Negócio</p>
@@ -134,7 +134,7 @@
             <p><strong>Alerta:</strong> Alocado temporariamente para Jocasta Pires</p>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦 ID Caixa: 04</h2>
         <p><strong>Substituição:</strong> Dione Antonio dos Santos</p>
         <p><strong>Departamento:</strong> Inteligência de Negócio</p>
@@ -174,7 +174,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦 ID Caixa: 05</h2>
         <p><strong>Cargo:</strong>Consultor de Operação</p>
         <p><strong>Departamento:</strong> Consultoria</p>
@@ -222,7 +222,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 06</h2>
         <p><strong>Substituição:</strong>Gabriel Carrasco De Carvalho</p>
         <p><strong>Cargo:</strong>Consultor De Operações</p>
@@ -264,7 +264,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 07</h2>
         <p><strong>Substituição:</strong>Felipe Fernandes</p>
         <p><strong>Cargo</strong></p>
@@ -304,7 +304,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa:08</h2>
         <p><strong>Substituição:</strong></p>
         <p><strong>Departamento:</strong>Consultoria</p>
@@ -343,7 +343,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 09</h2>
         <p><strong>Substituição:</strong>Priscila Moreira Faquim</p>
         <p><strong>Departamento:</strong>Consultoria</p>
@@ -392,7 +392,7 @@
         </div>
     </div>
 
-    <div class="card-box caixa-red" > <!-- Validar caixa -->
+    <div class="card caixa-red"> <!-- Validar caixa -->
         <h2>📦ID Caixa: 11</h2>
         <h3>👤 Mariane de Souza Pinheiro</h3>
         <p><strong>Departamento:</strong> Telemedicina</p>
@@ -431,7 +431,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 12</h2>
         <p><strong>Substituição:</strong>Edson Ortolan Junior</p>
         <p><strong>Departamento:</strong>Consultoria</p>
@@ -466,7 +466,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 13</h2>
         <p><strong>Substituição:</strong></p>
         <p><strong>Departamento:</strong></p>
@@ -499,7 +499,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 14</h2>
         <p><strong>Substituição:</strong></p>
         <p><strong>Departamento:</strong></p>
@@ -526,7 +526,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 15</h2>
         <p><strong>Substituição:</strong>Leandro Alves Hernandes</p>
         <p><strong>Departamento:</strong></p>
@@ -567,7 +567,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 16</h2>
         <p><strong>Substituição:</strong>Nicole Sousa Cimento</p>
         <p><strong>Departamento:</strong>Consultor de Operações</p>
@@ -608,7 +608,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa:17</h2>
         <p><strong>Substituição:</strong>Wendell Alessandro Candido Oliveira</p>
         <p><strong>Departamento:</strong>Pessoas & Cultura</p>
@@ -649,7 +649,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 18</h2>
         <p><strong>Substituição:</strong>Natanael Zavanela</p>
         <p><strong>Departamento:</strong>Consultor De Operações</p>
@@ -690,7 +690,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 19</h2>
         <p><strong>Substituição:</strong>Fernando Vinicius Silva</p>
         <p><strong>Departamento:</strong>Consultoria</p>
@@ -732,7 +732,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 20</h2>
         <p><strong>Substituição:</strong>Jade Rodrigues</p>
         <p><strong>Departamento:</strong>Operação</p>
@@ -773,7 +773,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 21</h2>
         <p><strong>Substituição:</strong></p>
         <p><strong>Departamento:</strong>Operação</p>
@@ -806,7 +806,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 22</h2>
         <p><strong>Substituição:</strong></p>
         <p><strong>Departamento:</strong>Biomedico - Operação</p>
@@ -847,7 +847,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 23</h2>
         <p><strong>Substituição:</strong>Gabriela Georgete</p>
         <p><strong>Departamento:</strong>Financeiro</p>
@@ -888,7 +888,7 @@
             </div>
         </div>
     </div>
-    <div class="card-box caixa-red">
+    <div class="card caixa-red">
         <h2>📦ID Caixa: 36</h2>
         <h3>Sidnei de Aguiar</h3>
         <p><strong>CPF:</strong> 472.163.118-92</p>
@@ -934,7 +934,7 @@
             <p><strong>Alerta:</strong></p>
         </div>
     </div>
-    <div class="card-box">
+    <div class="card">
         <h2>📦ID Caixa: 37</h2>
         <p><strong>Substituição:</strong> William Lima</p>
         <p><strong>Departamento:</strong> </p>
@@ -975,7 +975,7 @@
         </div>
     </div>
 
-    <div class="card-box">
+    <div class="card">
         <!--    <img src="" alt="Foto do Colaborador" class="profile-pic">-->
         <h2>📦ID Caixa: 41</h2>
         <h3>👤 Driéle Corsi Claro</h3>
