@@ -23,6 +23,7 @@
             <p><strong>Modelo:</strong>Galaxy A03</p>
             <p><strong>Serie:</strong></p>
             <p><strong>Patrimonio:</strong>591</p>
+            <p><strong>Centro de Custo:</strong>13004 - Projetos / Processos</p>
             <p><strong>Status:</strong>Bloqueado</p>
         </div>
         <div class="card-phone">
@@ -37,6 +38,7 @@
             <p><strong>Modelo:</strong>Galaxy A03</p>
             <p><strong>Serie:</strong></p>
             <p><strong>Patrimonio:</strong>579</p>
+            <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
             <p><strong>Status:</strong>Bloqueado</p>
         </div>
         <div class="card-phone">
@@ -51,6 +53,7 @@
             <p><strong>Modelo:</strong>Galaxy A03</p>
             <p><strong>Serie:</strong></p>
             <p><strong>Patrimonio:</strong>538</p>
+            <p><strong>Centro de Custo:</strong>13021 - Gerência Pessoas e Cultura</p>
             <p><strong>Status:</strong>Bloqueado</p>
         </div>
         <div class="card-phone">
@@ -60,6 +63,7 @@
             <p><strong>Patrimonio:</strong>668</p>
             <p><strong>IMEI 1:</strong>350916877000847</p>
             <p><strong>IMEI 2:</strong>354654237000845</p>
+            <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
         </div>
         <div class="card-phone">
             <h3>Celular 07</h3>
@@ -68,6 +72,7 @@
             <p><strong>Patrimonio:</strong>667</p>
             <p><strong>IMEI 1:</strong>350916877023195</p>
             <p><strong>IMEI 2:</strong>354654237023193</p>
+            <p><strong>Centron de Custo:</strong>12006 - Regional 1</p>
         </div>
         <div class="card-phone">
             <h3>Celular 08</h3>
@@ -76,6 +81,7 @@
             <p><strong>Patrimonio:</strong>1171</p>
             <p><strong>IMEI 1:</strong>354673303308718/07</p>
             <p><strong>IMEI 2:</strong>354673303308726/07</p>
+            <p><strong>Centro de Custo: </strong>13006 - Pessoas & Cultura</p>
         </div>
         <div class="card-phone">
             <h3>Celular 09</h3>
@@ -83,6 +89,7 @@
             <p><strong>Serie:</strong></p>
             <p><strong>Patrimonio:</strong>510</p>
             <p><strong>Status:</strong>Bloqueado</p>
+            <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
         </div>
         <div class="card-phone">
             <h3>Celular 10</h3>
@@ -91,6 +98,7 @@
             <p><strong>Patrimonio:</strong>545</p>
             <p><strong>IMEI 1:</strong>351989271933664</p>
             <p><strong>IMEI 2:</strong>353297231933669</p>
+            <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
         </div>
     </div>
     <footer>
