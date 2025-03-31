@@ -58,7 +58,7 @@
         <div class="item-device">
             <h3>💻Maquina 08</h3>
             <p><strong>Modelo:</strong>Lenovo IdeaPad 3-15ALC6</p>
-            <p><strong>Serie:</strong>PE09FTL5</p>
+            <p><strong>Serie:</strong>PE09FTL5</p>w
             <p><strong>Patrimonio:</strong>191</p>
         </div>
         <div class="item-device">
@@ -73,6 +73,48 @@
             <p><strong>Serie:</strong>JTZHNY3</p>
             <p><strong>Patrimonio:</strong>436</p>
             <p><strong>Alocado:</strong>Isabela Cristina De Sousa Ponce Santana</p>
+        </div>
+        <div class="item-device">
+            <h3>💻Maquina 11</h3>
+            <p><strong>Modelo:</strong>Dell Inspiron 15</p>
+            <p><strong>Serie:</strong>6F53R23</p>
+            <p><strong>Patrimonio:</strong>019</p>
+        </div>
+        <div class="item-device">
+            <h3>💻Maquina 12</h3>
+            <p><strong>Modelo:</strong>Dell Inspiron 15 3567</p>
+            <p><strong>Serie:</strong>7SMGDQ2</p>
+            <p><strong>Patrimonio:</strong>009</p>
+        </div>
+        <div class="item-device">
+            <h3>💻Maquina 13</h3>
+            <p><strong>Modelo:</strong>Dell Inspiron 3584</p>
+            <p><strong>Serie:</strong>6F21R23</p>
+            <p><strong>Patrimonio:</strong>103</p>
+        </div>
+        <div class="item-device">
+            <h3>💻Maquina 14</h3>
+            <p><strong>Modelo:</strong>Dell Inspiron 3583</p>
+            <p><strong>Serie:</strong>2HQJS63</p>
+            <p><strong>Patrimonio:</strong>038</p>
+        </div>
+        <div class="item-device">
+            <h3>💻Maquina 15</h3>
+            <p><strong>Modelo:</strong>Dell Inspiron 3567</p>
+            <p><strong>Serie:</strong>JQD14W2</p>
+            <p><strong>Patrimonio:</strong>036</p>
+        </div>
+        <div class="item-device">
+            <h3>💻Maquina 16</h3>
+            <p><strong>Modelo:</strong>Dell Inspiron 15 3567</p>
+            <p><strong>Serie:</strong>7QMMDQ2</p>
+            <p><strong>Patrimonio:</strong>050</p>
+        </div>
+        <div class="item-device">
+            <h3>💻Maquina 17</h3>
+            <p><strong>Modelo:</strong>Dell Inspiron 3584</p>
+            <p><strong>Serie:</strong>H7Z87Z2</p>
+            <p><strong>Patrimonio:</strong></p>
         </div>
     </div>
     <footer>
