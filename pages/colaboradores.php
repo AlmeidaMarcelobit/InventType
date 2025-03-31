@@ -6686,7 +6686,7 @@
         <p><strong>Departamento: </strong> BackOffice</p>
         <p><strong>E-mail: </strong> karen.ramos@amorsaude.com</p>
         <p><strong>CPF: </strong> 405.22.938-08</p>
-        <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
+        <p><strong>Centro de Custo: </strong> 13020 - Treinamentos</p>
         <p><span class=" online">: </span></p>
         <div class="devices">
             <div class="device">
