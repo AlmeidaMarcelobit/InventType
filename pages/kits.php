@@ -1016,6 +1016,41 @@
         <p><strong>CPF:</strong>323.808.848-38</p>
         <p><strong>Centro de Custo:</strong>12006 - Gestão de Rede</p>
     </div>
+    <div class="card">
+        <h2>📦ID Caixa: 43</h2>
+        <h3>👤 Viviane Tosta Oliveira</h3>
+        <p><strong>Cargo:</strong>Analista de Compras</p>
+        <p><strong>Departamento:</strong>Financeiro</p>
+        <p><strong>E-mail:</strong></p>
+        <p><strong>CPF:</strong>346.756.148-92</p>
+        <p><strong>Centro de Custo:</strong>13001 - Financeiro</p>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio:</strong></p>
+                <p><strong>Série:</strong>CLBFD14</p>
+                <p><strong>Modelo:</strong>Dell Vostro 3520</p>
+            </div>
+            <div class="device">
+                <h4>⌨️🖱️Teclado e Mouse</h4>
+                <p><strong>Patrimônio:</strong></p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong></p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio:</strong>766</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>819</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Aluminio</p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <footer>
