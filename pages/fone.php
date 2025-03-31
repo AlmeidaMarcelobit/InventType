@@ -85,12 +85,6 @@
             <p><strong>Patrimônio:</strong>897</p>
         </div>
         <div class="device">
-            <h3>📦ID Caixa: 35</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong></p>
-            <p><strong>Patrimônio:</strong>766</p>
-        </div>
-        <div class="device">
             <h3>📦ID Caixa: 38</h3>
             <p><strong>Modelo:</strong>Logitech H390</p>
             <p><strong>S/N:</strong>2331AY02D848</p>
