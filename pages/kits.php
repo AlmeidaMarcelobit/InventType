@@ -1051,6 +1051,15 @@
             </div>
         </div>
     </div>
+    <div class="card">
+        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <h3>👤 Nome do Colaborador</h3>
+        <p><strong>Cargo:</strong></p>
+        <p><strong>Departamento:</strong></p>
+        <p><strong>E-mail:</strong></p>
+        <p><strong>CPF:</strong></p>
+        <p><strong>Centro de Custo:</strong></p>
+    </div>
 </div>
 
 <footer>
