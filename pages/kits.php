@@ -1052,13 +1052,38 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
-        <h3>👤 Nome do Colaborador</h3>
+        <h2>📦ID Caixa: 44</h2>
+        <p><strong>Subtituição:</strong> Lethicia Eliane Souza Martins</p>
         <p><strong>Cargo:</strong></p>
         <p><strong>Departamento:</strong></p>
         <p><strong>E-mail:</strong></p>
         <p><strong>CPF:</strong></p>
-        <p><strong>Centro de Custo:</strong></p>
+        <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
+        <div class="devices">
+            <div class="device">
+                <h4>⌨️🖱️ Teclado e Mouse</h4>
+                <p><strong>Patrimônio: </strong> 433</p>
+                <p><strong>Série: </strong> 224CE257B58</p>
+                <p><strong>Modelo: </strong> MK270</p>
+            </div>
+            <div class="device">
+                <h4>🖱️Mouse</h4>
+                <p><strong>Patrimônio: </strong> 433</p>
+                <p><strong>Série: </strong> 2241LZX1ULS8</p>
+                <p><strong>Modelo: </strong> M185</p>
+            </div>
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio: </strong> 248</p>
+                <p><strong>Série: </strong> 9JLQXW3</p>
+                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Headset</h4>
+                <p><strong>Patrimônio: </strong> 1019</p>
+                <p><strong>Série: </strong> 2224MECKSFU9</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
     </div>
 </div>
 
