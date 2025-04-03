@@ -59,4 +59,9 @@ rebase_opencommit.bat
 =======
 .idea/workspace.xml
 /.idea
+<<<<<<< HEAD
 >>>>>>> ca49934 (🎉 1.0.0)
+=======
+.idea/workspace.xml
+.idea/php.xml
+>>>>>>> 715b17f (🐛 1.7.14)
