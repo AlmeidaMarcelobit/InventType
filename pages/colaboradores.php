@@ -12191,7 +12191,7 @@
     <div class="card">
         <img src="../imagem/Walkiria%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Walkiria Oliveira Silva</h3>
-        <p><strong>Cargo: </strong> Analista Administronline PL</p>
+        <p><strong>Cargo: </strong> Analista Adminsitrativo PL</p>
         <p><strong>Departamento: </strong> Operações Plano</p>
         <p><strong>E-mail: </strong> walkiria.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 067.368.296-07</p>
