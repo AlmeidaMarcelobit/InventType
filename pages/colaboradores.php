@@ -3803,12 +3803,6 @@
                 <p><strong>Série: </strong> 384925183</p>
                 <p><strong>Modelo: </strong> Dell WH1022</p>
             </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong></p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong></p>
-            </div>
         </div>
         <h2>Equipamentos Comprometidos</h2>
         <div class="device">
@@ -5712,11 +5706,19 @@
             </div>
         </div>
         <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> Logitech H390</p>
-            <p><strong>Série: </strong> 2316ME02FJ9</p>
-            <p><strong>Modelo: </strong> 901</p>
+        <div class="devices">
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 895</p>
+                <p><strong>Série: </strong> </p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> Logitech H390</p>
+                <p><strong>Série: </strong> </p>
+                <p><strong>Modelo: </strong> 901</p>
+            </div>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
@@ -7532,13 +7534,19 @@
         <p><strong>E-mail: </strong> lethicia.martins@amorsaude.com</p>
         <p><strong>CPF: </strong> 480.185.558-00</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
                 <p><strong>Patrimônio: </strong> 433</p>
-                <p><strong>Série: </strong> 224CE257B59, 2241LZX1ULS8</p>
+                <p><strong>Série: </strong> 224CE257B58</p>
                 <p><strong>Modelo: </strong> MK270</p>
+            </div>
+            <div class="device">
+                <h4>🖱️Mouse</h4>
+                <p><strong>Patrimônio: </strong> 433</p>
+                <p><strong>Série: </strong> 2241LZX1ULS8</p>
+                <p><strong>Modelo: </strong> M185</p>
             </div>
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -9923,7 +9931,12 @@
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
         <span class="">: </span>
         <div class="devices">
-            <!-- Equipamentos ainda não fornecidos -->
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 1051</p>
+                <p><strong>Série: </strong> 2421AY021MB8</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
@@ -10154,6 +10167,12 @@
                 <p><strong>Patrimônio: </strong> 1002</p>
                 <p><strong>Série: </strong> 2330AYO304CB</p>
                 <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🖥️ Monitor</h4>
+                <p><strong>Patrimônio:</strong>039</p>
+                <p><strong>Série:</strong>BR-OOCPG1-TVB00-04E-2FIU-A08</p>
+                <p><strong>Modelo:</strong>Dell P2018HC</p>
             </div>
         </div>
         <div class="devices">
@@ -10565,6 +10584,12 @@
                 <h4>🖥️ Monitor</h4>
                 <p><strong>Patrimônio: </strong> 390</p>
                 <p><strong>Série: </strong> 303AZQV96524</p>
+                <p><strong>Modelo: </strong> LG 22MP410-B</p>
+            </div>
+            <div class="device">
+                <h4>🖥️ Monitor</h4>
+                <p><strong>Patrimônio: </strong> 391</p>
+                <p><strong>Série: </strong> 303AZSP96526</p>
                 <p><strong>Modelo: </strong> LG 22MP410-B</p>
             </div>
             <div class="device">
