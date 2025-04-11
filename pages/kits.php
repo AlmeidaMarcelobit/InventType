@@ -1191,6 +1191,44 @@
             </div>
         </div>
     </div>
+    <div class="card">
+        <h2>📦ID Caixa: 49</h2>
+        <p><strong>Substituição:</strong>Larissa Izabela de Freitas</p>
+        <p><strong>Departamento:</strong></p>
+        <p><strong>Centro de Custo:</strong>32001 - Cirurgias</p>
+        <div class="devices">
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 911</p>
+                <p><strong>Série: </strong> 2332ME01XKY8</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio: </strong> 1449</p>
+                <p><strong>Série: </strong> 4LBFD14</p>
+                <p><strong>Modelo: </strong> Dell Vostro 3520</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio: </strong> 936</p>
+                <p><strong>Série: </strong> N/A</p>
+                <p><strong>Modelo: </strong> Alumínio</p>
+            </div>
+            <div class="device">
+                <h4>⌨️ Teclado</h4>
+                <p><strong>Patrimônio: </strong> 1520</p>
+                <p><strong>Série: </strong> 233ACE2DA858</p>
+                <p><strong>Modelo: </strong> logitech k270</p>
+            </div>
+            <div class="device">
+                <h4>🖱️ Mouse</h4>
+                <p><strong>Patrimônio: </strong> 1039</p>
+                <p><strong>Série: </strong> 2331LZXRRGC8</p>
+                <p><strong>Modelo: </strong> Logitech M185</p>
+            </div>
+        </div>
+    </div>
     <footer>
         <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
     </footer>
