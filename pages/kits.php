@@ -1045,7 +1045,7 @@
     </div>
     <div class="card">
         <h2>📦ID Caixa: 45 </h2>
-        <p><strong>Subtituição:</strong>  Lucas Colbacho</p>
+        <p><strong>Subtituição:</strong> Lucas Colbacho</p>
         <p><strong>Cargo:</strong></p>
         <p><strong>Departamento:</strong></p>
         <p><strong>E-mail:</strong></p>
@@ -1162,6 +1162,32 @@
                 <p><strong>Patrimônio:</strong>1040</p>
                 <p><strong>Série:</strong></p>
                 <p><strong>Modelo:</strong>Aluminio</p>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <h2>📦ID Caixa: 48</h2>
+        <p><strong>Substituição:</strong>Amanda Dualattka Marcolino</p>
+        <p><strong>Departamento:</strong></p>
+        <p><strong>Centro de Custo:</strong>12002 - SAC</p>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Modelo:</strong>Dell Latitude</p>
+                <p><strong>S/N:</strong>1VZHNY3</p>
+                <p><strong>Patrimônio:</strong>313</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>865</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Alumínio</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio:</strong>885</p>
+                <p><strong>Série:</strong>2316ME02F8G8 </p>
+                <p><strong>Modelo:</strong>Logitech H390</p>
             </div>
         </div>
     </div>
