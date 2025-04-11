@@ -1084,12 +1084,55 @@
                 <p><strong>Série: </strong> 2224MECKSFU9</p>
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
+        </div>
     </div>
-</div>
+    <div class="card">
+        <h2>📦ID Caixa: 45 </h2>
+        <p><strong>Subtituição:</strong>  Lucas Colbacho</p>
+        <p><strong>Cargo:</strong></p>
+        <p><strong>Departamento:</strong></p>
+        <p><strong>E-mail:</strong></p>
+        <p><strong>CPF:</strong></p>
+        <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
+        <div class="devices">
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 912</p>
+                <p><strong>Série: </strong> 2332ME01XK68</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio: </strong> 956</p>
+                <p><strong>Série: </strong> N/A</p>
+                <p><strong>Modelo: </strong> Alumínio</p>
+            </div>
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio: </strong> 295</p>
+                <p><strong>Série: </strong> 1P3M0T3</p>
+                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
+            </div>
+            <div class="device">
+                <h4>📱 Celular</h4>
+                <p><strong>Patrimônio: </strong> 999</p>
+                <p><strong>Série: </strong> ZF52494NGK</p>
+                <p><strong>Modelo: </strong> Moto E13</p>
+                <p><strong>IMEI 1: </strong> 359340983552453/05</p>
+                <p><strong>IMEI 2: </strong> 359340983552461/05</p>
+            </div>
+            <div class="device">
+                <h4>⌨️🖱️ Teclado e Mouse</h4>
+                <p><strong>Patrimônio: </strong> 297</p>
+                <p><strong>Série: </strong> 2243CE258119 - 2240LZN1KFY8</p>
+                <p><strong>Modelo: </strong> MK270 - M185</p>
+            </div>
+        </div>
+    </div>
 
-<footer>
-    <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
-</footer>
+    <footer>
+        <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
+    </footer>
 
 </body>
 
