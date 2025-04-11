@@ -91,50 +91,7 @@
             <p><strong>Alerta:</strong> Alocado temporariamente para Bruna Alitéia de Souza Branco</p>
         </div>
     </div>
-    <div class="card">
-        <h2>📦ID Caixa: 03</h2>
-        <p><strong>Substituição:</strong> Amanda Gazetta Amigo</p>
-        <p><strong>Departamento:</strong> Inteligência de Negócio</p>
-        <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Modelo:</strong>Ideapad3 15alc6</p>
-                <p><strong>S/N:</strong>PE09781x</p>
-                <p><strong>Patrimônio:</strong>166</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Modelo:</strong> Galaxy A03 Core</p>
-                <p><strong>S/N:</strong>R9QW800QQ6R</p>
-                <p><strong>Patrimônio:</strong> 806</p>
-                <p><strong>IMEI 1:</strong>350589197094384</p>
-                <p><strong>IMEI 2:</strong>353306167094386</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Modelo:</strong>Dell P2018HC</p>
-                <p><strong>S/N:</strong> 1232C03</p>
-                <p><strong>Patrimônio:</strong> 043</p>
-            </div>
-            <div class="device">
-                <h4>⌨️🖱️Teclado e Mouse</h4>
-                <p><strong>Modelo:</strong>Logitech MK235</p>
-                <p><strong>S/N:</strong>2207LZX4F248</p>
-                <p><strong>Patrimônio:</strong>185 -578</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Modelo:</strong>Logitech H390</p>
-                <p><strong>S/N:</strong> 2315Ay07AC39</p>
-                <p><strong>Patrimônio:</strong> 876</p>
-            </div>
-        </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta:</strong> Alocado temporariamente para Jocasta Pires</p>
-        </div>
-    </div>
+
     <div class="card">
         <h2>📦 ID Caixa: 04</h2>
         <p><strong>Substituição:</strong> Dione Antonio dos Santos</p>
@@ -1170,7 +1127,44 @@
             </div>
         </div>
     </div>
-
+    <div class="card">
+        <h2>📦ID Caixa: 47</h2>
+        <p><strong>Substituição:</strong> Amanda Gazetta Amigo</p>
+        <p><strong>Departamento:</strong></p>
+        <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Modelo:</strong>Ideapad3 15alc6</p>
+                <p><strong>S/N:</strong>PE09781X</p>
+                <p><strong>Patrimônio:</strong>166</p>
+            </div>
+            <div class="device">
+                <h4>⌨️Teclado</h4>
+                <p><strong>Modelo:</strong>Logitech K270</p>
+                <p><strong>S/N:</strong>2243CE258128</p>
+                <p><strong>Patrimônio:</strong>263</p>
+            </div>
+            <div class="device">
+                <h4>🖱️Mouse</h4>
+                <p><strong>Modelo:</strong>Logitech M185</p>
+                <p><strong>S/N:</strong>2240LZN1KG68</p>
+                <p><strong>Patrimônio:</strong>1041</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Modelo:</strong>Logitech H390</p>
+                <p><strong>S/N:</strong> 2315Ay07AC39</p>
+                <p><strong>Patrimônio:</strong> 876</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>1040</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Aluminio</p>
+            </div>
+        </div>
+    </div>
     <footer>
         <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
     </footer>
