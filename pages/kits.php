@@ -1129,6 +1129,47 @@
             </div>
         </div>
     </div>
+    <div class="card">
+        <h2>📦ID Caixa: 46</h2>
+        <p><strong>Subtituição:</strong></p>
+        <p><strong>Cargo:</strong></p>
+        <p><strong>Departamento:</strong></p>
+        <p><strong>E-mail:</strong></p>
+        <p><strong>CPF:</strong></p>
+        <p><strong>Centro de Custo:</strong>Financeiro</p>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio:</strong>201</p>
+                <p><strong>Série:</strong>PE09EEM1</p>
+                <p><strong>Modelo:</strong>Lenovo V15 G2 ITL</p>
+            </div>
+            <div class="device">
+                <h4>⌨️Teclado</h4>
+                <p><strong>Patrimônio:</strong>289</p>
+                <p><strong>Série:</strong>2243CE257D58</p>
+                <p><strong>Modelo:</strong>Logitech K270</p>
+            </div>
+            <div class="device">
+                <h4>🖱️Mouse</h4>
+                <p><strong>Patrimônio:</strong>1149</p>
+                <p><strong>Série:</strong>2241LZX1UAZ8</p>
+                <p><strong>Modelo:</strong>Logitech M185</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio:</strong>773</p>
+                <p><strong>Série:</strong>0039425832</p>
+                <p><strong>Modelo:</strong>Jabra HSC016</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>821</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Aluminio</p>
+            </div>
+        </div>
+    </div>
 
     <footer>
         <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
