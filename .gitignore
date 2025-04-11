@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignorar configurações do PHPStorm
 .idea/
 
@@ -65,3 +66,8 @@ rebase_opencommit.bat
 .idea/workspace.xml
 .idea/php.xml
 >>>>>>> 715b17f (🐛 1.7.14)
+=======
+.idea\*
+.idea\php.xml
+*.xml
+>>>>>>> 295a89d (📝 docs: atualiza o .gitignore para ignorar arquivos da IDE e remove arquivos desnecessários)
