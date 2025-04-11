@@ -5710,13 +5710,13 @@
             <div class="device">
                 <h4>🎧 Fone</h4>
                 <p><strong>Patrimônio: </strong> 895</p>
-                <p><strong>Série: </strong> </p>
+                <p><strong>Série: </strong></p>
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
             <div class="device">
                 <h4>🎧 Fone</h4>
                 <p><strong>Patrimônio: </strong> Logitech H390</p>
-                <p><strong>Série: </strong> </p>
+                <p><strong>Série: </strong></p>
                 <p><strong>Modelo: </strong> 901</p>
             </div>
         </div>
@@ -12407,10 +12407,13 @@
         <p><strong>: </strong> online</p>
         <div class="devices">
             <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
+                <h4>⌨️Teclado</h4>
                 <p><strong>Patrimônio (Teclado): </strong> 347</p>
                 <p><strong>Série (Teclado): </strong> 2234CE182209</p>
                 <p><strong>Patrimônio (Mouse): </strong> 348</p>
+            </div>
+            <div class="device">
+                <h4>🖱️ Mouse</h4>
                 <p><strong>Série (Mouse): </strong> 2230LZN0ZN78</p>
                 <p><strong>Modelo: </strong> Logitech MK270</p>
             </div>
