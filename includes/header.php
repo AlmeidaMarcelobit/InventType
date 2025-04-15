@@ -2,9 +2,17 @@
     <nav class="nav" aria-label="Main navigation">
         <ul>
             <li><a href="../includes/index.php">Home</a></li>
-            <li><a href="../pages/colaboradores.php">Colaboradores</a></li>
+
+            <li class="drop" aria-haspopup="true" aria-expanded="false">
+                <a href="#">Colaboradores ▾</a>
+                <ul class="dropdown" aria-label="Submenu">
+                    <li><a href="../colaboradores/Seção%20A.php">Seção A</a></li>
+                </ul>
+            </li>
+
             <li><a href="#">Centro de Custo</a></li>
             <li><a href="../pages/monitoramento-park.php">Monitoramento Parque</a></li>
+
             <li class="drop" aria-haspopup="true" aria-expanded="false">
                 <a href="#">Estoque ▾</a>
                 <ul class="dropdown" aria-label="Submenu">
