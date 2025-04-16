@@ -10022,7 +10022,7 @@
         <p><strong>E-mail: </strong> tamara.saturno@amorsaude.com</p>
         <p><strong>CPF: </strong> 368.245.228-13</p>
         <p><strong>Centro de Custo: </strong> 13019 - Suporte</p>
-        <p><strong>: </strong> online</p>
+        <p class="online"><strong>Status: </strong>Online</p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
