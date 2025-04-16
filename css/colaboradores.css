@@ -111,7 +111,17 @@ h2 {
 }
 
 .offline {
-    color: red;
+    display: block;
+    background:#f00;
+    width: 75px;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+    font-stretch: condensed;
+    font-variant: all-petite-caps;
+    font-weight: bolder;
+    border-radius: 8px;
+    box-shadow: 2px 2px 3px #333333;
 }
 
 footer {
