@@ -13,10 +13,6 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
-
-h2 {
-    margin-top: 90px;
-}
 .card {
     background: #fff;
     padding: 10px;
