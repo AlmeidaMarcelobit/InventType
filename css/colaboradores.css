@@ -97,7 +97,17 @@ h2 {
 }
 
 .online {
-    color: green;
+    display: block;
+    background: green;
+    width: 75px;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+    font-stretch: condensed;
+    font-variant: all-petite-caps;
+    font-weight: bolder;
+    border-radius: 8px;
+    box-shadow: 2px 2px 3px #333333;
 }
 
 .offline {
