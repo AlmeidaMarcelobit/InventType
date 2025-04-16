@@ -74,15 +74,7 @@
             <p><strong>IMEI 2:</strong>354654237023193</p>
             <p><strong>Centron de Custo:</strong>12006 - Regional 1</p>
         </div>
-        <div class="card-phone">
-            <h3>Celular 08</h3>
-            <p><strong>Modelo:</strong>Moto E14</p>
-            <p><strong>Serie:</strong>ZY22K5M9JM</p>
-            <p><strong>Patrimonio:</strong>1171</p>
-            <p><strong>IMEI 1:</strong>354673303308718/07</p>
-            <p><strong>IMEI 2:</strong>354673303308726/07</p>
-            <p><strong>Centro de Custo: </strong>13006 - Pessoas & Cultura</p>
-        </div>
+
         <div class="card-phone">
             <h3>Celular 09</h3>
             <p><strong>Modelo:</strong>Galaxy A03</p>
