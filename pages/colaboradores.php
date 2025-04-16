@@ -10031,6 +10031,14 @@
                 <p><strong>Modelo: </strong> Ideapad3 15ALC6</p>
             </div>
             <div class="device">
+                <h4>📱 Celular</h4>
+                <p><strong>Modelo:</strong>Moto E14</p>
+                <p><strong>Serie:</strong>ZY22K5M9JM</p>
+                <p><strong>Patrimonio:</strong>1171</p>
+                <p><strong>IMEI 1:</strong>354673303308718/07</p>
+                <p><strong>IMEI 2:</strong>354673303308726/07</p>
+            </div>
+            <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
                 <p><strong>Patrimônio: </strong> 1519</p>
                 <p><strong>Série: </strong> 2334CE2DE2C8</p>
