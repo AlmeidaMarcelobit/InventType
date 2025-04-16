@@ -6,7 +6,9 @@
             <li class="drop" aria-haspopup="true" aria-expanded="false">
                 <a href="#">Colaboradores ▾</a>
                 <ul class="dropdown" aria-label="Submenu">
-                    <li><a href="../colaboradores/Seção%20A.php">Seção A</a></li>
+                    <li><a href="../colaboradores/Secao%20A.php">Seção A</a></li>
+                    <li><a href="../colaboradores/Secao%20B.php">Seção B</a></li>
+                    <li><a href="../colaboradores/Secao%20C.php">Seção C</a></li>
                 </ul>
             </li>
 
