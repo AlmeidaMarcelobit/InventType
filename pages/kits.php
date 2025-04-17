@@ -8,7 +8,7 @@
     <meta name="author" content="Marcelo de Araujo Almeida">
     <link rel="stylesheet" href="../css/colaboradores.css">
     <link rel="stylesheet" href="../css/menu-drop.css">
-    <link rel="icon" href="../favicon/favicon-16x16.png">
+    <link rel="icon" href="../favicon/favicon-32x32.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../scripts/menudrop.js" defer></script>
 </head>
@@ -965,15 +965,6 @@
         </div>
     </div>
     <div class="card">
-        <h2>📦ID Caixa: </h2>
-        <h3>👤 Marina Pereira Pardinho Ramos</h3>
-        <p><strong>Cargo:</strong>Analista de Documentações Gestão de Rede SR</p>
-        <p><strong>Departamento:</strong>Gestão de Rede</p>
-        <p><strong>E-mail:</strong>marina.ramos@amorsaude.com</p>
-        <p><strong>CPF:</strong>323.808.848-38</p>
-        <p><strong>Centro de Custo:</strong>12006 - Gestão de Rede</p>
-    </div>
-    <div class="card">
         <h2>📦ID Caixa: 43</h2>
         <h3>👤 Viviane Tosta Oliveira</h3>
         <p><strong>Cargo:</strong>Analista de Compras</p>
@@ -1193,7 +1184,7 @@
     </div>
     <div class="card">
         <h2>📦ID Caixa: 49</h2>
-        <p><strong>Substituição:</strong>Larissa Izabela de Freitas</p>
+        <p><strong>Substituição:</strong>Livia Marcolino(Larissa Izabela de Freitas)</p>
         <p><strong>Departamento:</strong></p>
         <p><strong>Centro de Custo:</strong>32001 - Cirurgias</p>
         <div class="devices">
@@ -1226,6 +1217,40 @@
                 <p><strong>Patrimônio: </strong> 1039</p>
                 <p><strong>Série: </strong> 2331LZXRRGC8</p>
                 <p><strong>Modelo: </strong> Logitech M185</p>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <h2>📦ID Caixa: 50</h2>
+        <p><strong>Substituição:</strong>Marcelo Alexandre Barbosa Martins</p>
+        <p><strong>Cargo: </strong></p>
+        <p><strong>Departamento: </strong> Suporte</p>
+        <p><strong>E-mail: </strong> </p>
+        <p><strong>CPF: </strong> </p>
+        <p><strong>Centro de Custo: </strong> 13019</p>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio: </strong> 1511</p>
+                <p><strong>Série: </strong> BGDTO14</p>
+                <p><strong>Modelo: </strong> Dell Vostro 3520</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 998</p>
+                <p><strong>Série: </strong> 2330AY030ACB</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>⌨️🖱️ Teclado e Mouse</h4>
+                <p><strong>Patrimônio: </strong> 1508</p>
+                <p><strong>Série: </strong> 2345CE4BAA588</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio: </strong> 1000</p>
+                <p><strong>Modelo: </strong> Alumínio</p>
             </div>
         </div>
     </div>
@@ -1279,6 +1304,15 @@
     </div>
     <div class="card">
         <h2>📦ID Caixa: </h2>
+        <h3>👤 Marina Pereira Pardinho Ramos</h3>
+        <p><strong>Cargo:</strong>Analista de Documentações Gestão de Rede SR</p>
+        <p><strong>Departamento:</strong>Gestão de Rede</p>
+        <p><strong>E-mail:</strong>marina.ramos@amorsaude.com</p>
+        <p><strong>CPF:</strong>323.808.848-38</p>
+        <p><strong>Centro de Custo:</strong>12006 - Gestão de Rede</p>
+    </div>
+    <div class="card">
+        <h2>📦ID Caixa: </h2>
         <p><strong>Colaborador:</strong></p>
         <p><strong>Substituição:</strong></p>
         <p><strong>Cargo:</strong></p>
@@ -1287,6 +1321,7 @@
         <p><strong>CPF:</strong></p>
         <p><strong>Centro de Custo:</strong></p>
     </div>
+
 </div>
     <footer>
         <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
