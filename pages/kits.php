@@ -1269,6 +1269,16 @@
     </div>
     <div class="card">
         <h2>📦ID Caixa: </h2>
+        <p><strong>Colaborador:</strong>Thauany Heloisa Pereira</p>
+        <p><strong>Substituição:</strong></p>
+        <p><strong>Cargo:</strong>Analista de Administração Pessoal JR</p>
+        <p><strong>Departamento:</strong>Pessoas e Cultura</p>
+        <p><strong>E-mail:</strong>thauany.pereira@amorsaude.com</p>
+        <p><strong>CPF:</strong>414.972.498-99</p>
+        <p><strong>Centro de Custo:</strong>13007 - Remuneração e Benefícios</p>
+    </div>
+    <div class="card">
+        <h2>📦ID Caixa: </h2>
         <p><strong>Colaborador:</strong></p>
         <p><strong>Substituição:</strong></p>
         <p><strong>Cargo:</strong></p>
