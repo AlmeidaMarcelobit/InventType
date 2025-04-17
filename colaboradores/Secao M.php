@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong> maicon.facirolli@amorsaude.com</p>
         <p><strong>CPF: </strong> 355.750.548-02</p>
         <p><strong>Centro de Custo: </strong> 12017 - Gerência Operações</p>
-        <p><span class=" inonline">:  Desligado em 16.08.2024</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -200,7 +200,7 @@
         <p><strong>E-mail: </strong> marcelo.martins@amorsaude.com</p>
         <p><strong>CPF: </strong> 306.745.018-37</p>
         <p><strong>Centro de Custo: </strong> 13019</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
