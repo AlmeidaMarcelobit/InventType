@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong> caio.souza@amorsaude.com</p>
         <p><strong>CPF: </strong>458.924.938-30</p>
         <p><strong>Centro de Custo: </strong> 13019 - Suporte</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -63,7 +63,7 @@
         <p><strong>E-mail: </strong> caique.picolo@amorsaude.com</p>
         <p><strong>CPF: </strong> 459.427.748-97</p>
         <p><strong>Centro de Custo: </strong> 14003 - CRM</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -105,7 +105,7 @@
         <p><strong>E-mail: </strong>camila.farias@amorsaude.com</p>
         <p><strong>CPF: </strong> 218.379.668-50</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -152,7 +152,7 @@
         <p><strong>E-mail: </strong>camilla.sousa@amorsaude.com</p>
         <p><strong>CPF: </strong> 402.292.918-99</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -203,7 +203,7 @@
         <p><strong>E-mail: </strong> carla.costa@amorsaude.com</p>
         <p><strong>CPF: </strong> 123.694.346-51</p>
         <p><strong>Centro de Custo: </strong> 18005 - Odontologia</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -252,7 +252,7 @@
         <p><strong>E-mail: </strong> carolina.lopes@amorsaude.com</p>
         <p><strong>CPF: </strong> 079.460.726-86</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -293,7 +293,7 @@
         <p><strong>E-mail: </strong> caroline.lima@amorsaude.com</p>
         <p><strong>CPF: </strong> 083.293.926-94</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -345,7 +345,7 @@
         <p><strong>E-mail: </strong> caua.bacilieri@amorsaude.com</p>
         <p><strong>CPF: </strong> 484.911.558-64</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -396,7 +396,7 @@
         <p><strong>E-mail: </strong> cinthia.viana@amorsaude.com</p>
         <p><strong>CPF: </strong> 425.270.208-95</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -443,7 +443,7 @@
         <p><strong>E-mail: </strong> claudia.ornela@amorsaude.com</p>
         <p><strong>CPF: </strong> 104.448.606-65</p>
         <p><strong>Centro de Custo: </strong> 63001 - Financeiro Soluções</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -504,7 +504,7 @@
         <p><strong>E-mail: </strong> claudia.dias@amorsaude.com</p>
         <p><strong>CPF: </strong> 162.236.378-70</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>

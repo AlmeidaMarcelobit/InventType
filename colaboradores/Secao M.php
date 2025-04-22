@@ -104,6 +104,12 @@
                 <p><strong>Modelo: </strong>Logitech H390</p>
             </div>
             <div class="device">
+                <h4>Adaptador de Rede</h4>
+                <p><strong>Patrimônio: </strong> 558</p>
+                <p><strong>Série: </strong> 2100403922834</p>
+                <p><strong>Modelo: </strong></p>
+            </div>
+            <div class="device">
                 <h4>📱 Smartphone</h4>
                 <p><strong>Patrimônio: </strong> 514</p>
                 <p><strong>Série: </strong> r9qt402h52a</p>
@@ -112,19 +118,33 @@
                 <p><strong>IMEI 2: </strong> 35329723128080/36</p>
             </div>
             <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
-                <p><strong>Teclado Patrimônio: </strong> 197</p>
-                <p><strong>Mouse Patrimônio: </strong> 602</p>
-                <p><strong>Série: </strong> 2217CE091FF9</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
+                <h4>⌨️Teclado</h4>
+                <p><strong>Teclado Patrimônio: </strong> 1451</p>
+                <p><strong>Série: </strong> </p>
+                <p><strong>Modelo: </strong> Dell Pro Premium KB500</p>
+            </div>
+            <div class="device">
+                <h4>🖱️ Mouse</h4>
+                <p><strong>Teclado Patrimônio: </strong> 1030</p>
+                <p><strong>Série: </strong> </p>
+                <p><strong>Modelo: </strong> Dell Pro MS300</p>
             </div>
         </div>
         <h2>Equipamentos Comprometidos</h2>
+        <div class="devices">
+        <div class="device">
+            <h4>⌨️🖱️ Teclado e Mouse</h4>
+            <p><strong>Teclado Patrimônio: </strong> 197</p>
+            <p><strong>Mouse Patrimônio: </strong> 602</p>
+            <p><strong>Série: </strong> 2217CE091FF9</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
         <div class="device">
             <h4>🎧 Fone</h4>
             <p><strong>Patrimônio: </strong> 697</p>
             <p><strong>Série: </strong> 275340856</p>
             <p><strong>Modelo: </strong> Jabra HSC016</p>
+        </div>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>

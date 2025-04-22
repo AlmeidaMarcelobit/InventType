@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong>fabio.rafael@amorsaude.com</p>
         <p><strong>CPF: </strong>415.527.898-70</p>
         <p><strong>Centro de Custo: </strong>13019 - Suporte</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -65,7 +65,7 @@
         <p><strong>E-mail: </strong> fabio.davilla@amorsaude.com</p>
         <p><strong>CPF: </strong> 464.572.868-79</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -88,7 +88,7 @@
         <p><strong>E-mail: </strong> fabiola.quiles@amorsaude.com</p>
         <p><strong>CPF: </strong> 310.755.438-35</p>
         <p><strong>Centro de Custo: </strong> 18006 - Odontologia - Plano</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos, porém ainda não possui o
@@ -109,7 +109,7 @@
         <p><strong>E-mail: </strong> fabricio.florentino@amorsaude.com</p>
         <p><strong>CPF: </strong> 311.682.658-78</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -158,7 +158,7 @@
         <p><strong>E-mail: </strong> felipe.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong>13001 - Financeiro</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Sem termo do colaborador e dados do equipamento</p>
@@ -177,7 +177,7 @@
         <p><strong>E-mail: </strong> felipe.fernandes@amorsaude.com</p>
         <p><strong>CPF: </strong> 410.057.008-26</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de Negócios</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -217,14 +217,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Felipe%20Sacagnhe%20dos%20Santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Felipe Sacagnhe dos Santos</h3>
         <p><strong>Cargo: </strong>Consultora de Operações</p>
         <p><strong>Departamento: </strong>Operação</p>
         <p><strong>E-mail: </strong>felipe.santos@amorsaude.com</p>
         <p><strong>CPF: </strong>391.420.088-08</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2</p>
-        <p><span class=" ativo">: </span></p>
+        <p<p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -290,7 +290,7 @@
         <p><strong>E-mail: </strong> fernanda.barbosa@amorsaude.com</p>
         <p><strong>CPF: </strong> 120.426.446-50</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -352,7 +352,7 @@
         <p><strong>E-mail: </strong> fernanda.espadari@amorsaude.com</p>
         <p><strong>CPF: </strong> 444.709.338-30</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -406,7 +406,7 @@
         <p><strong>E-mail: </strong> fernando.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 373.868.358-50</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -455,7 +455,7 @@
         <p><strong>E-mail: </strong> fabricio.freitas@amorsaude.com</p>
         <p><strong>CPF: </strong> 582.444.093-04</p>
         <p><strong>Centro de Custo: </strong> 13000 - Financeiro</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>

@@ -149,7 +149,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Daniel%20Braz.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daniel Braz</h3>
         <p><strong>Cargo:</strong>Desenvolvedor Fullstack PL</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
