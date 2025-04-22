@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong>daiana.santos@amorsaude.com</p>
         <p><strong>CPF: </strong>366.622.218-80</p>
         <p><strong>Centro de Custo: </strong>12002 - SAC</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -72,7 +72,7 @@
         <p><strong>E-mail: </strong> daiene.priscila@amorsaude.com</p>
         <p><strong>CPF: </strong> 415.939.168-09</p>
         <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -115,7 +115,7 @@
         <p><strong>E-mail: </strong> daila.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 438.983.168-23</p>
         <p><strong>Centro de Custo: </strong> 22005 - Operação Canais Digitais</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -156,7 +156,7 @@
         <p><strong>E-mail:</strong>daniel.braz@amorsaude.com</p>
         <p><strong>CPF:</strong>125.722.706-84</p>
         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-        <p><span class=" online">: online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -192,7 +192,7 @@
         <p><strong>E-mail: </strong> daniel.paula@amorsaude.com</p>
         <p><strong>CPF: </strong> 441.608.948-10</p>
         <p><strong>Centro de Custo: </strong> 72021 - Cadastro</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -232,7 +232,7 @@
         <p><strong>Departamento: </strong> SAC</p>
         <p><strong>E-mail: </strong> dariane.romerio@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -280,7 +280,7 @@
         <p><strong>Departamento: </strong>Dados</p>
         <p><strong>CPF: </strong>417.150.938-60</p>
         <p><strong>Centro de Custo: </strong>13011 - Dados</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -342,7 +342,7 @@
         <p><strong>E-mail: </strong>davi.simoes@amorsaude.com</p>
         <p><strong>CPF: </strong>456.589.498-07</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2 </p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -385,7 +385,7 @@
         <p><strong>E-mail: </strong>dayane.santos@amorsaude.com</p>
         <p><strong>CPF: </strong>383.111.148-03</p>
         <p><strong>Centro de Custo: </strong>72023 - Relacionamento com Cliente / Retensão</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -433,7 +433,7 @@
         <p><strong>E-mail: </strong>deise.leite@amorsaude.com</p>
         <p><strong>CPF: </strong>374.036.148-44</p>
         <p><strong>Centro de Custo: </strong>12011 - Internacional</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -468,7 +468,7 @@
         <p><strong>Departamento: </strong> Gerência Suporte</p>
         <p><strong>E-mail: </strong> diego.blandino@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 13015 - Gerência Dados</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -511,7 +511,7 @@
         <p><strong>E-mail: </strong> dione.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 470.351.168-18</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de negócios</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Equipamento</h4>
@@ -558,7 +558,7 @@
         <p><strong>Cargo: </strong> Gerente de Customer Sucess</p>
         <p><strong>E-mail: </strong> donato.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 021.989.578-33</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
