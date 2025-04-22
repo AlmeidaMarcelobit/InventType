@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong> barbara.carvalho@amorsaude.com</p>
         <p><strong>CPF: </strong> 399.157.218-46</p>
         <p><strong>Centro de Custo: </strong> 12001 - Customer Success</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -64,7 +64,7 @@
         <p><strong>E-mail: </strong> barbara.bidurin@amorsaude.com</p>
         <p><strong>CPF: </strong> 364.431.038-66</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -113,7 +113,7 @@
         <p><strong>E-mail: </strong> beatriz.alves@amorsaude.com</p>
         <p><strong>CPF: </strong> 437.698.308-06</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -173,7 +173,7 @@
         <p><strong>E-mail: </strong> beatriz.moreira@amorsaude.com</p>
         <p><strong>CPF: </strong> 480.559.938-31</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -227,7 +227,7 @@
         <p><strong>E-mail: </strong> beatriz.chaves@amorsaude.com</p>
         <p><strong>CPF: </strong> 331.770.148-09</p>
         <p><strong>Centro de Custo: </strong> 12004 - Experiência do Cliente</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -289,7 +289,7 @@
         <p><strong>E-mail: </strong> beatriz.rezende@amorsaude.com</p>
         <p><strong>CPF: </strong> 446.206.208-66</p>
         <p><strong>Centro de Custo: </strong> 14003 - CRM</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️ Teclado</h4>
@@ -337,7 +337,7 @@
         <p><strong>E-mail: </strong> bianca.duzzi@amorsaude.com</p>
         <p><strong>CPF: </strong> 484.879.158-84</p>
         <p><strong>Centro de Custo: </strong> 13006</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -392,7 +392,7 @@
         <p><strong>E-mail: </strong> bianca.inacio@amorsaude.com</p>
         <p><strong>CPF: </strong> 480.094.538-03</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -446,7 +446,7 @@
         <p><strong>CPF:</strong>484.757.418-43</p>
         <p><strong>Subtituição: </strong>Paulo Imon</p>
         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-        <p><span class=" online">: online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -491,7 +491,7 @@
         <p><strong>E-mail: </strong> brian.ferreira@amorsaude.com</p>
         <p><strong>CPF: </strong> 409.024.568-06</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -540,7 +540,7 @@
         <p><strong>E-mail: </strong>bruna.branco@amorsaude.com</p>
         <p><strong>CPF: </strong>391.294.438-57</p>
         <p><strong>Centro de Custo: </strong>32000 - Cirurgias</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -598,7 +598,7 @@
         <p><strong>E-mail: </strong> bruna.rosario@amorsaude.com</p>
         <p><strong>CPF: </strong> 442.446.868-274</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️ Teclado e Mouse</h4>
@@ -639,13 +639,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Bruna%20Reis.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Bruna Motta Carvalho dos Reis</h3>
         <p><strong>Cargo:</strong>Cordenador a Tecnica</p>
-        <p><strong>Departamento:</strong></p>
-        <p><strong>E-mail:</strong></p>
+        <p><strong>Departamento:</strong>AmorLab</p>
+        <p><strong>E-mail:</strong>bruna.reis@amorsaude.com</p>
         <p><strong>CPF:</strong>228.354.218-90</p>
-        <p><strong>Centro de Custo:</strong></p>
+        <p><strong>Centro de Custo:</strong>42001</p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -678,7 +679,7 @@
         <p><strong>E-mail: </strong> bruna.emilio@amorsaude.com</p>
         <p><strong>CPF: </strong> 416.119.918-03</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️ Teclado e Mouse</h4>
@@ -774,7 +775,7 @@
         <p><strong>E-mail: </strong>bruno.martins@amorsaude.com</p>
         <p><strong>CPF: </strong> 114.035.416-71</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -804,7 +805,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Bruno Yuri Alves De Oliveira</h3>
         <p><strong>Cargo:</strong>Desenvolvedor Sr</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
@@ -812,7 +813,7 @@
         <p><strong>CPF:</strong>158.353.667-10</p>
         <p><strong>Subituição:</strong>William Koller</p>
         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-        <p><span class=" offline">:</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
