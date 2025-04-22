@@ -25,7 +25,6 @@
         <p><strong>Departamento: </strong>Relacionamento com Profissionais da Saúde</p>
         <p><strong>E-mail: </strong>alessandra.rais@amorsaude.com</p>
         <p><strong>CPF: </strong>323.024.848-19</p>
-        <p><strong>Centro de Custo: </strong></p>
         <p><strong>Centro de Custo</strong>12003 - Relacionamento Profissionais da Saúde</p>
         <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
@@ -95,7 +94,7 @@
         <p><strong>E-mail: </strong>aline.silva@amorsaude.com</p>
         <p><strong>CPF: </strong>449.168.138-47</p>
         <p><strong>Centro de Custo</strong>18004 - Laboratório Louzada </p>
-        <p><span class="offline">Status: offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -119,7 +118,7 @@
         <p><strong>E-mail: </strong>aline.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong>445.597.828-30</p>
         <p><strong>Centro de Custo: </strong>12006 - Regional 1</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -174,7 +173,7 @@
         <p><strong>E-mail: </strong>allan.magrini@amorsaude.com</p>
         <p><strong>CPF: </strong>266.169.148-0</p>
         <p><strong>Centro de Custo</strong>13012 - Desenvolvimento</p>
-        <p><span class=" online">: Ativado</span></p>
+        <p><span class=" online">Status: Ativado</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -215,7 +214,7 @@
         <p><strong>E-mail: </strong>amanda.reis@amorsaude.com</p>
         <p><strong>CPF: </strong>432.458.608-03</p>
         <p><strong>Centro de Custo: </strong>22001 - Consulta Assistida</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class=" offline">Status:  Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -257,7 +256,7 @@
         <p><strong>E-mail: </strong>amanda.marcolino@amorsaude.com</p>
         <p><strong>CPF: </strong>435.47.258-67</p>
         <p><strong>Centro de Custo: </strong>12002 - SAC</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class=" offline">Status:  Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -298,7 +297,7 @@
         <p><strong>E-mail: </strong>amanda.gazetta@amorsaude.com</p>
         <p><strong>CPF: </strong>418.310.088-74</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class=" offline">Status:  Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -361,7 +360,7 @@
         <p><strong>E-mail: </strong>anabeatriz.silveira@amorsaude.com</p>
         <p><strong>CPF: </strong>154.666.279-66</p>
         <p><strong>Centro de Custo: </strong>13012 - Desenvolvimento</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class=" online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -411,7 +410,7 @@
         <p><strong>E-mail: </strong>anacarolina.lima@amorsaude.com</p>
         <p><strong>CPF: </strong>420.088.578-67</p>
         <p><strong>Centro de Custo: </strong>12006 - Regional 1</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class=" online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -466,7 +465,7 @@
         <p><strong>E-mail: </strong>anacarolina.rossi@amorsaude.com</p>
         <p><strong>CPF: </strong>305.254.438-19</p>
         <p><strong>Centro de Custo: </strong>32001 - Administronline</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p class="offline"><span>Status:  Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -509,7 +508,7 @@
         <p><strong>E-mail: </strong>anacaroline.alves@amorsaude.com</p>
         <p><strong>CPF: </strong>115.334.276-66</p>
         <p><strong>Centro de Custo: </strong>12001 - Regional 1</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class=" offline">Status:  Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -569,7 +568,7 @@
         <p><strong>CPF: </strong> 483.778.638-39</p>
         <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
         <p><strong>Substituição: </strong> Isabella Biscaro Vieira De Sousa</p>
-        <p><span class=" online">:  online</span></p> <!-- Altere para "offline" se necessário -->
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -610,7 +609,7 @@
         <p><strong>E-mail: </strong> ana.nunes@amorsaude.com</p>
         <p><strong>CPF: </strong> 362.982.368-80</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -671,7 +670,7 @@
         <p><strong>E-mail: </strong> ana.hermogenes@amorsaude.com</p>
         <p><strong>CPF: </strong> 313.083.518-01</p>
         <p><strong>Centro de Custo: </strong> 72023 - Relacionamento com Cliente / Retenção</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status:  offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -718,7 +717,7 @@
         <p><strong>E-mail: </strong> ana.bujardi@amorsaude.com</p>
         <p><strong>CPF: </strong> 451.239.538-50</p>
         <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -771,7 +770,7 @@
         <p><strong>E-mail: </strong> analaura.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 451.414.178-08</p>
         <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -808,7 +807,7 @@
         <p><strong>E-mail: </strong> analuisa.fumagalli@amorsaude.com</p>
         <p><strong>CPF: </strong> 430.792.958-62</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -843,7 +842,7 @@
         <p><strong>E-mail: </strong> ana.costa@amorsaude.com</p>
         <p><strong>CPF: </strong> 401.886.978-96</p>
         <p><strong>Centro de Custo: </strong> 72021 - Cadastro</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -890,7 +889,7 @@
         <p><strong>E-mail: </strong> anapaula.romualdo@amorsaude.com</p>
         <p><strong>CPF: </strong> 477.406.758-06</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -937,7 +936,7 @@
         <p><strong>E-mail: </strong> andre.medina@amorsaude.com</p>
         <p><strong>CPF: </strong> 270.517.138-09</p>
         <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -998,7 +997,7 @@
         <p><strong>E-mail: </strong> andre.rigobello@amorsaude.com</p>
         <p><strong>CPF: </strong> 343.695.638-44</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -1059,7 +1058,7 @@
         <p><strong>E-mail: </strong> andreia.lopes@amorsaude.com</p>
         <p><strong>CPF: </strong> 416.398.198-60</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status:  Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1097,7 +1096,7 @@
         <p><strong>E-mail: </strong> angelica.pires@amorsaude.com</p>
         <p><strong>CPF: </strong> 351.200.428-80</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status:  Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -1157,7 +1156,7 @@
         <p><strong>E-mail: </strong> ariane.herrera@amorsaude.com</p>
         <p><strong>CPF: </strong> 395.936.898-42</p>
         <p><strong>Centro de Custo: </strong> 72024 - Operações Plano</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -1219,7 +1218,7 @@
         <p><strong>E-mail: </strong> arnaldo.junior@amorsaude.com</p>
         <p><strong>CPF: </strong> 252.705.628-80</p>
         <p><strong>Centro de Custo: </strong> 13003 - Contábil</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1266,7 +1265,7 @@
         <p><strong>E-mail: </strong> artur.mello@amorsaude.com</p>
         <p><strong>CPF: </strong> 397.945.948-90</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status:  Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
