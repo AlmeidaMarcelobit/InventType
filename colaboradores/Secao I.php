@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong> iago.perin@amorsaude.com</p>
         <p><strong>CPF: </strong> 424.968.278-14</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -76,7 +76,7 @@
         <p><strong>CPF: </strong> 267.609.978-75</p>
         <p><strong>Data da Admissão: </strong> 04.03.2024</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -125,7 +125,7 @@
         <p><strong>CPF: </strong> 429.072.528-79</p>
         <p><strong>Data da Admissão: </strong> [Não fornecida]</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -174,7 +174,7 @@
         <p><strong>CPF: </strong> 400.518.438-38</p>
         <p><strong>Data da Admissão: </strong> 07.10.2024</p>
         <p><strong>Centro de Custo: </strong> 72023 - Relacionamento com Cliente / Retenção</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -215,7 +215,7 @@
         <p><strong>E-mail: </strong> iris.nietto@amorsaude.com</p>
         <p><strong>CPF: </strong> 375.074.298-73</p>
         <p><strong>Centro de Custo: </strong> 13003 - Contábil</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -262,7 +262,7 @@
         <p><strong>E-mail: </strong> isabela.sousa@amorsaude.com</p>
         <p><strong>CPF: </strong> 478.374.828-40</p>
         <p><strong>Centro de Custo: </strong></p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -318,7 +318,7 @@
         <p><strong>E-mail: </strong> isabela.borin@amorsaude.com</p>
         <p><strong>CPF: </strong> 461.394.038-98</p>
         <p><strong>Centro de Custo: </strong></p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -361,7 +361,7 @@
         <p><strong>E-mail: </strong>isabella.santana@amorsaude.com</p>
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong>13021 - Operações</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Sem termo de responsabilidade</p>
@@ -380,7 +380,7 @@
         <p><strong>E-mail: </strong> isabella.vieira@amorsaude.com</p>
         <p><strong>CPF: </strong> 476.994.678-33</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -421,7 +421,7 @@
         <p><strong>E-mail: </strong> isabelle.castilho@amorsaude.com</p>
         <p><strong>CPF: </strong> 548.330.698-81</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -456,7 +456,7 @@
         <p><strong>E-mail: </strong> isadora.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 527.864.628-43</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
