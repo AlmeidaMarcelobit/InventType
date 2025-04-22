@@ -27,7 +27,7 @@
         <p><strong>CPF: </strong> 435.810.868-75</p>
         <p><strong>Centro de Custo: </strong> 33009 - Coordenação Clientes</p>
         <p><strong>Promoção: </strong> 01.07.2024</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -82,7 +82,7 @@
         <p><strong>E-mail: </strong> janaina.francoza@amorsaude.com</p>
         <p><strong>CPF: </strong> 218.279.938-98</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -138,7 +138,7 @@
         <p><strong>E-mail: </strong> jaqueline.roviero@amorsaude.com</p>
         <p><strong>CPF: </strong> 345.888.738-57</p>
         <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -172,7 +172,7 @@
         <p><strong>E-mail: </strong> (não fornecido)</p>
         <p><strong>CPF: </strong> 081.401.955-29</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -213,7 +213,7 @@
         <p><strong>E-mail: </strong> joaopedro.silvestre@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 12010</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -249,14 +249,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Joao%20Vitor%20Silva%20Alves.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 João Vitor Silva Alves</h3>
         <p><strong>Cargo: </strong>Analista de Suporte</p>
         <p><strong>Departamento: </strong>Suporte</p>
-        <p><strong>E-mail: </strong></p>
-        <p><strong>CPF: </strong></p>
+        <p><strong>E-mail: </strong>joao.alves@amorsaude.com</p>
+        <p><strong>CPF: </strong>476.331.648-67</p>
         <p><strong>Centro de Custo: </strong>13019 - Suporte</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -308,13 +308,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Jocasta%20Pires.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jocasta Pires</h3>
         <p><strong>Cargo:</strong>Analista de Navegação</p>
-        <p><strong>Departamento:</strong></p>
-        <p><strong>E-mail:</strong></p>
+        <p><strong>Departamento:</strong>Cirurgias</p>
+        <p><strong>E-mail:</strong>jocasta.pires@amorsaude.com</p>
         <p><strong>CPF:</strong>449.045.788-05</p>
-        <p><strong>Centro de Custo:</strong></p>
+        <p><strong>Centro de Custo:</strong>32000</p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -356,7 +357,7 @@
         <p><strong>E-mail: </strong></p>
         <p><strong>CPF: </strong> 361.772.308-06</p>
         <p><strong>Centro de Custo: </strong></p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -399,7 +400,7 @@
         <p><strong>E-mail: </strong> jordy.neves@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 12010</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -421,14 +422,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jorge Augusto Zaidan</h3>
         <p><strong>Cargo: </strong>Coordenador de BackOffice</p>
         <p><strong>Departamento: </strong>BackOffice</p>
         <p><strong>E-mail: </strong>jorge.zaidan@amorsaude.com</p>
         <p><strong>CPF: </strong>082.522.536-10</p>
         <p><strong>Centro de Custo: </strong>12017 - Gerência Operações</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -466,14 +467,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 José Vinicius Menari</h3>
         <p><strong>Cargo:</strong>Desenvolvedor Sênior</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
         <p><strong>E-mail:</strong>jose.menari@amorsaude.com</p>
         <p><strong>CPF:</strong>462.285.768-52</p>
         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-        <p><span class=" online">:</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -540,7 +541,7 @@
         <p><strong>E-mail: </strong> josiane.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <!-- Nenhum dispositivo foi fornecido ainda -->
         </div>
@@ -559,7 +560,7 @@
         <p><strong>E-mail: </strong> julcelly.henriques@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 13004</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -588,7 +589,7 @@
         <p><strong>E-mail: </strong> julia.colombari@amorsaude.com</p>
         <p><strong>CPF: </strong> 497.615.898-54</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -645,7 +646,7 @@
         <p><strong>CPF: </strong> 439.325.638-75</p>
         <p><strong>Centro de Custo: </strong> 12002 - Sac</p>
         <p><strong>Substituição: </strong> Dariane da Silva Romerio</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -706,7 +707,7 @@
         <p><strong>CPF: </strong> 293.701.128-47</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
         <p><strong>Data de Admissão: </strong> 06.06.2022</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -754,7 +755,7 @@
         <p><strong>CPF: </strong> 407.054.928-50</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
         <p><strong>Data de Desligamento: </strong> 19.01.2024</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
