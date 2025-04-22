@@ -10,7 +10,7 @@ body {
     display: grid;
     /*align-items: center;*/
     justify-items: center;
-    width: 95%;
+    width: 100%;
     margin: auto;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
@@ -44,7 +44,6 @@ body {
     box-sizing: border-box;
     font-size: 10px;
 }
-
 .device {
     background: #f9f9f9;
     padding: 15px;
@@ -129,4 +128,75 @@ footer {
     padding: 10px 0px;
     width: 100%;
     background: #008FEA;
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+    body {
+        font-size: 16px;
+    }
+    .container {
+        display: grid;
+        max-width: 720px;
+        margin: 0 auto;
+        /*align-items: center;*/
+        justify-items: center;
+        width: 100%;
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    .profile-pic {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        object-fit: cover;
+        position: absolute;
+        top: 25px;
+        right: 10px;
+        border: 2px solid #ddd;
+    }
+}
+@media (min-width: 665px) and (max-width: 767px) {
+    .container {
+        display: grid;
+        max-width: 720px;
+        margin: 0 auto;
+        /*align-items: center;*/
+        justify-items: center;
+        width: 100%;
+        margin: auto;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    .profile-pic {
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+        object-fit: cover;
+        position: absolute;
+        top: 25px;
+        right: 10px;
+        border: 2px solid #ddd;
+    }
+}
+@media (min-width: 400px) and (max-width: 665px) {
+    .container {
+        display: grid;
+        max-width: 720px;
+        margin: 0 auto;
+        /*align-items: center;*/
+        justify-items: center;
+        width: 100%;
+        margin: auto;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+    }
+    .profile-pic {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        position: absolute;
+        top: 25px;
+        right: 10px;
+        border: 2px solid #ddd;
 }
