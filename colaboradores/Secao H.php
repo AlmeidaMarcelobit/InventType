@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong> heitor.boccato@amorsaude.com</p>
         <p><strong>CPF: </strong> 470.351.168-18</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de Negócios</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -77,7 +77,7 @@
         <p><strong>E-mail: </strong> helena.bugliani@amorsaude.com</p>
         <p><strong>CPF: </strong> 422.795.258-10</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class=" online">: </span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -125,14 +125,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Helvert%20Dias.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Helvert Dias da Silveira Malaquias</h3>
         <p><strong>Cargo: </strong>Analista de Pessoas e Cultura</p>
         <p><strong>Departamento: </strong>Pessoas e Cultura</p>
         <p><strong>E-mail: </strong>helvert.malaquias@amorsaude.com</p>
         <p><strong>CPF: </strong>138.035.246-01</p>
         <p><strong>Centro de Custo: </strong>13006 - Pessoas & Cultura</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -184,14 +184,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Henrique Camargo De Lacerda Chaves</h3>
         <p><strong>Cargo:</strong>Consultor(A) De Operações</p>
         <p><strong>Departamento:</strong>Operação</p>
         <p><strong>E-mail:</strong>henrique.chaves@amorsaude.com</p>
         <p><strong>CPF:</strong>375.361.228-61</p>
         <p><strong>Centro de Custo:</strong>12006 - Regional</p>
-        <p><span class="status ativo">Status:</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -218,49 +218,6 @@
                 <p><strong>Patrimônio:</strong>252</p>
                 <p><strong>Série:</strong>2232CE1CC278 - 2230LZX1P2Q8</p>
                 <p><strong>Modelo:</strong>Logitech MK235</p>
-            </div>
-        </div>
-    </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
-        <h3>👤 Henrique Camargo de Cacerda Chaves</h3>
-        <p><strong>Cargo: </strong> Consultor de Operações</p>
-        <p><strong>Departamento: </strong> Consultoria</p>
-        <p><strong>E-mail: </strong> [Não fornecido]</p>
-        <p><strong>CPF: </strong> 375.361.228-61</p>
-        <p><strong>Centro de Custo: </strong> [Não fornecido]</p>
-        <p><span class=" online">: </span></p>
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 7</p>
-                <p><strong>Série: </strong> dmjilh3</p>
-                <p><strong>Modelo: </strong> Inspiron 3501p90f</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 646</p>
-                <p><strong>Série: </strong> 273748566</p>
-                <p><strong>Modelo: </strong> Jabra HSc016</p>
-            </div>
-            <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong> 252</p>
-                <p><strong>Série: </strong> 2232CE1CC278 - 2230LZX1P2Q8</p>
-                <p><strong>Modelo: </strong> Logitech MK235</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> [Não fornecido]</p>
-                <p><strong>Série: </strong> R9XT700F6NK</p>
-                <p><strong>Modelo: </strong> Galaxy A03</p>
-                <p><strong>IMEI 1: </strong> 35498598858910/01</p>
-                <p><strong>IMEI 2: </strong> 355106278590811/01</p>
-            </div>
-        </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
             </div>
         </div>
     </div>
