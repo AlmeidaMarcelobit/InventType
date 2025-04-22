@@ -26,7 +26,7 @@
         <p><strong>E-mail: </strong> ed.pasquini@amorsaude.com</p>
         <p><strong>CPF: </strong> 337.390.908-20</p>
         <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -68,7 +68,7 @@
         <p><strong>E-mail: </strong> junior.ortolan@amorsaude.com</p>
         <p><strong>CPF: </strong> 407.815.828-57</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -127,7 +127,7 @@
         <p><strong>E-mail: </strong> eduardo.junior@amorsaude.com</p>
         <p><strong>CPF: </strong> 453.073.868-00</p>
         <p><strong>Centro de Custo: </strong> 12003 - Relacionamento Profissionais da Saúde</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -174,7 +174,7 @@
         <p><strong>E-mail: </strong> eduardo.cheade@amorsaude.com</p>
         <p><strong>CPF: </strong> 214.689.138-67</p>
         <p><strong>Centro de Custo: </strong> 32000 - Dir. Operações</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -209,7 +209,7 @@
         <p><strong>E-mail: </strong> eduardo.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 427.837.598-02</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de Negócios</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -232,7 +232,7 @@
         <p><strong>E-mail: </strong> eduardo.jardao@amorsaude.com</p>
         <p><strong>CPF: </strong> 434.023.328-50</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -267,7 +267,7 @@
         <p><strong>E-mail:</strong>elaine.oliveira@amorsaude.com</p>
         <p><strong>CPF:</strong></p>
         <p><strong>Centro de Custo:</strong>12002 - SAC</p>
-        <p><span class=" online">: online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta:</strong> Sem informações dos equipamentos</p>
@@ -281,7 +281,7 @@
         <p><strong>E-mail: </strong> elisabete.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 153.653.358-05</p>
         <p><strong>Centro de Custo: </strong> 13021 - Gerência Pessoas e Cultura</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -335,7 +335,7 @@
         <p><strong>Departamento: </strong> Telemedicina</p>
         <p><strong>E-mail: </strong> elton.severo@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 22005 - Operação canais digitais</p>
-        <p><span class=" online">:  OInline</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -381,7 +381,7 @@
         <p><strong>Departamento: </strong> CRM</p>
         <p><strong>E-mail: </strong> emanuela.santos@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 14003 - CRM</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -417,7 +417,7 @@
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong> emerson.queiroz@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -465,14 +465,14 @@
         </div>
     </div>
     <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/Enzo%20Siqueira.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Enzo Siqueira</h3>
-        <p><strong>Cargo: </strong></p>
+        <p><strong>Cargo: </strong>Analista de Suporte JR</p>
         <p><strong>Departamento: </strong>Suporte</p>
         <p><strong>E-mail: </strong>enzo.siqueira@amorsaude.com</p>
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong>13019 - Suporte</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -517,7 +517,7 @@
         <p><strong>Departamento: </strong> Financeiro</p>
         <p><strong>E-mail: </strong> erica.almeida@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" offline">:  offline</span></p>
+        <p><span class="offline">Status: Offline</span></p>
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -553,7 +553,7 @@
         <p><strong>E-mail: </strong> erica.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 369.623.608-00</p>
         <p><strong>Centro de Custo: </strong> 13019 - Suporte</p>
-        <p><span class=" online">:  Offiline</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -605,7 +605,7 @@
         <p><strong>E-mail: </strong>estefania.brondi@amorsaude.com</p>
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong>12002</p>
-        <p><span class=" online">:  online</span></p>
+        <p><span class="online">Status: Online</span></p>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong>Sem termos e dados do equipamentos</p>
