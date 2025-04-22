@@ -12,7 +12,7 @@ body {
     justify-items: center;
     width: 100%;
     margin: auto;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 10px;
 }
 .card {
@@ -178,7 +178,7 @@ footer {
         border: 2px solid #ddd;
     }
 }
-@media (min-width: 400px) and (max-width: 665px) {
+@media (max-width: 665px) {
     .container {
         display: grid;
         max-width: 720px;
@@ -199,4 +199,4 @@ footer {
         top: 25px;
         right: 10px;
         border: 2px solid #ddd;
-}
+    }
