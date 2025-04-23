@@ -37,7 +37,7 @@
                 <li><a href="../anotacao/exibir.php">Anotação</a></li>
             </ul>
 
-            <li><a href="../pages/monitoramento-park.php">Monitoramento Parque</a></li>
+<!--            <li><a href="../pages/monitoramento-park.php">Monitoramento Parque</a></li>-->
 
             <li class="drop" aria-haspopup="true" aria-expanded="false">
                 <a href="#">Estoque ▾</a>
