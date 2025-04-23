@@ -8,7 +8,6 @@ body {
 
 .container {
     display: grid;
-    /*align-items: center;*/
     justify-items: center;
     width: 100%;
     margin: auto;
@@ -200,3 +199,4 @@ footer {
         right: 10px;
         border: 2px solid #ddd;
     }
+}
