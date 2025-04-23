@@ -1,16 +1,19 @@
 header {
     width: 100%;
     background: #008FEA;
-    /*position: absolute;*/
-    /*top: 0;*/
-    /*left: 0;*/
-    /*z-index: 1;*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 nav {
-    margin: 0 auto;
-    max-width: 980px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: #008FEA;
+    padding: 0px 0;
 }
 
 nav ul {
@@ -18,6 +21,7 @@ nav ul {
     margin: 0;
     list-style: none;
     display: flex;
+    gap: 40px; /* espaço igual entre itens */
 }
 
 nav ul li {
