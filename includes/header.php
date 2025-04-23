@@ -30,8 +30,13 @@
                     <li><a href="../colaboradores/Secao%20Y.php">Seção Y</a></li>
                 </ul>
             </li>
+            <li class="drop" aria-haspopup="true" aria-expanded="false">
+            <a href="#">Anotação ▾</a>
+            <ul class="dropdown" aria-label="Submenu">
+                <li><a href="../anotacao/adicionar.php">Adicionar</a></li>
+                <li><a href="../anotacao/exibir.php">Anotação</a></li>
+            </ul>
 
-            <li><a href="#">Centro de Custo</a></li>
             <li><a href="../pages/monitoramento-park.php">Monitoramento Parque</a></li>
 
             <li class="drop" aria-haspopup="true" aria-expanded="false">
