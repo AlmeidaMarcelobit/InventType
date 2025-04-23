@@ -21,7 +21,7 @@ nav ul {
     margin: 0;
     list-style: none;
     display: flex;
-    gap: 40px; /* espaço igual entre itens */
+    gap: 30px; /* espaço igual entre itens */
 }
 
 nav ul li {
