@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1745433481,
+        "tipo": "anotacao",
+        "titulo": "Produtos Antigos Equipamentos Bruna de Freitas Ros\u00e1rio",
+        "texto": " <div class=\"devices\">\n            <div class=\"device\">\n                <h4>\u2328\ufe0f Teclado e Mouse<\/h4>\n                <p><strong>Patrim\u00f4nio: <\/strong> 357<\/p>\n                <p><strong>S\u00e9rie: <\/strong> 2240ce0b5649 - 2237lzxa0b68<\/p>\n                <p><strong>Modelo: <\/strong> Logitech MK270<\/p>\n            <\/div>\n            <div class=\"device\">\n                <h4>\ud83d\udd87\ufe0f Suporte<\/h4>\n                <p><strong>Patrim\u00f4nio: <\/strong> 359<\/p>\n                <p><strong>S\u00e9rie: <\/strong><\/p>\n                <p><strong>Modelo: <\/strong> Aluminio<\/p>\n            <\/div>\n            <div class=\"device\">\n                <h4>\ud83d\udcbb Notebook<\/h4>\n                <p><strong>Patrim\u00f4nio: <\/strong> 194<\/p>\n                <p><strong>S\u00e9rie: <\/strong> PE0975G4<\/p>\n                <p><strong>Modelo: <\/strong> Lenovo v15 82ME<\/p>\n            <\/div>\n            <div class=\"device\">\n                <h4>\ud83c\udfa7 Fone<\/h4>\n                <p><strong>Patrim\u00f4nio: <\/strong> 1022<\/p>\n                <p><strong>S\u00e9rie: <\/strong> 2421AY020L09<\/p>\n                <p><strong>Modelo: <\/strong> Logitech H390<\/p>\n            <\/div>",
+        "resolvido": false,
+        "data_hora": "2025-04-23 15:38:01"
+    },
+    {
+        "id": 1745435382,
+        "tipo": "problema",
+        "titulo": "Deixar o menu est\u00e1tico",
+        "texto": "Colocar o menu est\u00e1tico para deixar o site mais dinamico",
+        "resolvido": false,
+        "data_hora": "2025-04-23 16:09:42"
+    }
+]
