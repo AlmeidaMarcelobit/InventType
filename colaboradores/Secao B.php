@@ -594,35 +594,41 @@
         <img src="../imagem/Bruna%20Ros%C3%A1rio.png" alt="Foto de Bruna Rosário" class="profile-pic">
         <h3>👤 Bruna de Freitas Rosário</h3>
         <p><strong>Cargo: </strong> Product Owner Jr</p>
-        <p><strong>Departamento: </strong> Produto</p>
+        <p><strong>Departamento: </strong> Dental</p>
         <p><strong>E-mail: </strong> bruna.rosario@amorsaude.com</p>
         <p><strong>CPF: </strong> 442.446.868-274</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
         <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
-                <h4>⌨️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong> 357</p>
-                <p><strong>Série: </strong> 2240ce0b5649 - 2237lzxa0b68</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🖇️ Suporte</h4>
-                <p><strong>Patrimônio: </strong> 359</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Aluminio</p>
-            </div>
-            <div class="device">
                 <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 194</p>
-                <p><strong>Série: </strong> PE0975G4</p>
-                <p><strong>Modelo: </strong> Lenovo v15 82ME</p>
+                <p><strong>Patrimônio:</strong>1982</p>
+                <p><strong>Série:</strong>PE0E2HDS</p>
+                <p><strong>Modelo:</strong>Lenovo V15 G4 IRU</p>
+            </div>
+            <div class="device">
+                <h4>⌨️Teclado</h4>
+                <p><strong>Patrimônio:</strong>1983</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Dell Pro KB500</p>
+            </div>
+            <div class="device">
+                <h4>🖱️️Mouse</h4>
+                <p><strong>Patrimônio:</strong>1395</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Dell Pro MS300</p>
             </div>
             <div class="device">
                 <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 1022</p>
-                <p><strong>Série: </strong> 2421AY020L09</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
+                <p><strong>Patrimônio:</strong>1025</p>
+                <p><strong>Série:</strong>2448MET366R8</p>
+                <p><strong>Modelo:</strong>Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio:</strong>1078</p>
+                <p><strong>Série:</strong></p>
+                <p><strong>Modelo:</strong>Aluminio</p>
             </div>
         </div>
         <h2>Equipamentos Comprometidos</h2>
