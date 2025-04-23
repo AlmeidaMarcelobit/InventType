@@ -1254,6 +1254,44 @@
             </div>
         </div>
     </div>
+    <div class="container">
+        <div class="card">
+            <h2>📦ID Caixa: 51</h2>
+            <p><strong>Substituição:</strong> Bruna de Freitas Rosário/p>
+            <p><strong>Departamento:</strong> Produto</p>
+            <p><strong>Centro de Custo:</strong>13013 - Produto</p>
+
+            <div class="devices">
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Modelo:</strong>Logitech H390</p>
+                    <p><strong>S/N:</strong> 2421AY020L09</p>
+                    <p><strong>Patrimônio:</strong> 1022</p>
+                </div>
+                <div class="device">
+                    <h4>🔩 Suporte</h4>
+                    <p><strong>Modelo:</strong>Alumínio</p>
+                    <p><strong>S/N:</strong></p>
+                    <p><strong>Patrimônio:</strong> 359</p>
+                </div>
+                <div class="device">
+                    <h4>⌨️🖱️Teclado e Mouse</h4>
+                    <p><strong>Modelo:</strong>Logitech MK270</p>
+                    <p><strong>S/N:</strong> 2240ce0b5649 - 2237lzxa0b68</p>
+                    <p><strong>Patrimônio:</strong> 357</p>
+                </div>
+                <div class="device">
+                    <h4>💻 Notebook</h4>
+                    <p><strong>Modelo:</strong>Lenovo v15 82ME</p>
+                    <p><strong>S/N:</strong> PE0975G4</p>
+                    <p><strong>Patrimônio:</strong> 194</p>
+                </div>
+            </div>
+            <div class="attention-info">
+                <h2>⚠️ Informações Importantes</h2>
+                <p><strong>Alerta:</strong> Alocado temporariamente para Marcos Vinicius Baleirini Silva </p>
+            </div>
+        </div>
     <div class="card">
         <h2>📦ID Caixa: </h2>
         <p><strong>Colaborador:</strong>Julia Carolina Rogerio</p>
