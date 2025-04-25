@@ -695,8 +695,8 @@
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio:</strong>1020</p>
-                <p><strong>Série:</strong>23331AY020B49</p>
+                <p><strong>Patrimônio:</strong>1060</p>
+                <p><strong>Série:</strong>2448ME6365R8</p>
                 <p><strong>Modelo:</strong>Logitech H390</p>
             </div>
             <div class="device">
@@ -732,173 +732,180 @@
                 <p><strong>Modelo:</strong>Lenovo V15 G3</p>
             </div>
         </div>
-    </div>
-    <div class="card">
-        <img src="../imagem/Gisele%20Brochetto.png" alt="Foto do Colaborador" class="profile-pic">
-        <h3>👤 Gisele Brochetto</h3>
-        <p><strong>Cargo: </strong> Coordenador De Relacionamento Com Prestadores De Saúde</p>
-        <p><strong>Departamento: </strong> Dir. Operações</p>
-        <p><strong>E-mail: </strong> gisele.brochetto@amorsaude.com</p>
-        <p><strong>CPF: </strong> 368.565.628-70</p>
-        <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-        <p><span class="online">Status: online</span></p>
-        <div class="devices">
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 693</p>
-                <p><strong>Série: </strong> 229lzxk31c8</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
+        <h2>Equipamentos Comprometidos</h2>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio:</strong>1020</p>
+            <p><strong>Série:</strong>23331AY020B49</p>
+            <p><strong>Modelo:</strong>Logitech H390</p>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> O colaborador está utilizando equipamentos sem registro detalhado e sem o
-                termo
-                de responsabilidade assinado.</p>
-        </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
+</div>
+<div class="card">
+    <img src="../imagem/Gisele%20Brochetto.png" alt="Foto do Colaborador" class="profile-pic">
+    <h3>👤 Gisele Brochetto</h3>
+    <p><strong>Cargo: </strong> Coordenador De Relacionamento Com Prestadores De Saúde</p>
+    <p><strong>Departamento: </strong> Dir. Operações</p>
+    <p><strong>E-mail: </strong> gisele.brochetto@amorsaude.com</p>
+    <p><strong>CPF: </strong> 368.565.628-70</p>
+    <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
+    <p><span class="online">Status: online</span></p>
+    <div class="devices">
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 693</p>
+            <p><strong>Série: </strong> 229lzxk31c8</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Graziele%20Ambrosio.png" alt="Foto do Colaborador" class="profile-pic">
-        <h3>👤 Graziele Giacon Ambrosio</h3>
-        <p><strong>Cargo: </strong> Consultora de Operações</p>
-        <p><strong>Departamento: </strong> Consultoria</p>
-        <p><strong>E-mail: </strong> graziele.ambrosio@amorsaude.com</p>
-        <p><strong>CPF: </strong> 217.069.478-10</p>
-        <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class="offline">Status: Offline</span></p>
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 215</p>
-                <p><strong>Série: </strong> 32KLOV3</p>
-                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 661</p>
-                <p><strong>Série: </strong> r9xta0ecf7k</p>
-                <p><strong>Modelo: </strong> Samsung Galaxy A03</p>
-                <p><strong>IMEI 1: </strong> 350916876987754/01</p>
-                <p><strong>IMEI 2: </strong> 354654236987752/01</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 650</p>
-                <p><strong>Série: </strong> 273966069</p>
-                <p><strong>Modelo: </strong> Jabra HSC016</p>
-            </div>
-            <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong> 72 - 706</p>
-                <p><strong>Série: </strong> 2250CE0D0A29 - 2240LZX5M588</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong> 704</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio: </strong> 399</p>
-                <p><strong>Série: </strong> 303AZSP94390</p>
-                <p><strong>Modelo: </strong> LG-22MP410-B</p>
-            </div>
-        </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
+    <div class="attention-info">
+        <h2>⚠️ Informações Importantes</h2>
+        <p><strong>Alerta: </strong> O colaborador está utilizando equipamentos sem registro detalhado e sem o
+            termo
+            de responsabilidade assinado.</p>
+    </div>
+    <div class="devices">
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Guilherme%20Neto.png" alt="Foto do Colaborador" class="profile-pic">
-        <h3>👤 Guilherme Neto</h3>
-        <p><strong>Cargo: </strong> Analista de Relacionamento com Profissionais da Saúde</p>
-        <p><strong>Departamento: </strong> Relacionamento com Profissionais da Saúde</p>
-        <p><strong>E-mail: </strong> guilherme.neto@amorsaude.com</p>
-        <p><strong>CPF: </strong> 459.817.408-09</p>
-        <p><strong>Centro de Custo: </strong> 12003 - Relacionamento Profissionais da Saúde</p>
-        <p><span class="offline">Status: Offline</span></p>
-        <div class="devices">
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 911</p>
-                <p><strong>Série: </strong> 2332ME01XKY8</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong> 931</p>
-                <p><strong>Série: </strong> [Informação não fornecida]</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong> 455</p>
-                <p><strong>Série: </strong> 2232CE1D02338</p>
-                <p><strong>Modelo: </strong> MK270</p>
-            </div>
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 448</p>
-                <p><strong>Série: </strong> 35GJHZ3</p>
-                <p><strong>Modelo: </strong> Dell Vostro 3520</p>
-            </div>
+</div>
+<div class="card">
+    <img src="../imagem/Graziele%20Ambrosio.png" alt="Foto do Colaborador" class="profile-pic">
+    <h3>👤 Graziele Giacon Ambrosio</h3>
+    <p><strong>Cargo: </strong> Consultora de Operações</p>
+    <p><strong>Departamento: </strong> Consultoria</p>
+    <p><strong>E-mail: </strong> graziele.ambrosio@amorsaude.com</p>
+    <p><strong>CPF: </strong> 217.069.478-10</p>
+    <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
+    <p><span class="offline">Status: Offline</span></p>
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 215</p>
+            <p><strong>Série: </strong> 32KLOV3</p>
+            <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
         </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 661</p>
+            <p><strong>Série: </strong> r9xta0ecf7k</p>
+            <p><strong>Modelo: </strong> Samsung Galaxy A03</p>
+            <p><strong>IMEI 1: </strong> 350916876987754/01</p>
+            <p><strong>IMEI 2: </strong> 354654236987752/01</p>
         </div>
-    </div>
-    <div class="card">
-        <img src="../imagem/Guilherme%20Correa.png" alt="Foto do Colaborador" class="profile-pic">
-        <h3>👤 Guilherme Correa</h3>
-        <p><strong>Cargo: </strong> Analista de Negócio</p>
-        <p><strong>Departamento: </strong> Inteligência de Negócio</p>
-        <p><strong>E-mail: </strong> guilherme.correa@amorsaude.com</p>
-        <p><strong>CPF: </strong> N/A</p>
-        <p><strong>Centro de Custo: </strong> 12010</p>
-        <p><span class="online">Status: online</span></p>
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 1573</p>
-                <p><strong>Série: </strong> HNSMC44</p>
-                <p><strong>Modelo: </strong> Dell G15</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte Notebook</h4>
-                <p><strong>Patrimônio: </strong> 806</p>
-                <p><strong>Série: </strong> [Informação não fornecida]</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio: </strong> 402</p>
-                <p><strong>Série: </strong> 303azws96609</p>
-                <p><strong>Modelo: </strong> LG 22Mp410-B</p>
-            </div>
-            <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong> 285</p>
-                <p><strong>Série: </strong> 2243CE257D79 - 2240LZN1GCL8</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 650</p>
+            <p><strong>Série: </strong> 273966069</p>
+            <p><strong>Modelo: </strong> Jabra HSC016</p>
         </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
+        <div class="device">
+            <h4>⌨️🖱️ Teclado e Mouse</h4>
+            <p><strong>Patrimônio: </strong> 72 - 706</p>
+            <p><strong>Série: </strong> 2250CE0D0A29 - 2240LZX5M588</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte</h4>
+            <p><strong>Patrimônio: </strong> 704</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>🖥️ Monitor</h4>
+            <p><strong>Patrimônio: </strong> 399</p>
+            <p><strong>Série: </strong> 303AZSP94390</p>
+            <p><strong>Modelo: </strong> LG-22MP410-B</p>
         </div>
     </div>
+    <div class="devices">
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <img src="../imagem/Guilherme%20Neto.png" alt="Foto do Colaborador" class="profile-pic">
+    <h3>👤 Guilherme Neto</h3>
+    <p><strong>Cargo: </strong> Analista de Relacionamento com Profissionais da Saúde</p>
+    <p><strong>Departamento: </strong> Relacionamento com Profissionais da Saúde</p>
+    <p><strong>E-mail: </strong> guilherme.neto@amorsaude.com</p>
+    <p><strong>CPF: </strong> 459.817.408-09</p>
+    <p><strong>Centro de Custo: </strong> 12003 - Relacionamento Profissionais da Saúde</p>
+    <p><span class="offline">Status: Offline</span></p>
+    <div class="devices">
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 911</p>
+            <p><strong>Série: </strong> 2332ME01XKY8</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte</h4>
+            <p><strong>Patrimônio: </strong> 931</p>
+            <p><strong>Série: </strong> [Informação não fornecida]</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>⌨️🖱️ Teclado e Mouse</h4>
+            <p><strong>Patrimônio: </strong> 455</p>
+            <p><strong>Série: </strong> 2232CE1D02338</p>
+            <p><strong>Modelo: </strong> MK270</p>
+        </div>
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 448</p>
+            <p><strong>Série: </strong> 35GJHZ3</p>
+            <p><strong>Modelo: </strong> Dell Vostro 3520</p>
+        </div>
+    </div>
+    <div class="devices">
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card">
+    <img src="../imagem/Guilherme%20Correa.png" alt="Foto do Colaborador" class="profile-pic">
+    <h3>👤 Guilherme Correa</h3>
+    <p><strong>Cargo: </strong> Analista de Negócio</p>
+    <p><strong>Departamento: </strong> Inteligência de Negócio</p>
+    <p><strong>E-mail: </strong> guilherme.correa@amorsaude.com</p>
+    <p><strong>CPF: </strong> N/A</p>
+    <p><strong>Centro de Custo: </strong> 12010</p>
+    <p><span class="online">Status: online</span></p>
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 1573</p>
+            <p><strong>Série: </strong> HNSMC44</p>
+            <p><strong>Modelo: </strong> Dell G15</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte Notebook</h4>
+            <p><strong>Patrimônio: </strong> 806</p>
+            <p><strong>Série: </strong> [Informação não fornecida]</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>🖥️ Monitor</h4>
+            <p><strong>Patrimônio: </strong> 402</p>
+            <p><strong>Série: </strong> 303azws96609</p>
+            <p><strong>Modelo: </strong> LG 22Mp410-B</p>
+        </div>
+        <div class="device">
+            <h4>⌨️🖱️ Teclado e Mouse</h4>
+            <p><strong>Patrimônio: </strong> 285</p>
+            <p><strong>Série: </strong> 2243CE257D79 - 2240LZN1GCL8</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
+    </div>
+    <div class="devices">
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
 </div>
 <footer>
     <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
