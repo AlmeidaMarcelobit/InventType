@@ -455,12 +455,6 @@
                 <p><strong>IMEI 1: </strong>351084957560484/01</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos listados, porém apenas temos os
-                dados e o termo de responsabilidade do celular e fone, não possuindo dados nem termos dos demais
-                equipamentos.</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
