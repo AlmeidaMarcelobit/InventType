@@ -6,5 +6,21 @@
         "texto": "Dobradi\u00e7a danificada, antiga maquina da colaborada Erica Almeida alocada para Ana ",
         "resolvido": false,
         "data_hora": "2025-04-24 09:39:32"
+    },
+    {
+        "id": 1745585106,
+        "tipo": "problema",
+        "titulo": "Fabricio Baastista Florentino",
+        "texto": "O colaborador Fabr\u00edcio Baastista Florentino derramou ch\u00e1 acidentalmente sobre o notebook e o teclado port\u00e1til. Para que ele possa continuar suas atividades, foi entregue o notebook e o kit de teclado e mouse da ex-colaboradora Beatriz Chaves.",
+        "resolvido": false,
+        "data_hora": "2025-04-25 09:45:06"
+    },
+    {
+        "id": 1745587364,
+        "tipo": "problema",
+        "titulo": "Deise Leite",
+        "texto": "Computador novo da Deise Leite ainda n\u00e3o tem Termo de Entrega",
+        "resolvido": false,
+        "data_hora": "2025-04-25 10:22:44"
     }
 ]
