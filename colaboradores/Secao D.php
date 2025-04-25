@@ -428,7 +428,7 @@
     <div class="card">
         <img src="../imagem/Deise%20Leite%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Deise Leite</h3>
-        <p><strong>Cargo: </strong>Consultor De Operações Internacional</p>
+        <p><strong>Cargo: </strong>Consultor de Operações Internacional</p>
         <p><strong>Departamento: </strong>Internacional</p>
         <p><strong>E-mail: </strong>deise.leite@amorsaude.com</p>
         <p><strong>CPF: </strong>374.036.148-44</p>
@@ -448,7 +448,7 @@
                 <p><strong>Modelo: </strong>Logitech H390</p>
             </div>
             <div class="device">
-                <h4>📱 Celular</h4>;
+                <h4>📱 Celular</h4>
                 <p><strong>Patrimônio: </strong> 685</p>
                 <p><strong>Série: </strong>R9yta0c6qem</p>
                 <p><strong>Modelo: </strong>Galaxy A03</p>
