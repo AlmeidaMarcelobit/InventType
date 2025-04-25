@@ -436,6 +436,12 @@
         <p><span class="online">Status: Online</span></p>
         <div class="devices">
             <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio: </strong> 488</p>
+                <p><strong>Série: </strong>8R3SK23</p>
+                <p><strong>Modelo: </strong>Dell Vostro 3520</p>
+            </div>
+            <div class="device">
                 <h4>🎧 Fone</h4>
                 <p><strong>Patrimônio: </strong> 979</p>
                 <p><strong>Série: </strong>2330AY032658</p>
