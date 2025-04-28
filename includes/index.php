@@ -23,7 +23,7 @@ include '../includes/header.php';
 <!-- Conteúdo Principal -->
 <div class="container">
     <h1>Bem-vindo ao sistema de inventário!</h1>
-    <p>SaúdeTracker é uma plataforma eficiente para a gestão de colaboradores e controle de equipamentos. Com ele, você pode visualizar informações detalhadas sobre os funcionários, incluindo nome, CPF e status na empresa (ativo ou desligado). Além disso, o sistema permite gerenciar o inventário de equipamentos, identificando itens em estoque, em bom estado ou danificados. Com uma interface intuitiva, o SaúdeTracker facilita a organização e otimização dos recursos tecnológicos da sua empresa.</p>
+    <p>InventType é uma plataforma eficiente para a gestão de colaboradores e controle de equipamentos. Com ele, você pode visualizar informações detalhadas sobre os funcionários, incluindo nome, CPF e status na empresa (ativo ou desligado). Além disso, o sistema permite gerenciar o inventário de equipamentos, identificando itens em estoque, em bom estado ou danificados. Com uma interface intuitiva, o SaúdeTracker facilita a organização e otimização dos recursos tecnológicos da sua empresa.</p>
 </div>
 
 <!-- Footer -->
