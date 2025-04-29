@@ -3,15 +3,7 @@
 
 <head>
     <title>Seção A</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
@@ -19,14 +11,15 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras A</h2>
 <div class="container">
 
-    <div class="card"><img src="../imagem/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
         <h3>👤 Alessandra Rais</h3>
         <p><strong>Cargo: </strong>Analista de Relacionamento com Profissionais da Saúde</p>
         <p><strong>Departamento: </strong>Relacionamento com Profissionais da Saúde</p>
         <p><strong>E-mail: </strong>alessandra.rais@amorsaude.com</p>
         <p><strong>CPF: </strong>323.024.848-19</p>
         <p><strong>Centro de Custo</strong>12003 - Relacionamento Profissionais da Saúde</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -48,14 +41,15 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
         <h3>👤 Alexy Chiodi Divino</h3>
         <p><strong>Cargo: </strong>Gerente de CRM</p>
         <p><strong>Departamento: </strong>CRM</p>
         <p><strong>E-mail: </strong>alexy.divino@amorsaude.com</p>
         <p><strong>CPF: </strong>402.811.958-89</p>
         <p><strong>Centro de Custo</strong>14008 - Gerência de CRM</p>
-        <p><span class="online">Status: online</span></p>
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -69,7 +63,6 @@
                 <p><strong>Série: </strong>274048218</p>
                 <p><strong>Modelo: </strong>Jabra HSC016</p>
             </div>
-            la
             <div class="device">
                 <h4>📱 Celular</h4>
                 <p><strong>Patrimônio: </strong>663</p>
@@ -500,7 +493,8 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves"
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves"
                            class="profile-pic">
         <h3>👤 Ana Caroline de Rezende Alves</h3>
         <p><strong>Cargo: </strong>Consultora de Operações</p>
@@ -602,7 +596,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Ana Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
         <h3>👤 Ana Claudia Ferreira Nunes</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -663,7 +657,8 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Ana Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes" class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes"
+             class="profile-pic">
         <h3>👤 Ana Cláudia Mata de Sousa Hermogenes</h3>
         <p><strong>Cargo: </strong> Assistente de Retenção</p>
         <p><strong>Departamento: </strong> Relacionamento com Cliente / Retenção</p>
@@ -710,7 +705,8 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Ana Julia Bujardi.png" alt="Foto de Ana Julia Bujardi" class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Julia%20Bujardi.png" alt="Foto de Ana Julia Bujardi"
+             class="profile-pic">
         <h3>👤 Ana Julia Bujardi</h3>
         <p><strong>Cargo: </strong> Analista de Administração de Pessoal</p>
         <p><strong>Departamento: </strong> Administração de Pessoal</p>
@@ -763,7 +759,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Sem Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
         <h3>👤 Ana Laura Ferrari Maila Santos</h3>
         <p><strong>Cargo: </strong> Assistente Administronline</p>
         <p><strong>Departamento: </strong> Amor Cirurgias</p>
@@ -800,7 +796,8 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Ana Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli" class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli"
+             class="profile-pic">
         <h3>👤 Ana Luisa Fumagalli</h3>
         <p><strong>Cargo: </strong> Coordenadora de Backoffice</p>
         <p><strong>Departamento: </strong> Gerencia Operações</p>
@@ -1149,7 +1146,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Ariane Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
+        <img src="../imagem/colaboradores/Ariane%20Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
         <h3>👤 Ariane Alves Herrera</h3>
         <p><strong>Cargo: </strong> Analista Administrativo SR</p>
         <p><strong>Departamento: </strong> Operações Plano</p>
@@ -1258,7 +1255,8 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Artur Mello.png" alt="Foto de Artur Ferreira Morais Mello" class="profile-pic">
+        <img src="../imagem/colaboradores/Artur%20Mello.png" alt="Foto de Artur Ferreira Morais Mello"
+             class="profile-pic">
         <h3>👤 Artur Ferreira Morais Mello</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -1333,6 +1331,6 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
+</body>
+</html>

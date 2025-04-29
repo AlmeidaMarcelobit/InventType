@@ -3,15 +3,7 @@
 
 <head>
     <title>Seção B</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
@@ -19,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras B</h2>
 <div class="container">
     <div class="card">
-        <img src="../imagem/Sem Foto.png" alt="Foto de Barbara Carvalho" class="profile-pic">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Barbara Carvalho" class="profile-pic">
         <h3>👤 Barbara Formentti Carvalho</h3>
         <p><strong>Cargo: </strong> Analista de Processos e Qualidade</p>
         <p><strong>Departamento: </strong> Customer Success</p>
@@ -57,7 +49,7 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Barbara Bidurin.png" alt="Foto de Barbara Bidurin" class="profile-pic">
+        <img src="../imagem/colaboradores/Barbara%20Bidurin.png" alt="Foto de Barbara Bidurin" class="profile-pic">
         <h3>👤 Barbara Bidurin</h3>
         <p><strong>Cargo: </strong> Assistente Suprimentos</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -106,7 +98,8 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Beatriz Alves.png" alt="Foto de Beatriz de Aguiar Alves" class="profile-pic">
+        <img src="../imagem/colaboradores/Beatriz%20Alves.png" alt="Foto de Beatriz de Aguiar Alves"
+             class="profile-pic">
         <h3>👤 Beatriz de Aguiar Alves</h3>
         <p><strong>Cargo: </strong> Assistente de Cadastro</p>
         <p><strong>Departamento: </strong> Telemedicina</p>
@@ -166,7 +159,8 @@
         </div>
     </div>
     <div class="card">
-        <img src="../imagem/Beatriz Moreira.png" alt="Foto de Beatriz Olive Pinho Moreira" class="profile-pic">
+        <img src="../imagem/colaboradores/Beatriz%20Moreira.png" alt="Foto de Beatriz Olive Pinho Moreira"
+             class="profile-pic">
         <h3>👤 Beatriz Olive Pinho Moreira</h3>
         <p><strong>Cargo: </strong> Estagiária</p>
         <p><strong>Departamento: </strong> Pessoas & Cultura</p>
@@ -830,6 +824,6 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
+</body>
+</html>
