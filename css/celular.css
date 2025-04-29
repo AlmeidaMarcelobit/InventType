@@ -9,9 +9,9 @@ body {
 
 .container{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     margin: 0 auto;
-    width: 50%;
+    width: 77%;
     gap: 10px;
 }
 .card-phone{
