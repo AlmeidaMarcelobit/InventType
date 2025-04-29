@@ -8,7 +8,7 @@
     <meta name="author" content="Marcelo de Araujo Almeida">
     <link rel="stylesheet" href="../css/colaboradores.css">
     <link rel="stylesheet" href="../css/menu-drop.css">
-    <link rel="icon" href="../favicon/favicon-32x32.png">
+    <link rel="icon" href="../imagem/favicon/favicon-32x32.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../scripts/menudrop.js" defer></script>
 </head>

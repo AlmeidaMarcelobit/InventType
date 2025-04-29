@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/fone.css">
     <link rel="stylesheet" href="../css/menu-drop.css">
-    <link rel="icon" href="../favicon/favicon-16x16.png">
+    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../scripts/menudrop.js" defer></script>
 </head>
