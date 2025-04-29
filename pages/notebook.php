@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../css/menu-drop.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../scripts/menudrop.js" defer></script>
-    <link rel="icon" href="../favicon/favicon-16x16.png">
+    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
 
 </head>
 
