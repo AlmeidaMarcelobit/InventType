@@ -15,87 +15,98 @@
 </head>
 
 <body>
-    <?php include '../includes/header.php';  ?>
-    <h2 style="text-align:center;margin-top:10px">📱 Inventário de Celular</h2>
-    <div class="container">
-        <div class="card-phone">
-            <h3>Celular 01</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong></p>
-            <p><strong>Patrimonio:</strong>591</p>
-            <p><strong>Centro de Custo:</strong>13004 - Projetos / Processos</p>
-            <p><strong>Status:</strong>Bloqueado</p>
-        </div>
-        <div class="card-phone">
-            <h3>Celular 02</h3>
-            <p><strong>Modelo:</strong>Galaxy A02</p>
-            <p><strong>Serie:</strong></p>
-            <p><strong>Patrimonio:</strong></p>
-            <p><strong>Status:</strong>Bloqueado</p>
-        </div>
-        <div class="card-phone">
-            <h3>Celular 03</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong></p>
-            <p><strong>Patrimonio:</strong>579</p>
-            <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
-            <p><strong>Status:</strong>Bloqueado</p>
-        </div>
-        <div class="card-phone">
-            <h3>Celular 04</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong></p>
-            <p><strong>Patrimonio:</strong>519</p>
-            <p><strong>Status:</strong>Bloqueado</p>
-        </div>
-        <div class="card-phone">
-            <h3>Celular 05</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong></p>
-            <p><strong>Patrimonio:</strong>538</p>
-            <p><strong>Centro de Custo:</strong>13021 - Gerência Pessoas e Cultura</p>
-            <p><strong>Status:</strong>Bloqueado</p>
-        </div>
-        <div class="card-phone">
-            <h3>Celular 06</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong>R9XTA0EDMWA</p>
-            <p><strong>Patrimonio:</strong>668</p>
-            <p><strong>IMEI 1:</strong>350916877000847</p>
-            <p><strong>IMEI 2:</strong>354654237000845</p>
-            <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
-        </div>
-        <div class="card-phone">
-            <h3>Celular 07</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong>R9XTA0EFPLL</p>
-            <p><strong>Patrimonio:</strong>667</p>
-            <p><strong>IMEI 1:</strong>350916877023195</p>
-            <p><strong>IMEI 2:</strong>354654237023193</p>
-            <p><strong>Centron de Custo:</strong>12006 - Regional 1</p>
-        </div>
-
-        <div class="card-phone">
-            <h3>Celular 09</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong></p>
-            <p><strong>Patrimonio:</strong>510</p>
-            <p><strong>Status:</strong>Bloqueado</p>
-            <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
-        </div>
-        <div class="card-phone">
-            <h3>Celular 10</h3>
-            <p><strong>Modelo:</strong>Galaxy A03</p>
-            <p><strong>Serie:</strong>R9QT403WRSE</p>
-            <p><strong>Patrimonio:</strong>545</p>
-            <p><strong>IMEI 1:</strong>351989271933664</p>
-            <p><strong>IMEI 2:</strong>353297231933669</p>
-            <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
-        </div>
+<?php include '../includes/header.php'; ?>
+<h2 style="text-align:center;margin-top:10px">📱 Inventário de Celular</h2>
+<div class="container">
+    <div class="card-phone">
+        <h3>Celular 01</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong></p>
+        <p><strong>Patrimonio:</strong>591</p>
+        <p><strong>Centro de Custo:</strong>13004 - Projetos / Processos</p>
+        <p><strong>Status:</strong>Bloqueado</p>
     </div>
-    <footer>
-        <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
-    </footer>
+    <div class="card-phone">
+        <h3>Celular 02</h3>
+        <p><strong>Modelo:</strong>Galaxy A02</p>
+        <p><strong>Serie:</strong></p>
+        <p><strong>Patrimonio:</strong></p>
+        <p><strong>Status:</strong>Bloqueado</p>
+    </div>
+    <div class="card-phone">
+        <h3>Celular 03</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong></p>
+        <p><strong>Patrimonio:</strong>579</p>
+        <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
+        <p><strong>Status:</strong>Bloqueado</p>
+    </div>
+    <div class="card-phone">
+        <h3>Celular 04</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong></p>
+        <p><strong>Patrimonio:</strong>519</p>
+        <p><strong>Status:</strong>Bloqueado</p>
+    </div>
+    <div class="card-phone">
+        <h3>Celular 05</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong></p>
+        <p><strong>Patrimonio:</strong>538</p>
+        <p><strong>Centro de Custo:</strong>13021 - Gerência Pessoas e Cultura</p>
+        <p><strong>Status:</strong>Bloqueado</p>
+    </div>
+    <div class="card-phone">
+        <h3>Celular 06</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong>R9XTA0EDMWA</p>
+        <p><strong>Patrimonio:</strong>668</p>
+        <p><strong>IMEI 1:</strong>350916877000847</p>
+        <p><strong>IMEI 2:</strong>354654237000845</p>
+        <p><strong>Centro de Custo:</strong>12006 - Regional 1</p>
+    </div>
+    <div class="card-phone">
+        <h3>Celular 07</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong>R9XTA0EFPLL</p>
+        <p><strong>Patrimonio:</strong>667</p>
+        <p><strong>IMEI 1:</strong>350916877023195</p>
+        <p><strong>IMEI 2:</strong>354654237023193</p>
+        <p><strong>Centron de Custo:</strong>12006 - Regional 1</p>
+    </div>
+
+    <div class="card-phone">
+        <h3>Celular 09</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong></p>
+        <p><strong>Patrimonio:</strong>510</p>
+        <p><strong>Status:</strong>Bloqueado</p>
+        <p><strong>Centro de Custo:</strong>12005 - Backoffice</p>
+    </div>
+    <div class="card-phone">
+        <h3>Celular 10</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong>R9QT403WRSE</p>
+        <p><strong>Patrimonio:</strong>545</p>
+        <p><strong>IMEI 1:</strong>351989271933664</p>
+        <p><strong>IMEI 2:</strong>353297231933669</p>
+        <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
+    </div>
+    <div class="card-phone">
+        <h3>Celular 11</h3>
+        <p><strong>Modelo:</strong>Galaxy A03</p>
+        <p><strong>Serie:</strong></p>
+        <p><strong>Patrimonio:</strong>516</p>
+        <p><strong>IMEI 1:</strong></p>
+        <p><strong>IMEI 2:</strong></p>
+        <p><strong>Centro de Custo:</strong>12002 - SAC</p>
+        <p><strong>Status:</strong>Bloqueado</p>
+    </div>
+</div>
+</div>
+<footer>
+    <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
+</footer>
 </body>
 
 </html>
