@@ -1,0 +1,113 @@
+/* Fonte refinada e clássica */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+/* Container Principal */
+body {
+    font-family: 'Cinzel', serif;
+    background-color: #f9f9f6; /* Branco perolado */
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    box-sizing: border-box;
+}
+/* Container Principal Index */
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    height: 86vh;
+    width: 85%;
+    margin: 50px auto;
+}
+.container {
+    display: grid;
+    justify-items: center;
+    width: 80%;
+    margin: auto;
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    gap: 20px;
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #f9f9f9;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.card:hover {
+    background: #f1f1f1;
+}
+
+.profile-pic {
+    width: 100px;
+    border-radius: 50%;
+}
+.status{
+    width: 128px;
+}
+.devices {
+    display: none;
+}
+.card.active .devices {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.device {
+    flex: 1;
+    padding: 10px 15px;
+    font-size: 13px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1)
+}
+.device h4 {
+    color: #31a803;
+}
+
+.device p {
+    color: #2b2a2a;
+}
+
+.responsibility-link {
+    width: 100%;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: left;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    background: #f9f9f9;
+}
+
+.responsibility-link a {
+    color: #31a803;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer {
+    background: #2ecc71;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    color: #fff;
+}
