@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Base Code</title>
+    <?php include '../includes/head.html'; ?>
+</head>
+
+<body>
+    <?php include '../includes/header.php'; ?>
+    <div class="container">
+        <pre>
+          <div>
+            <p><span class="offline">Status: Offline</span></p>
+            <img class="status" src="../imagem/icone/Off.png" alt="">
+
+            <p><span class="online">Status: Online</span></p>
+            <img class="status" src="../imagem/icone/on.png" alt="">
+
+            <div class="card">
+                <div class="card" onclick="this.classList.toggle('active')">
+                </div>
+            </div>
+        </div>
+    </pre>
+    </div>
+    <?php include '../includes/footer.php'; ?>
+</body>
+
+</html>
