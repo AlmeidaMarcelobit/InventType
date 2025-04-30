@@ -3,30 +3,22 @@
 
 <head>
     <title>Seção M</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+ <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras M</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Maicon%20Leone%20Alves%20Facirolli.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Maicon%20Leone%20Alves%20Facirolli.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Maicon Leone Alves Facirolli</h3>
         <p><strong>Cargo: </strong> Coordenador de Inteligência de Negócios</p>
         <p><strong>Departamento: </strong> Gerência Operações</p>
         <p><strong>E-mail: </strong> maicon.facirolli@amorsaude.com</p>
         <p><strong>CPF: </strong> 355.750.548-02</p>
         <p><strong>Centro de Custo: </strong> 12017 - Gerência Operações</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -81,8 +73,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Malinda%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Malinda%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Malinda Gonçalves de Oliveira</h3>
         <p><strong>Cargo: </strong> Coordenadora de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -157,8 +149,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marcela Diab Luiz</h3>
         <p><strong>Cargo: </strong> Coordenador de Operações</p>
         <p><strong>Departamento: </strong> Operações</p>
@@ -212,15 +204,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Marcelo%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Marcelo%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marcelo Alexandre Barbosa Martins</h3>
         <p><strong>Cargo: </strong> Analista de Suporte Jr</p>
         <p><strong>Departamento: </strong> Suporte</p>
         <p><strong>E-mail: </strong> marcelo.martins@amorsaude.com</p>
         <p><strong>CPF: </strong> 306.745.018-37</p>
         <p><strong>Centro de Custo: </strong> 13019</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -252,8 +244,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marcelo Borba Okazaki</h3>
         <p><strong>Cargo: </strong> Desenvolvedor Fullstack</p>
         <p><strong>Departamento: </strong> Desenvolvimento</p>
@@ -272,8 +264,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Marco%20Bizarri.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Marco%20Bizarri.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marco Aurélio Bizarri</h3>
         <p><strong>Cargo: </strong> Analista De Contas A Pagar Pl</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -319,8 +311,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Marcos%20Corusse.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Marcos%20Corusse.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marcos Henrique Corusse</h3>
         <p><strong>Cargo: </strong> Product Owner</p>
         <p><strong>Departamento: </strong> Produto</p>
@@ -360,8 +352,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Marcos%20Vinicius%20Balerine%20e%20Silva.jpeg" alt="Foto do Colaborador"
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Marcos%20Vinicius%20Balerine%20e%20Silva.jpeg" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Marcos Vinicius Balerine e Silva</h3>
         <p><strong>Cargo: </strong>Coordenador Comercial</p>
@@ -418,8 +410,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Marcos%20Vinicius%20Moroti.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Marcos%20Vinicius%20Moroti.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marcos Vinicius Moroti</h3>
         <p><strong>Cargo: </strong> Assistente Administronline</p>
         <p><strong>Departamento: </strong> BackOffice</p>
@@ -462,8 +454,8 @@
         </div>
     </div>
     <!--        Remover Licença     -->
-    <div class="card">
-        <img src="../imagem/Maria%20Medieros.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Maria%20Medieros.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Maria Caroline Dantas De Medeiros</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -505,8 +497,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Maria%20Peterli.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Maria%20Peterli.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Maria Eduarda da Silva Peterli</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -544,8 +536,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Maria%20Luisa%20Barros%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Maria%20Luisa%20Barros%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Maria Luisa Barros Lima</h3>
         <p><strong>Cargo: </strong> Assistente De Canais Digitais E Relacionamento</p>
         <p><strong>Departamento: </strong> Canais Digitais e Relacionamento</p>
@@ -591,8 +583,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Marianne%20Lesur%20Goncalves.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Marianne%20Lesur%20Goncalves.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marianne Lesur Goncalves</h3>
         <p><strong>Cargo: </strong> Coordenadora de Qualidade de Telemedicina</p>
         <p><strong>Departamento: </strong> Telemedicina</p>
@@ -645,8 +637,8 @@
         </div>
     </div>
 
-    <div class="card">
-        <img src="../imagem/Marjorie%20Caetano%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Marjorie%20Caetano%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Marjorie Caetano Rodrigues</h3>
         <p><strong>Cargo: </strong> Product Owner</p>
         <p><strong>Departamento: </strong> Produtos</p>
@@ -701,8 +693,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Mateus Rodrigues Nistarda</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -744,8 +736,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Mathiele%20Matos.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Mathiele%20Matos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Mathiele Machado de Matos</h3>
         <p><strong>Cargo: </strong> Consultoria de Operações</p>
         <p><strong>Departamento: </strong> Não informado</p>
@@ -793,8 +785,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Miguel%20Silverio.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Miguel%20Silverio.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Miguel Silverio</h3>
         <p><strong>Cargo: </strong>Analista de Suporte Jr</p>
         <p><strong>Departamento: </strong>Suporte</p>
@@ -842,15 +834,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Milena Cristina Fonseca Perandini</h3>
         <p><strong>Cargo:</strong>Consultor(a) de Operações</p>
         <p><strong>Departamento:</strong></p>
         <p><strong>E-mail:</strong>milena.perandini@amorsaude.com</p>
         <p><strong>CPF:</strong>460.393.908-67</p>
         <p><strong>Centro de Custo:</strong>12007 - Regional 2</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -895,8 +887,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Miria Elisiane Cardoso</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -942,8 +934,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Monica%20Gon%C3%A7alves%20Soares.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Monica%20Gon%C3%A7alves%20Soares.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Monica Gonçalves Soares</h3>
         <p><strong>Cargo: </strong> Recepcionista</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -991,8 +983,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Murillo%20Zanine.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Murillo%20Zanine.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Murillo Flavio Zanine</h3>
         <p><strong>Cargo: </strong> Analista Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -1038,8 +1030,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Murilo%20Borba.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Murilo%20Borba.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Murilo Samuel Borba</h3>
         <p><strong>Cargo: </strong> Analista de Dados Jr.</p>
         <p><strong>Departamento: </strong> Dados</p>
@@ -1079,8 +1071,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Murilo%20Venturoso.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Murilo%20Venturoso.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Murilo Venturoso Tinazzo</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> 12006 - Regional 1</p>
@@ -1135,9 +1127,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
