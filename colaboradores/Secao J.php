@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção J</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+<?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras J</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Jade%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Jade%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jade Rodrigues</h3>
         <p><strong>Cargo: </strong> Analista</p>
         <p><strong>Departamento: </strong> Amorcirurgias</p>
@@ -27,7 +19,7 @@
         <p><strong>CPF: </strong> 435.810.868-75</p>
         <p><strong>Centro de Custo: </strong> 33009 - Coordenação Clientes</p>
         <p><strong>Promoção: </strong> 01.07.2024</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -74,15 +66,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Janaima%20Fram%C3%A7oza.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Janaima%20Fram%C3%A7oza.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Janaina Françoza</h3>
         <p><strong>Cargo: </strong> Analista de Documentações Pl</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong> janaina.francoza@amorsaude.com</p>
         <p><strong>CPF: </strong> 218.279.938-98</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -130,15 +122,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Jaqueline%20Roviero.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Jaqueline%20Roviero.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jaqueline Roviero</h3>
         <p><strong>Cargo: </strong> Analista De Experiência Do Cliente</p>
         <p><strong>Departamento: </strong> Administronline</p>
         <p><strong>E-mail: </strong> jaqueline.roviero@amorsaude.com</p>
         <p><strong>CPF: </strong> 345.888.738-57</p>
         <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -164,15 +156,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 João Pedro Pereira Ribeiro</h3>
         <p><strong>Cargo: </strong> Desenvolvedor FullStack</p>
         <p><strong>Departamento: </strong> Desenvolvimento</p>
         <p><strong>E-mail: </strong> (não fornecido)</p>
         <p><strong>CPF: </strong> 081.401.955-29</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -205,15 +197,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 João Pedro Silvestre</h3>
         <p><strong>Cargo: </strong> Analista de Desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de Negócio</p>
         <p><strong>E-mail: </strong> joaopedro.silvestre@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 12010</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -248,15 +240,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Joao%20Vitor%20Silva%20Alves.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Joao%20Vitor%20Silva%20Alves.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 João Vitor Silva Alves</h3>
         <p><strong>Cargo: </strong>Analista de Suporte</p>
         <p><strong>Departamento: </strong>Suporte</p>
         <p><strong>E-mail: </strong>joao.alves@amorsaude.com</p>
         <p><strong>CPF: </strong>476.331.648-67</p>
         <p><strong>Centro de Custo: </strong>13019 - Suporte</p>
-        <p><span class="online">Status: online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -307,15 +299,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Jocasta%20Pires.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Jocasta%20Pires.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jocasta Pires</h3>
         <p><strong>Cargo:</strong>Analista de Navegação</p>
         <p><strong>Departamento:</strong>Cirurgias</p>
         <p><strong>E-mail:</strong>jocasta.pires@amorsaude.com</p>
         <p><strong>CPF:</strong>449.045.788-05</p>
         <p><strong>Centro de Custo:</strong>32000</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -349,15 +341,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jonatas Henrique Esreves Mian</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong></p>
         <p><strong>CPF: </strong> 361.772.308-06</p>
         <p><strong>Centro de Custo: </strong></p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -392,15 +384,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jordy Neves</h3>
         <p><strong>Cargo: </strong> Analista De Desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de Negócio</p>
         <p><strong>E-mail: </strong> jordy.neves@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 12010</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -421,15 +413,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jorge Augusto Zaidan</h3>
         <p><strong>Cargo: </strong>Coordenador de BackOffice</p>
         <p><strong>Departamento: </strong>BackOffice</p>
         <p><strong>E-mail: </strong>jorge.zaidan@amorsaude.com</p>
         <p><strong>CPF: </strong>082.522.536-10</p>
         <p><strong>Centro de Custo: </strong>12017 - Gerência Operações</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -466,15 +458,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 José Vinicius Menari</h3>
         <p><strong>Cargo:</strong>Desenvolvedor Sênior</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
         <p><strong>E-mail:</strong>jose.menari@amorsaude.com</p>
         <p><strong>CPF:</strong>462.285.768-52</p>
         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -533,15 +525,15 @@
         </div>
     </div>
 
-    <div class="card">
-        <img src="../imagem/Josiane%20Santos.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Josiane%20Santos.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Josiane Santos</h3>
         <p><strong>Cargo: </strong> Analista De QA</p>
         <p><strong>Departamento: </strong> Produto</p>
         <p><strong>E-mail: </strong> josiane.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <!-- Nenhum dispositivo foi fornecido ainda -->
         </div>
@@ -552,15 +544,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Julcelly%20Henriques.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Julcelly%20Henriques.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Julcelly Henriques</h3>
         <p><strong>Cargo: </strong> Analista De Pesquisa Jr</p>
         <p><strong>Departamento: </strong> Projetos</p>
         <p><strong>E-mail: </strong> julcelly.henriques@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 13004</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -581,15 +573,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Julia%20Colombari.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Julia%20Colombari.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Julia Colombari</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
         <p><strong>E-mail: </strong> julia.colombari@amorsaude.com</p>
         <p><strong>CPF: </strong> 497.615.898-54</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -637,8 +629,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Julia%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Julia%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Julia Carolia da Silva</h3>
         <p><strong>Cargo: </strong> Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -646,7 +638,7 @@
         <p><strong>CPF: </strong> 439.325.638-75</p>
         <p><strong>Centro de Custo: </strong> 12002 - Sac</p>
         <p><strong>Substituição: </strong> Dariane da Silva Romerio</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -697,8 +689,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Juliana%20De%20Oliveira%20Silv%C3%A9rio.png" alt="Foto do Colaborador"
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Juliana%20De%20Oliveira%20Silv%C3%A9rio.png" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Juliana de Oliveira Silvério</h3>
         <p><strong>Cargo: </strong> Consultor de Operação</p>
@@ -707,7 +699,7 @@
         <p><strong>CPF: </strong> 293.701.128-47</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
         <p><strong>Data de Admissão: </strong> 06.06.2022</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -746,8 +738,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Juliana%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Juliana%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Juliana Paula da Silva Souza</h3>
         <p><strong>Cargo: </strong> Analista de Pessoas e Cultura</p>
         <p><strong>Departamento: </strong> Pessoas & Cultura</p>
@@ -755,7 +747,7 @@
         <p><strong>CPF: </strong> 407.054.928-50</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
         <p><strong>Data de Desligamento: </strong> 19.01.2024</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -785,9 +777,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
