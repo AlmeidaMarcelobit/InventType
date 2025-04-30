@@ -3,30 +3,22 @@
 
 <head>
     <title>Seção H</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras H</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Heitor%20De%20Paiva%20Boccato.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Heitor%20De%20Paiva%20Boccato.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Heitor De Paiva Boccato</h3>
         <p><strong>Cargo: </strong> Analista de Desempenho Jr</p>
         <p><strong>Departamento: </strong> Inteligência de Negócios</p>
         <p><strong>E-mail: </strong> heitor.boccato@amorsaude.com</p>
         <p><strong>CPF: </strong> 470.351.168-18</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de Negócios</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -69,15 +61,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Helena%20Bugliani.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Helena%20Bugliani.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Helena Silva Bugliani</h3>
         <p><strong>Cargo: </strong> Analista de Documentações</p>
         <p><strong>Departamento: </strong> Backoffice</p>
         <p><strong>E-mail: </strong> helena.bugliani@amorsaude.com</p>
         <p><strong>CPF: </strong> 422.795.258-10</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -124,15 +116,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Helvert%20Dias.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Helvert%20Dias.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Helvert Dias da Silveira Malaquias</h3>
         <p><strong>Cargo: </strong>Analista de Pessoas e Cultura</p>
         <p><strong>Departamento: </strong>Pessoas e Cultura</p>
         <p><strong>E-mail: </strong>helvert.malaquias@amorsaude.com</p>
         <p><strong>CPF: </strong>138.035.246-01</p>
         <p><strong>Centro de Custo: </strong>13006 - Pessoas & Cultura</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -183,15 +175,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Henrique Camargo De Lacerda Chaves</h3>
         <p><strong>Cargo:</strong>Consultor(A) De Operações</p>
         <p><strong>Departamento:</strong>Operação</p>
         <p><strong>E-mail:</strong>henrique.chaves@amorsaude.com</p>
         <p><strong>CPF:</strong>375.361.228-61</p>
         <p><strong>Centro de Custo:</strong>12006 - Regional</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -222,9 +214,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+    <?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
