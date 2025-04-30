@@ -3,30 +3,22 @@
 
 <head>
     <title>Seção G</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+<?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras G</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Borges Silverio</h3>
         <p><strong>Cargo: </strong> Consultor de Operação</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong>gabriel.borges@amorsaude.com</p>
         <p><strong>CPF: </strong> 417.371.938-84</p>
         <p><strong>Centro de Custo: </strong></p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -67,15 +59,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriel%20Cardinali.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriel%20Cardinali.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Cardinali</h3>
         <p><strong>Cargo: </strong> Coordenador De Pesquisa E Desenvolvimento</p>
         <p><strong>Departamento: </strong> Dir. Financeira</p>
         <p><strong>E-mail: </strong> gabriel.cardinali@amorsaude.com</p>
         <p><strong>CPF: </strong> 393.549.008-95</p>
         <p><strong>Centro de Custo: </strong> 13000 - Dir. Financeira</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -116,8 +108,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriel%20Carvalho.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriel%20Carvalho.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Carrasco De Carvalho</h3>
         <p><strong>Cargo: </strong> Consultor De Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -125,7 +117,7 @@
         <p><strong>CPF: </strong> 445.240.258-55</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
         <p><strong>Substituição: </strong> Tharinne Pedreschi</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -166,15 +158,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriel%20Dourado.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriel%20Dourado.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Dourado</h3>
         <p><strong>Cargo:</strong>Analista De Desenvolvimento</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
         <p><strong>E-mail:</strong>gabriel.dourado@amorsaude.com</p>
         <p><strong>CPF:</strong></p>
         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -190,15 +182,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriel%20Guilherme.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriel%20Guilherme.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Guilherme</h3>
         <p><strong>Cargo: </strong> Analista de Dados</p>
         <p><strong>Departamento: </strong> Dados</p>
         <p><strong>E-mail: </strong> gabriel.guilherme@amorsaude.com</p>
         <p><strong>CPF: </strong> 370.430.828-54</p>
         <p><strong>Centro de Custo: </strong> 13011 - Suporte</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -231,15 +223,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Renan Gregorato Santos</h3>
         <p><strong>Cargo: </strong> Desenvolvedor Jr</p>
         <p><strong>Departamento: </strong> 04.08.2023</p>
         <p><strong>E-mail: </strong> gabriel.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 431.775.058-96</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
         </div>
         <div class="devices">
@@ -248,8 +240,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriel%20Rodrigues%20de%20Morais.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriel%20Rodrigues%20de%20Morais.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Rodrigues de Morais</h3>
         <p><strong>Cargo: </strong>Gerente de Pessoas</p>
         <p><strong>Departamento: </strong>Pessoas e Cultura</p>
@@ -257,7 +249,7 @@
         <p><strong>CPF: </strong>008.048.811-03</p>
         <p><strong>Centro de Custo: </strong>3029 - Dir. Pessoas e Cultura</p>
         <p><strong>Subtituição: </strong>Sandra Andreia de Oliveira</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -302,14 +294,14 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriel%20Nadeu.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriel%20Nadeu.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Rodrigues Nadeu</h3>
         <p><strong>Cargo: </strong>Coordenador(a) de Projetos e Processos</p>
         <p><strong>Departamento: </strong> Projeto/Processo</p>
         <p><strong>CPF: </strong>395.879.798-93</p>
         <p><strong>Centro de Custo: </strong>13004 - Projetos</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h3>💻Notebook</h3>
@@ -349,15 +341,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriela%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriela%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Bouchabki Martins</h3>
         <p><strong>Cargo: </strong> Product Owner</p>
         <p><strong>Departamento: </strong> Produtos</p>
         <p><strong>E-mail: </strong> gabriela.martins@amorsaude.com</p>
         <p><strong>CPF: </strong> 346.189.228-93</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -384,8 +376,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriela%20Cardoso%20Martins.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriela%20Cardoso%20Martins.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Cardoso Martins</h3>
         <p><strong>Cargo: </strong>Product Owner PL</p>
         <p><strong>Departamento: </strong>Projetos / Processos</p>
@@ -425,15 +417,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriela%20Fritz.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriela%20Fritz.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Fritz</h3>
         <p><strong>Cargo: </strong> Analista de Experiência do Cliente</p>
         <p><strong>Departamento: </strong> Experiência do Cliente</p>
         <p><strong>E-mail: </strong> gabriela.fritz@amorsaude.com</p>
         <p><strong>CPF: </strong> 446.392.818-46</p>
         <p><strong>Centro de Custo: </strong> 12004 - Experiência do Cliente</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -480,15 +472,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriela%20Cristina.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriela%20Cristina.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Cristina Soares</h3>
         <p><strong>Cargo: </strong> Assistente de Operações</p>
         <p><strong>Departamento: </strong> Backoffice</p>
         <p><strong>E-mail: </strong> gabriela.cristina@amorsaude.com</p>
         <p><strong>CPF: </strong> 449.273.438-47</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -535,15 +527,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriela%20Georgete.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriela%20Georgete.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Georgete da Cruz</h3>
         <p><strong>Cargo: </strong> Analista Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
         <p><strong>E-mail: </strong> gabriela.georgete@amorsaude.com</p>
         <p><strong>CPF: </strong> 483.921.198-98</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -584,15 +576,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabriele%20Marin%20Soare.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabriele%20Marin%20Soare.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriele Marin Soare</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong> gabriele.marin@amorsaude.com</p>
         <p><strong>CPF: </strong> 453.937.658-60</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -633,8 +625,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Gabrielly%20Simoes.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Gabrielly%20Simoes.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabrielly Mendes Simões</h3>
         <p><strong>Cargo: </strong>Estagiária de Canais Digitais e Relacionamento</p>
         <p><strong>Departamento: </strong>Telemedicina</p>
@@ -642,7 +634,7 @@
         <p><strong>CPF: </strong>459.695.128-42</p>
         <p><strong>Centro de Custo: </strong>22001 - Consulta Assistida</p>
         <p><strong>Subtituição: </strong>Lucas Guidetti Rocha</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -683,15 +675,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gilmara Luiza de Oliveira</h3>
         <p><strong>Cargo:</strong>Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento:</strong>Atendimento ao Cliente</p>
         <p><strong>E-mail:</strong>gilmara.oliveira@amorsaude.com</p>
         <p><strong>CPF:</strong> 406.568.658-06</p>
         <p><strong>Centro de Custo:</strong>12002 - SAC</p>
-        <p><span class="online">Status: online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -740,15 +732,15 @@
             <p><strong>Modelo:</strong>Logitech H390</p>
         </div>
 </div>
-<div class="card">
-    <img src="../imagem/Gisele%20Brochetto.png" alt="Foto do Colaborador" class="profile-pic">
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Gisele%20Brochetto.png" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Gisele Brochetto</h3>
     <p><strong>Cargo: </strong> Coordenador De Relacionamento Com Prestadores De Saúde</p>
     <p><strong>Departamento: </strong> Dir. Operações</p>
     <p><strong>E-mail: </strong> gisele.brochetto@amorsaude.com</p>
     <p><strong>CPF: </strong> 368.565.628-70</p>
     <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-    <p><span class="online">Status: online</span></p>
+    <img class="status" src="../imagem/icone/on.png" alt="">
     <div class="devices">
         <div class="device">
             <h4>🖱️ Mouse</h4>
@@ -769,15 +761,15 @@
         </div>
     </div>
 </div>
-<div class="card">
-    <img src="../imagem/Graziele%20Ambrosio.png" alt="Foto do Colaborador" class="profile-pic">
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Graziele%20Ambrosio.png" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Graziele Giacon Ambrosio</h3>
     <p><strong>Cargo: </strong> Consultora de Operações</p>
     <p><strong>Departamento: </strong> Consultoria</p>
     <p><strong>E-mail: </strong> graziele.ambrosio@amorsaude.com</p>
     <p><strong>CPF: </strong> 217.069.478-10</p>
     <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-    <p><span class="offline">Status: Offline</span></p>
+    <img class="status" src="../imagem/icone/Off.png" alt="">
     <div class="devices">
         <div class="device">
             <h4>💻 Notebook</h4>
@@ -824,15 +816,15 @@
         </div>
     </div>
 </div>
-<div class="card">
-    <img src="../imagem/Guilherme%20Neto.png" alt="Foto do Colaborador" class="profile-pic">
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Guilherme%20Neto.png" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Guilherme Neto</h3>
     <p><strong>Cargo: </strong> Analista de Relacionamento com Profissionais da Saúde</p>
     <p><strong>Departamento: </strong> Relacionamento com Profissionais da Saúde</p>
     <p><strong>E-mail: </strong> guilherme.neto@amorsaude.com</p>
     <p><strong>CPF: </strong> 459.817.408-09</p>
     <p><strong>Centro de Custo: </strong> 12003 - Relacionamento Profissionais da Saúde</p>
-    <p><span class="offline">Status: Offline</span></p>
+    <img class="status" src="../imagem/icone/Off.png" alt="">
     <div class="devices">
         <div class="device">
             <h4>🎧 Fone</h4>
@@ -865,15 +857,15 @@
         </div>
     </div>
 </div>
-<div class="card">
-    <img src="../imagem/Guilherme%20Correa.png" alt="Foto do Colaborador" class="profile-pic">
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Guilherme%20Correa.png" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Guilherme Correa</h3>
     <p><strong>Cargo: </strong> Analista de Negócio</p>
     <p><strong>Departamento: </strong> Inteligência de Negócio</p>
     <p><strong>E-mail: </strong> guilherme.correa@amorsaude.com</p>
     <p><strong>CPF: </strong> N/A</p>
     <p><strong>Centro de Custo: </strong> 12010</p>
-    <p><span class="online">Status: online</span></p>
+    <img class="status" src="../imagem/icone/on.png" alt="">
     <div class="devices">
         <div class="device">
             <h4>💻 Notebook</h4>
@@ -907,9 +899,7 @@
     </div>
 </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
 
+<?php include '../includes/footer.php'; ?>
 </body>
 </html><?php
