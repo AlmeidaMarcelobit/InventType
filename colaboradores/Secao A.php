@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <title>Seção A</title>
     <?php include '../includes/head.html'; ?>
 </head>
-
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras A</h2>
 <div class="container">
-
     <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
         <h3>👤 Alessandra Rais</h3>
@@ -42,7 +39,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
+        <img src="../imagem/colaboradores/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
         <h3>👤 Alexy Chiodi Divino</h3>
         <p><strong>Cargo: </strong>Gerente de CRM</p>
         <p><strong>Departamento: </strong>CRM</p>
@@ -79,15 +76,15 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva"
-                           class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva"                        class="profile-pic">
         <h3>👤 Aline Alves Sobral Da Silva</h3>
         <p><strong>Cargo: </strong>Consultor de Operações</p>
         <p><strong>Departamento: </strong>Louzada</p>
         <p><strong>E-mail: </strong>aline.silva@amorsaude.com</p>
         <p><strong>CPF: </strong>449.168.138-47</p>
         <p><strong>Centro de Custo</strong>18004 - Laboratório Louzada </p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -103,15 +100,16 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Aline%20Oliveira.png" alt="Foto de Aline Camilo de Oliveira"
-                           class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Aline%20Oliveira.png" alt="Foto de Aline Camilo de Oliveira"
+             class="profile-pic">
         <h3>👤 Aline Camilo de Oliveira</h3>
         <p><strong>Cargo: </strong>Consultor de Operação</p>
         <p><strong>Departamento: </strong>Consultoria</p>
         <p><strong>E-mail: </strong>aline.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong>445.597.828-30</p>
         <p><strong>Centro de Custo: </strong>12006 - Regional 1</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -159,14 +157,15 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Allan%20Magrini.png" alt="Foto de Alessandra Rais" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Allan%20Magrini.png" alt="Foto de Alessandra Rais" class="profile-pic">
         <h3>👤 Allan Magrini</h3>
         <p><strong>Cargo: </strong>Desenvolvedor Plsql</p>
         <p><strong>Departamento: </strong>Desenvolvimento</p>
         <p><strong>E-mail: </strong>allan.magrini@amorsaude.com</p>
         <p><strong>CPF: </strong>266.169.148-0</p>
         <p><strong>Centro de Custo</strong>13012 - Desenvolvimento</p>
-        <p><span class=" online">Status: Ativado</span></p>
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -200,14 +199,15 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Amanda%20Reis.png" alt="Foto de Amanda da Silva Reis" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Amanda%20Reis.png" alt="Foto de Amanda da Silva Reis" class="profile-pic">
         <h3>👤 Amanda da Silva Reis</h3>
         <p><strong>Cargo: </strong>Assistente De Canais Digitais E Relacionamento</p>
         <p><strong>Departamento: </strong>Administronline</p>
         <p><strong>E-mail: </strong>amanda.reis@amorsaude.com</p>
         <p><strong>CPF: </strong>432.458.608-03</p>
         <p><strong>Centro de Custo: </strong>22001 - Consulta Assistida</p>
-        <p><span class=" offline">Status:  Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -241,15 +241,16 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Amanda%20Marcolino.png" alt="Foto de Amanda Dualattka Marcolino"
-                           class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Amanda%20Marcolino.png" alt="Foto de Amanda Dualattka Marcolino"
+             class="profile-pic">
         <h3>👤 Amanda Dualattka Marcolino</h3>
         <p><strong>Cargo: </strong>Assistente de CS</p>
         <p><strong>Departamento: </strong>Atendimento ao Cliente</p>
         <p><strong>E-mail: </strong>amanda.marcolino@amorsaude.com</p>
         <p><strong>CPF: </strong>435.47.258-67</p>
         <p><strong>Centro de Custo: </strong>12002 - SAC</p>
-        <p><span class=" offline">Status:  Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -283,14 +284,15 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Amanda%20Gazetta.png" alt="Foto de Amanda Gazetta" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Amanda%20Gazetta.png" alt="Foto de Amanda Gazetta" class="profile-pic">
         <h3>👤 Amanda Gazetta Amigo</h3>
         <p><strong>Cargo: </strong>Coordenadora de Operação</p>
         <p><strong>Departamento: </strong>Regional 2</p>
         <p><strong>E-mail: </strong>amanda.gazetta@amorsaude.com</p>
         <p><strong>CPF: </strong>418.310.088-74</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2</p>
-        <p><span class=" offline">Status:  Offline</span></p>
+           <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -321,23 +323,24 @@
                 <p><strong>IMEI 1: </strong>350589197094384</p>
                 <p><strong>IMEI 2: </strong>353306167094386</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="devices">
-            <div class="device">
-                <h4>🔌 Adaptador-Rede</h4>
-                <p><strong>Patrimônio: </strong>933</p>
-                <p><strong>Modelo: </strong>Fy-684</p>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="devices">
+                <div class="device">
+                    <h4>🔌 Adaptador-Rede</h4>
+                    <p><strong>Patrimônio: </strong>933</p>
+                    <p><strong>Modelo: </strong>Fy-684</p>
+                </div>
+                <div class="device">
+                    <h4>📱 Celular</h4>
+                    <p><strong>Patrimônio: </strong>511</p>
+                    <p><strong>Série: </strong>R9qt403wmhp</p>
+                    <p><strong>Modelo: </strong>Galaxy A03</p>
+                    <p><strong>IMEI 1: </strong>35198927132251/01</p>
+                    <p><strong>IMEI 2: </strong>35327223192257/01</p>
+                </div>
             </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong>511</p>
-                <p><strong>Série: </strong>R9qt403wmhp</p>
-                <p><strong>Modelo: </strong>Galaxy A03</p>
-                <p><strong>IMEI 1: </strong>35198927132251/01</p>
-                <p><strong>IMEI 2: </strong>35327223192257/01</p>
-            </div>
         </div>
+
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing"
@@ -345,15 +348,16 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Ana%20Beatriz%20Melo%20Silveir.png" alt="Foto de Ana Beatriz Melo Silveira"
-                           class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Ana%20Beatriz%20Melo%20Silveir.png" alt="Foto de Ana Beatriz Melo Silveira"
+             class="profile-pic">
         <h3>👤 Ana Beatriz Melo Silveira</h3>
         <p><strong>Cargo: </strong>Estagiário(a) Dev</p>
         <p><strong>Departamento: </strong>Desenvolvimento</p>
         <p><strong>E-mail: </strong>anabeatriz.silveira@amorsaude.com</p>
         <p><strong>CPF: </strong>154.666.279-66</p>
         <p><strong>Centro de Custo: </strong>13012 - Desenvolvimento</p>
-        <p><span class=" online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -395,15 +399,16 @@
             </div>
         </div>
     </div>
-    <div class="card"><img src="../imagem/Ana%20Carolina%20Lima.png" alt="Foto de Ana Carolina Delsin de Lima"
-                           class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Ana%20Carolina%20Lima.png" alt="Foto de Ana Carolina Delsin de Lima"
+             class="profile-pic">
         <h3>👤 Ana Carolina Delsin de Lima</h3>
         <p><strong>Cargo: </strong>Consultora de Operações</p>
         <p><strong>Departamento: </strong>Consultoria</p>
         <p><strong>E-mail: </strong>anacarolina.lima@amorsaude.com</p>
         <p><strong>CPF: </strong>420.088.578-67</p>
         <p><strong>Centro de Custo: </strong>12006 - Regional 1</p>
-        <p><span class=" online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -436,29 +441,32 @@
                 <p><strong>IMEI 1: </strong>359939802683454</p>
                 <p><strong>IMEI 2: </strong>359939802683462</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong>870</p>
-            <p><strong>Série: </strong>2315AY07A69</p>
-            <p><strong>Modelo: </strong>Logitech H390</p>
-        </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing"
-                       target="_blank">📓 Termo de Responsabilidade</a></h4>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="devices">
+                <div class="device">
+                    <h4>🎧 Fone</h4>
+                    <p><strong>Patrimônio: </strong>870</p>
+                    <p><strong>Série: </strong>2315AY07A69</p>
+                    <p><strong>Modelo: </strong>Logitech H390</p>
+                </div>
+
+                <div class="responsibility-link">
+                    <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing"
+                           target="_blank">📓 Termo de Responsabilidade</a></h4>
+                </div>
             </div>
         </div>
+
     </div>
-    <div class="card"><img src="../imagem/Sem%20Foto.png" alt="Foto de Ana Carolina Rossi" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Carolina Rossi" class="profile-pic">
         <h3>👤 Ana Carolina Rossi</h3>
         <p><strong>Cargo: </strong>Analista Comercial</p>
         <p><strong>Departamento: </strong>Amor Cirurgias</p>
         <p><strong>E-mail: </strong>anacarolina.rossi@amorsaude.com</p>
         <p><strong>CPF: </strong>305.254.438-19</p>
         <p><strong>Centro de Custo: </strong>32001 - Administronline</p>
-        <p class="offline"><span>Status:  Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -494,15 +502,15 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves"
-                           class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves"
+             class="profile-pic">
         <h3>👤 Ana Caroline de Rezende Alves</h3>
         <p><strong>Cargo: </strong>Consultora de Operações</p>
         <p><strong>Departamento: </strong>Consultoria</p>
         <p><strong>E-mail: </strong>anacaroline.alves@amorsaude.com</p>
         <p><strong>CPF: </strong>115.334.276-66</p>
         <p><strong>Centro de Custo: </strong>12001 - Regional 1</p>
-        <p><span class=" offline">Status:  Offline</span></p>
+           <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -534,27 +542,29 @@
                 <p><strong>Série:</strong>HVG3C03</p>
                 <p><strong>Modelo:</strong>Dell P2018HC</p>
             </div>
-        </div>
-        <h2>Equipamento Comprometido</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong>761</p>
-            <p><strong>Série: </strong>00225942557</p>
-            <p><strong>Modelo: </strong>Jabra HSC015</p>
-        </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong>O colaborador está utiliza os equipamentos, porém ainda não possui o termo de
-                responsabilidade assinado do monitor.</p>
-        </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            <h2>Equipamento Comprometido</h2>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong>761</p>
+                <p><strong>Série: </strong>00225942557</p>
+                <p><strong>Modelo: </strong>Jabra HSC015</p>
+            </div>
+            <div class="attention-info">
+                <h2>⚠️ Informações Importantes</h2>
+                <p><strong>Alerta: </strong>O colaborador está utiliza os equipamentos, porém ainda não possui o termo de
+                    responsabilidade assinado do monitor.
+                </p>
+            </div>
+            <div class="devices">
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
             </div>
         </div>
+
     </div>
-    <div class="card">
-        <img src="../imagem/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida" class="profile-pic">
         <h3>Ana Clara Lourenco de Almeida</h3>
         <p><strong>Cargo: </strong>Auxiliar de Pessoas & Cultura</p>
         <p><strong>Departamento: </strong>Remuneração e Benefícios</p>
@@ -562,7 +572,7 @@
         <p><strong>CPF: </strong> 483.778.638-39</p>
         <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
         <p><strong>Substituição: </strong> Isabella Biscaro Vieira De Sousa</p>
-        <p><span class="online">Status:  Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -595,7 +605,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Ana%20Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
         <h3>👤 Ana Claudia Ferreira Nunes</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
@@ -603,7 +613,7 @@
         <p><strong>E-mail: </strong> ana.nunes@amorsaude.com</p>
         <p><strong>CPF: </strong> 362.982.368-80</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class="online">Status:  Online</span></p>
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -641,7 +651,8 @@
                 <p><strong>Modelo: </strong> Alumínio</p>
             </div>
             <div class="device">
-                <h4>📱 Celular</h4>;
+                <h4>📱 Celular</h4>
+                ;
                 <p><strong>Patrimônio:</strong>628</p>
                 <p><strong>Série:</strong>R9QTA00GH5A</p>
                 <p><strong>Modelo:</strong>Galaxy A03</p>
@@ -656,7 +667,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Ana%20Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes"
              class="profile-pic">
         <h3>👤 Ana Cláudia Mata de Sousa Hermogenes</h3>
@@ -665,7 +676,7 @@
         <p><strong>E-mail: </strong> ana.hermogenes@amorsaude.com</p>
         <p><strong>CPF: </strong> 313.083.518-01</p>
         <p><strong>Centro de Custo: </strong> 72023 - Relacionamento com Cliente / Retenção</p>
-        <p><span class="offline">Status:  offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -704,7 +715,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Ana%20Julia%20Bujardi.png" alt="Foto de Ana Julia Bujardi"
              class="profile-pic">
         <h3>👤 Ana Julia Bujardi</h3>
@@ -713,7 +724,7 @@
         <p><strong>E-mail: </strong> ana.bujardi@amorsaude.com</p>
         <p><strong>CPF: </strong> 451.239.538-50</p>
         <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -758,7 +769,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
         <h3>👤 Ana Laura Ferrari Maila Santos</h3>
         <p><strong>Cargo: </strong> Assistente Administronline</p>
@@ -766,7 +777,7 @@
         <p><strong>E-mail: </strong> analaura.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 451.414.178-08</p>
         <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
-        <p><span class="online">Status:  Online</span></p>
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -795,7 +806,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Ana%20Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli"
              class="profile-pic">
         <h3>👤 Ana Luisa Fumagalli</h3>
@@ -804,7 +815,7 @@
         <p><strong>E-mail: </strong> analuisa.fumagalli@amorsaude.com</p>
         <p><strong>CPF: </strong> 430.792.958-62</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class="online">Status:  Online</span></p>
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -831,15 +842,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa" class="profile-pic">
         <h3>👤 Ana Luiz Bernardes Peres Costa</h3>
         <p><strong>Cargo: </strong> Assistente de Cadastro</p>
         <p><strong>Departamento: </strong> Cadastro</p>
         <p><strong>E-mail: </strong> ana.costa@amorsaude.com</p>
         <p><strong>CPF: </strong> 401.886.978-96</p>
         <p><strong>Centro de Custo: </strong> 72021 - Cadastro</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -878,15 +889,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo" class="profile-pic">
         <h3>👤 Ana Paula Romualdo</h3>
         <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
         <p><strong>Departamento: </strong> Telemedicina / Administronline</p>
         <p><strong>E-mail: </strong> anapaula.romualdo@amorsaude.com</p>
         <p><strong>CPF: </strong> 477.406.758-06</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -925,15 +936,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Andr%C3%A9%20Medina.png" alt="Foto de Andre Medina" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Andr%C3%A9%20Medina.png" alt="Foto de Andre Medina" class="profile-pic">
         <h3>👤 Andre Luiz Medina De Andrade</h3>
         <p><strong>Cargo: </strong> Gerente Regional De Operações</p>
         <p><strong>Departamento: </strong> Dir. Operações</p>
         <p><strong>E-mail: </strong> andre.medina@amorsaude.com</p>
         <p><strong>CPF: </strong> 270.517.138-09</p>
         <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -986,15 +997,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto" class="profile-pic">
         <h3>👤 André Rigobello Pinto</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong> andre.rigobello@amorsaude.com</p>
         <p><strong>CPF: </strong> 343.695.638-44</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -1047,15 +1058,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Andreia%20Lopes.png" alt="Foto de Andreia Lopes" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Andreia%20Lopes.png" alt="Foto de Andreia Lopes" class="profile-pic">
         <h3>👤 Andreia dos Anjos Lopes</h3>
         <p><strong>Cargo: </strong> Coordenadora Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
         <p><strong>E-mail: </strong> andreia.lopes@amorsaude.com</p>
         <p><strong>CPF: </strong> 416.398.198-60</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class="offline">Status:  Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1085,15 +1096,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Angelica%20Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Angelica%20Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires" class="profile-pic">
         <h3>👤 Angelica Emanuela dos Santos Pires</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> SAC</p>
         <p><strong>E-mail: </strong> angelica.pires@amorsaude.com</p>
         <p><strong>CPF: </strong> 351.200.428-80</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><span class="offline">Status:  Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -1130,22 +1141,23 @@
                 <p><strong>Série: </strong></p>
                 <p><strong>Modelo: </strong> Alumínio</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 636</p>
-            <p><strong>Série: </strong> 254427997</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 636</p>
+                <p><strong>Série: </strong> 254427997</p>
+                <p><strong>Modelo: </strong> Jabra HSC016</p>
+            </div>
+            <div class="devices">
+                <!-- Link para o Termo de Responsabilidade -->
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
             </div>
         </div>
+
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Ariane%20Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
         <h3>👤 Ariane Alves Herrera</h3>
         <p><strong>Cargo: </strong> Analista Administrativo SR</p>
@@ -1153,7 +1165,7 @@
         <p><strong>E-mail: </strong> ariane.herrera@amorsaude.com</p>
         <p><strong>CPF: </strong> 395.936.898-42</p>
         <p><strong>Centro de Custo: </strong> 72024 - Operações Plano</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -1192,30 +1204,31 @@
                 <p><strong>IMEI 1: </strong> 352800824235995</p>
                 <p><strong>IMEI 2: </strong> 352800824236001</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 907</p>
-            <p><strong>Série: </strong> 23296GG013A98</p>
-            <p><strong>Modelo: </strong> Logitech H390</p>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 907</p>
+                <p><strong>Série: </strong> 23296GG013A98</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="devices">
+                <!-- Link para o Termo de Responsabilidade -->
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
             </div>
         </div>
+
     </div>
-    <div class="card">
-        <img src="../imagem/Arnaldo%20Junior.png" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Arnaldo%20Junior.png" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
         <h3>👤 Arnaldo Rocha Junior</h3>
         <p><strong>Cargo: </strong> Gerente Contábil</p>
         <p><strong>Departamento: </strong> Contabilidade</p>
         <p><strong>E-mail: </strong> arnaldo.junior@amorsaude.com</p>
         <p><strong>CPF: </strong> 252.705.628-80</p>
         <p><strong>Centro de Custo: </strong> 13003 - Contábil</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1254,7 +1267,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Artur%20Mello.png" alt="Foto de Artur Ferreira Morais Mello"
              class="profile-pic">
         <h3>👤 Artur Ferreira Morais Mello</h3>
@@ -1263,7 +1276,7 @@
         <p><strong>E-mail: </strong> artur.mello@amorsaude.com</p>
         <p><strong>CPF: </strong> 397.945.948-90</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class="online">Status:  Online</span></p>
+           <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -1309,26 +1322,27 @@
                 <p><strong>Série: </strong> 2227LZX8GVS8</p>
                 <p><strong>Modelo: </strong> M185</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 976</p>
-            <p><strong>Série: </strong> 2330AY031E48</p>
-            <p><strong>Modelo: </strong> Logitech H390</p>
-        </div>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 783</p>
-            <p><strong>Série: </strong> 239829109</p>
-            <p><strong>Modelo: </strong> Jabra HSC015</p>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+            <h2>Equipamentos Comprometidos</h2>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 976</p>
+                <p><strong>Série: </strong> 2330AY031E48</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 783</p>
+                <p><strong>Série: </strong> 239829109</p>
+                <p><strong>Modelo: </strong> Jabra HSC015</p>
+            </div>
+            <div class="devices">
+                <!-- Link para o Termo de Responsabilidade -->
+                <div class="responsibility-link">
+                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+                </div>
             </div>
         </div>
+
     </div>
 </div>
 <?php include '../includes/footer.php'; ?>
