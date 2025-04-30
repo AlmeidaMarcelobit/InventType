@@ -199,7 +199,7 @@
                 <p><strong>Série: </strong> 2316ME027DH9</p>
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
-            <h2>Equipamento Compromentdio</h2>
+            <h2>Equipamento Compromentidos</h2>
             <div class="device">
                 <h4>🎧 Fone</h4>
                 <p><strong>Patrimônio: </strong> 692</p>
