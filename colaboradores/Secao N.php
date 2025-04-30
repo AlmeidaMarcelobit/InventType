@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção N</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+<?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras N</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Natalia Duarte Zimmermann</h3>
         <p><strong>Cargo: </strong> Coordenadora de Operações</p>
         <p><strong>Departamento: </strong> Consultorria</p>
@@ -61,8 +53,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Natanel%20Zavanela.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Natanel%20Zavanela.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Natanael Zavanela</h3>
         <p><strong>Cargo: </strong> Consultor De Operações</p>
         <p><strong>Departamento: </strong> Regional 1</p>
@@ -110,8 +102,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Nicholas%20Lopes.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Nicholas%20Lopes.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Nicholas Esdras Lopes dos Santos</h3>
         <p><strong>Cargo: </strong> Assistente de BackOffice</p>
         <p><strong>Departamento: </strong> BackOffice - Treinamentos</p>
@@ -160,8 +152,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Nicolas%20Tassinari.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Nicolas%20Tassinari.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Nicolas Francisco Eloy Tassinari</h3>
         <p><strong>Cargo: </strong> Analista De Processos</p>
         <p><strong>Departamento: </strong> BackOffice</p>
@@ -215,8 +207,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Nicole%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Nicole%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Nicole Souza Cimento</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -265,9 +257,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
