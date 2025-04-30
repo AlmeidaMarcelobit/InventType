@@ -3,15 +3,7 @@
 
 <head>
     <title>Seção H</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
@@ -19,8 +11,8 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras K</h2>
 <div class="container">
 
-    <div class="card">
-        <img src="../imagem/Karen%20Ramos.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Karen%20Ramos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Karen Ramos</h3>
         <p><strong>Cargo: </strong> Analista De Treinamentos</p>
         <p><strong>Departamento: </strong> BackOffice</p>
@@ -48,8 +40,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Karen%20Loureiro.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Karen%20Loureiro.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Karen Loureiro</h3>
         <p><strong>Cargo: </strong> Consultora de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -95,8 +87,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Katia Tatiana Tomaz Marcondes</h3>
         <p><strong>Cargo: </strong> Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -150,8 +142,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/K%C3%A9ssya%20Rosolini.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/K%C3%A9ssya%20Rosolini.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Kessya De Lima Rosolini</h3>
         <p><strong>Cargo: </strong> Coordenador(A) De Pessoas E Cultura</p>
         <p><strong>Departamento: </strong> Pessoas E Cultura</p>
@@ -192,9 +184,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+ <?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
