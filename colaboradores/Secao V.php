@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção V</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+     <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras V</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Vanessa%20Posca.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Vanessa%20Posca.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Vanessa Barbosa Posca</h3>
         <p><strong>Cargo: </strong> Coordenadora de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -59,8 +51,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Vanessa%20de%20Sousa%20Matos.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Vanessa%20de%20Sousa%20Matos.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Vanessa de Souza Matos</h3>
         <p><strong>Cargo: </strong> Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -114,8 +106,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Vanessa%20Fraga.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Vanessa%20Fraga.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Vanessa Lutz Fraga</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -149,8 +141,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Victor%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Victor%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Victor Conceição de Souza</h3>
         <p><strong>Cargo: </strong> Analista de Endomarketing</p>
         <p><strong>Departamento: </strong> Marketing Interno</p>
@@ -186,8 +178,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Victor%20Hugo.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Victor%20Hugo.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Victor Hugo De Souza</h3>
         <p><strong>Cargo: </strong> Estagiário(a) Dev</p>
         <p><strong>Departamento: </strong> Desenvolvimento</p>
@@ -235,8 +227,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Victor%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Victor%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Victor Hugo Souza Lima</h3>
         <p><strong>Cargo: </strong> Product Owner</p>
         <p><strong>Departamento: </strong> CRM</p>
@@ -292,8 +284,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Victor%20Dantas.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Victor%20Dantas.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Victor Ribeiro da Silva Dantas</h3>
         <p><strong>Cargo: </strong> Engenheiro de Dados</p>
         <p><strong>Departamento: </strong> Dados</p>
@@ -334,8 +326,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Vinicius%20Massullo.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Vinicius%20Massullo.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Vinicius Massullo Silva</h3>
         <p><strong>Cargo: </strong> Gerente De Dados</p>
         <p><strong>Departamento: </strong> Gerência Tecnologia</p>
@@ -395,8 +387,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Vinicius Matheus Barreto Novaes</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -444,8 +436,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Vitor%20Magno.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Vitor%20Magno.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Vitor Magno Da Silva</h3>
         <p><strong>Cargo: </strong> Desenvolvedor</p>
         <p><strong>Departamento: </strong> Desenvolvimento</p>
@@ -485,8 +477,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Viviane%20Carvalho.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Viviane%20Carvalho.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Viviane de Carvalho</h3>
         <p><strong>Cargo: </strong> Consultoria de Operações</p>
         <p><strong>Departamento: </strong> N/A</p>
@@ -526,8 +518,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Viviane Fernanda da Silva Murari</h3>
         <p><strong>Cargo: </strong> Consultora de Operações</p>
         <p><strong>Departamento: </strong> Operações</p>
@@ -556,9 +548,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
