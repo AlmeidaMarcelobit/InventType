@@ -20,7 +20,31 @@
         "tipo": "problema",
         "titulo": "Deise Leite",
         "texto": "Computador novo da Deise Leite ainda n\u00e3o tem Termo de Entrega",
-        "resolvido": false,
+        "resolvido": true,
         "data_hora": "2025-04-25 10:22:44"
+    },
+    {
+        "id": 1745870467,
+        "tipo": "problema",
+        "titulo": "Add Colaborador: Caio Almeida",
+        "texto": "#145663 <br>\n<br>13006 - Pessoas\n<br>Departamento\/Time: Pessoas & Cultura\n<br>Substitui\u00e7\u00e3o: Laura Barros Ribeiro - foi para o time de atendimento a franquias.\n<br>Superior Imediato: K\u00e9ssya de Lima Rosolini\n<br>Equipamento serem entregues: Headset, Mouse, Notebook 8G, Suporte para notebook, Teclado\n<br>Nome: Caio Almeida\n<br>CPF: 047.845.731-60\n<br>Cargo de Admiss\u00e3o: Analista de Pessoas & Cultura Jr",
+        "resolvido": false,
+        "data_hora": "2025-04-28 17:01:07"
+    },
+    {
+        "id": 1745935179,
+        "tipo": "problema",
+        "titulo": "Add Julia Marin",
+        "texto": "Nome: J\u00falia Bernardino Marin <br>\nCPF: 514.357.068-97\nCargo: Analista Financeiro PL\nSuperior: Gerente Finaneiro\nDepartamento: Financeiro\nCentro de Custo - AmorSa\u00fade: 13001 - Financeiro",
+        "resolvido": false,
+        "data_hora": "2025-04-29 10:59:39"
+    },
+    {
+        "id": 1745956078,
+        "tipo": "anotacao",
+        "titulo": "Celulares Reparo",
+        "texto": "516\n794\n1029",
+        "resolvido": false,
+        "data_hora": "2025-04-29 16:47:58"
     }
 ]
