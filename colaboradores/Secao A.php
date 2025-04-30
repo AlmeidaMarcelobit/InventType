@@ -77,7 +77,8 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva"                        class="profile-pic">
+        <img src="../imagem/colaboradores/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva"
+             class="profile-pic">
         <h3>👤 Aline Alves Sobral Da Silva</h3>
         <p><strong>Cargo: </strong>Consultor de Operações</p>
         <p><strong>Departamento: </strong>Louzada</p>
@@ -292,7 +293,7 @@
         <p><strong>E-mail: </strong>amanda.gazetta@amorsaude.com</p>
         <p><strong>CPF: </strong>418.310.088-74</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2</p>
-           <img class="status" src="../imagem/icone/Off.png" alt="">
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -323,28 +324,28 @@
                 <p><strong>IMEI 1: </strong>350589197094384</p>
                 <p><strong>IMEI 2: </strong>353306167094386</p>
             </div>
+        </div>
+        <div class="devices">
             <h2>Equipamentos Comprometidos</h2>
-            <div class="devices">
-                <div class="device">
-                    <h4>🔌 Adaptador-Rede</h4>
-                    <p><strong>Patrimônio: </strong>933</p>
-                    <p><strong>Modelo: </strong>Fy-684</p>
-                </div>
-                <div class="device">
-                    <h4>📱 Celular</h4>
-                    <p><strong>Patrimônio: </strong>511</p>
-                    <p><strong>Série: </strong>R9qt403wmhp</p>
-                    <p><strong>Modelo: </strong>Galaxy A03</p>
-                    <p><strong>IMEI 1: </strong>35198927132251/01</p>
-                    <p><strong>IMEI 2: </strong>35327223192257/01</p>
-                </div>
+        </div>
+        <div class="devices">
+            <div class="device">
+                <h4>🔌 Adaptador-Rede</h4>
+                <p><strong>Patrimônio: </strong>933</p>
+                <p><strong>Modelo: </strong>Fy-684</p>
+            </div>
+            <div class="device">
+                <h4>📱 Celular</h4>
+                <p><strong>Patrimônio: </strong>511</p>
+                <p><strong>Série: </strong>R9qt403wmhp</p>
+                <p><strong>Modelo: </strong>Galaxy A03</p>
+                <p><strong>IMEI 1: </strong>35198927132251/01</p>
+                <p><strong>IMEI 2: </strong>35327223192257/01</p>
             </div>
         </div>
-
         <div class="devices">
             <div class="responsibility-link">
-                <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing"
-                       target="_blank">📑 Termo de Responsabilidade</a></h4>
+                <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing" target="_blank">📑 Termo de Responsabilidade</a></h4>
             </div>
         </div>
     </div>
@@ -357,7 +358,7 @@
         <p><strong>E-mail: </strong>anabeatriz.silveira@amorsaude.com</p>
         <p><strong>CPF: </strong>154.666.279-66</p>
         <p><strong>Centro de Custo: </strong>13012 - Desenvolvimento</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -408,7 +409,7 @@
         <p><strong>E-mail: </strong>anacarolina.lima@amorsaude.com</p>
         <p><strong>CPF: </strong>420.088.578-67</p>
         <p><strong>Centro de Custo: </strong>12006 - Regional 1</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -510,7 +511,7 @@
         <p><strong>E-mail: </strong>anacaroline.alves@amorsaude.com</p>
         <p><strong>CPF: </strong>115.334.276-66</p>
         <p><strong>Centro de Custo: </strong>12001 - Regional 1</p>
-           <img class="status" src="../imagem/icone/Off.png" alt="">
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -551,7 +552,8 @@
             </div>
             <div class="attention-info">
                 <h2>⚠️ Informações Importantes</h2>
-                <p><strong>Alerta: </strong>O colaborador está utiliza os equipamentos, porém ainda não possui o termo de
+                <p><strong>Alerta: </strong>O colaborador está utiliza os equipamentos, porém ainda não possui o termo
+                    de
                     responsabilidade assinado do monitor.
                 </p>
             </div>
@@ -564,7 +566,8 @@
 
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida" class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida"
+             class="profile-pic">
         <h3>Ana Clara Lourenco de Almeida</h3>
         <p><strong>Cargo: </strong>Auxiliar de Pessoas & Cultura</p>
         <p><strong>Departamento: </strong>Remuneração e Benefícios</p>
@@ -724,7 +727,7 @@
         <p><strong>E-mail: </strong> ana.bujardi@amorsaude.com</p>
         <p><strong>CPF: </strong> 451.239.538-50</p>
         <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -843,14 +846,15 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa" class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa"
+             class="profile-pic">
         <h3>👤 Ana Luiz Bernardes Peres Costa</h3>
         <p><strong>Cargo: </strong> Assistente de Cadastro</p>
         <p><strong>Departamento: </strong> Cadastro</p>
         <p><strong>E-mail: </strong> ana.costa@amorsaude.com</p>
         <p><strong>CPF: </strong> 401.886.978-96</p>
         <p><strong>Centro de Custo: </strong> 72021 - Cadastro</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -890,14 +894,15 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo" class="profile-pic">
+        <img src="../imagem/colaboradores/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo"
+             class="profile-pic">
         <h3>👤 Ana Paula Romualdo</h3>
         <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
         <p><strong>Departamento: </strong> Telemedicina / Administronline</p>
         <p><strong>E-mail: </strong> anapaula.romualdo@amorsaude.com</p>
         <p><strong>CPF: </strong> 477.406.758-06</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -944,7 +949,7 @@
         <p><strong>E-mail: </strong> andre.medina@amorsaude.com</p>
         <p><strong>CPF: </strong> 270.517.138-09</p>
         <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -998,14 +1003,15 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto" class="profile-pic">
+        <img src="../imagem/colaboradores/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto"
+             class="profile-pic">
         <h3>👤 André Rigobello Pinto</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong> andre.rigobello@amorsaude.com</p>
         <p><strong>CPF: </strong> 343.695.638-44</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -1097,7 +1103,8 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Angelica%20Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires" class="profile-pic">
+        <img src="../imagem/colaboradores/Angelica%20Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires"
+             class="profile-pic">
         <h3>👤 Angelica Emanuela dos Santos Pires</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> SAC</p>
@@ -1165,7 +1172,7 @@
         <p><strong>E-mail: </strong> ariane.herrera@amorsaude.com</p>
         <p><strong>CPF: </strong> 395.936.898-42</p>
         <p><strong>Centro de Custo: </strong> 72024 - Operações Plano</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -1228,7 +1235,7 @@
         <p><strong>E-mail: </strong> arnaldo.junior@amorsaude.com</p>
         <p><strong>CPF: </strong> 252.705.628-80</p>
         <p><strong>Centro de Custo: </strong> 13003 - Contábil</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1276,7 +1283,7 @@
         <p><strong>E-mail: </strong> artur.mello@amorsaude.com</p>
         <p><strong>CPF: </strong> 397.945.948-90</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-           <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/On.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
