@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção R</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras R</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Rafael%20Gomes.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Rafael%20Gomes.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rafael Rodrigues Cordeiro Gomes</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -65,8 +57,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Rafaela%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Rafaela%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rafaela Diniz Campos da Silva</h3>
         <p><strong>Cargo: </strong> Consultor(A) De Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -108,8 +100,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Rafaela%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Rafaela%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rafaela Domenici da Silva</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Operações</p>
@@ -157,8 +149,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Raíssa Martins de Lima</h3>
         <p><strong>Cargo: </strong> Assistente de Retenção</p>
         <p><strong>Departamento: </strong> Relacionamento com Cliente</p>
@@ -198,8 +190,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Raphael%20Leite.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Raphael%20Leite.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Raphael Leite</h3>
         <p><strong>Cargo:</strong>Designer UI/UX</p>
         <p><strong>Departamento:</strong>Produto</p>
@@ -235,8 +227,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Renan%20Brito%20Freire.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Renan%20Brito%20Freire.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Renan Brito Freire</h3>
         <p><strong>Cargo: </strong> Analista de Documentações</p>
         <p><strong>Departamento: </strong> BackOffice</p>
@@ -290,8 +282,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Renata%20Aparecida%20Ferraccini%20Gomes.png" alt="Foto do Colaborador"
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Renata%20Aparecida%20Ferraccini%20Gomes.png" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Renata Aparecida Ferraccini Gomes</h3>
         <p><strong>Cargo: </strong> Analista De Contas A Pagar Pl</p>
@@ -338,8 +330,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Renata%20Merlo.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Renata%20Merlo.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Renata Sousa Merlo</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -373,8 +365,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Ricardo Antonio Perdigão</h3>
         <p><strong>Cargo: </strong> Coordenador Regional de Operações</p>
         <p><strong>Departamento: </strong> Operações</p>
@@ -416,8 +408,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rodrigo Prado Pelicano</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -465,8 +457,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Roger Ricobelo Mazzali</h3>
         <p><strong>Cargo: </strong> Analista de Suporte Pl</p>
         <p><strong>Departamento: </strong> Suporte/Tech</p>
@@ -490,8 +482,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rogerio Santos de Almeida</h3>
         <p><strong>Cargo: </strong> Gerente Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -533,8 +525,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Rosemeire%20Aparecida%20Vieira%20Soares.png" alt="Foto do Colaborador"
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Rosemeire%20Aparecida%20Vieira%20Soares.png" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Rosemeire Aparecida Vieira Soares</h3>
         <p><strong>Cargo: </strong> Recepção</p>
@@ -575,8 +567,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Rubem%20Diniz.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Rubem%20Diniz.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rubem Diniz</h3>
         <p><strong>Cargo: </strong> Analista de Suporte Pl</p>
         <p><strong>Departamento: </strong> Suporte</p>
@@ -597,8 +589,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Rubia%20Albuquerque.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Rubia%20Albuquerque.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rubia Camila Albuquerque Dos Santos</h3>
         <p><strong>Cargo: </strong> Gerente de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -645,9 +637,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
