@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção S</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras S</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Sairah%20Fonseca%20Da%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sairah%20Fonseca%20Da%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Saírah Fonseca da Silva</h3>
         <p><strong>Cargo: </strong> Consultora de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -86,8 +78,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sandra%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sandra%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Sandra Andreia de Oliveira</h3>
         <p><strong>Cargo: </strong> Gerente de Pessoas</p>
         <p><strong>Departamento: </strong> Pessoas e Cultura</p>
@@ -129,8 +121,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sara%20Domingos.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sara%20Domingos.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Sara Martins Domingos</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong>Consultoria</p>
@@ -184,8 +176,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Simone%20Rodrigues.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Simone%20Rodrigues.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Simone Karina de Araujo Fabres Rodrigues</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> SAC</p>
@@ -233,8 +225,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sophia%20Fantini.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sophia%20Fantini.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Sophia Vieira Fantini</h3>
         <p><strong>Cargo: </strong> Estagiário</p>
         <p><strong>Departamento: </strong> BackOffice - Documentações</p>
@@ -274,8 +266,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Suellen%20Tavares.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Suellen%20Tavares.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Suellen Aparecida Crispim Tavares</h3>
         <p><strong>Cargo: </strong> Analista Comercial</p>
         <p><strong>Departamento: </strong> Amor Cirurgias</p>
@@ -329,9 +321,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+ <?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
