@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção W</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+ <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras W</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Walkiria%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Walkiria%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Walkiria Oliveira Silva</h3>
         <p><strong>Cargo: </strong> Analista Adminsitrativo PL</p>
         <p><strong>Departamento: </strong> Operações Plano</p>
@@ -73,8 +65,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Wendell%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Wendell%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Wendell Alessandro Candido Oliveira</h3>
         <p><strong>Cargo: </strong> Analista de Pessoas & Cultura Sênior</p>
         <p><strong>Departamento: </strong> Pessoas & Cultura</p>
@@ -125,8 +117,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/William%20Paulino%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/William%20Paulino%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 William Paulino Lima</h3>
         <p><strong>Cargo: </strong> Gerente de Canais Digitais e Relacionamento</p>
         <p><strong>Departamento: </strong> Dir. Operações</p>
@@ -165,9 +157,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
