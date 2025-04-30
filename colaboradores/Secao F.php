@@ -3,30 +3,22 @@
 
 <head>
     <title>Seção F</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras F</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fabio Eduardo Circucisão Rafael</h3>
         <p><strong>Cargo: </strong>Analista de Suporte JR</p>
         <p><strong>Departamento: </strong>Suporte</p>
         <p><strong>E-mail: </strong>fabio.rafael@amorsaude.com</p>
         <p><strong>CPF: </strong>415.527.898-70</p>
         <p><strong>Centro de Custo: </strong>13019 - Suporte</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -56,8 +48,8 @@
         </div>
     </div>
 
-    <div class="card">
-        <img src="../imagem/Fabio%20Manoel%20Goncalves%20D'avilla.png" alt="Foto do Colaborador"
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Fabio%20Manoel%20Goncalves%20D'avilla.png" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Fabio Manoel Goncalves D'Avilla</h3>
         <p><strong>Cargo: </strong> Desenvolvedor Fullstack Pl</p>
@@ -65,7 +57,7 @@
         <p><strong>E-mail: </strong> fabio.davilla@amorsaude.com</p>
         <p><strong>CPF: </strong> 464.572.868-79</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -80,15 +72,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Fabiola%20Quiles.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Fabiola%20Quiles.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fabiola Todesco Quiles</h3>
         <p><strong>Cargo: </strong> Gerente Adm. Plano Odontológico</p>
         <p><strong>Departamento: </strong> Odontologia</p>
         <p><strong>E-mail: </strong> fabiola.quiles@amorsaude.com</p>
         <p><strong>CPF: </strong> 310.755.438-35</p>
         <p><strong>Centro de Custo: </strong> 18006 - Odontologia - Plano</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos, porém ainda não possui o
@@ -101,15 +93,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Fabricio%20Florentino.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Fabricio%20Florentino.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fabricio Baastista Florentino</h3>
         <p><strong>Cargo: </strong> Consultor De Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong> fabricio.florentino@amorsaude.com</p>
         <p><strong>CPF: </strong> 311.682.658-78</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -150,15 +142,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Felipe%20Oliveira.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Felipe%20Oliveira.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Felipe Candido Oliveira</h3>
         <p><strong>Cargo: </strong>Gerente Financeiro</p>
         <p><strong>Departamento: </strong>Financeiro</p>
         <p><strong>E-mail: </strong> felipe.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong>13001 - Financeiro</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Sem termo do colaborador e dados do equipamento</p>
@@ -169,15 +161,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Felipe%20Fernandes.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Felipe%20Fernandes.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Felipe Lemes Fernandes</h3>
         <p><strong>Cargo: </strong> Analista de Desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de Negócio</p>
         <p><strong>E-mail: </strong> felipe.fernandes@amorsaude.com</p>
         <p><strong>CPF: </strong> 410.057.008-26</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de Negócios</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -216,15 +208,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Felipe%20Sacagnhe%20dos%20Santos.jpg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Felipe%20Sacagnhe%20dos%20Santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Felipe Sacagnhe dos Santos</h3>
         <p><strong>Cargo: </strong>Consultora de Operações</p>
         <p><strong>Departamento: </strong>Operação</p>
         <p><strong>E-mail: </strong>felipe.santos@amorsaude.com</p>
         <p><strong>CPF: </strong>391.420.088-08</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2</p>
-        <p<p><span class="online">Status: Online</span></p>
+        <p<img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -282,15 +274,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Fernanda%20Barbosa.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Fernanda%20Barbosa.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fernanda Beatriz Silva Barbosa</h3>
         <p><strong>Cargo: </strong> Consultora Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>E-mail: </strong> fernanda.barbosa@amorsaude.com</p>
         <p><strong>CPF: </strong> 120.426.446-50</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -344,15 +336,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Fernanda%20Espadari.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Fernanda%20Espadari.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fernanda Radiguieri Espadari</h3>
         <p><strong>Cargo: </strong> Estagiária</p>
         <p><strong>Departamento: </strong> BackOffice</p>
         <p><strong>E-mail: </strong> fernanda.espadari@amorsaude.com</p>
         <p><strong>CPF: </strong> 444.709.338-30</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -398,15 +390,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Fernando%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Fernando%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fernando Vinicius Silva</h3>
         <p><strong>Cargo: </strong> Consultor(A) De Operações</p>
         <p><strong>Departamento: </strong> Regional 2</p>
         <p><strong>E-mail: </strong> fernando.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 373.868.358-50</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -447,15 +439,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Fabricio%20Freitas.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Fabricio%20Freitas.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Francisco Fabricio De Lima Freitas</h3>
         <p><strong>Cargo: </strong> Gerente Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
         <p><strong>E-mail: </strong> fabricio.freitas@amorsaude.com</p>
         <p><strong>CPF: </strong> 582.444.093-04</p>
         <p><strong>Centro de Custo: </strong> 13000 - Financeiro</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -495,9 +487,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
