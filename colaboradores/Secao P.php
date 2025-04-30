@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção P</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+   <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras P</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Pamela%20Cristina%20Sene%20Sousa%20Crispin.png" alt="Foto do Colaborador"
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Pamela%20Cristina%20Sene%20Sousa%20Crispin.png" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Pamela Cristina Sene Souza Crispin</h3>
         <p><strong>Cargo: </strong> Assistente de Atendimento ao Cliente</p>
@@ -68,8 +60,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Pamela%20Felix%20Divino.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Pamela%20Felix%20Divino.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Pamela Felix Divino</h3>
         <p><strong>Cargo: </strong> Analista De Processos E Documentações</p>
         <p><strong>Departamento: </strong> BackOffice</p>
@@ -124,8 +116,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Paula%20Tagliacolli.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Paula%20Tagliacolli.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Paula Aparecida Tagliacolli</h3>
         <p><strong>Cargo: </strong> Analista De Pessoas E Cultura</p>
         <p><strong>Departamento: </strong> Pessoas & Cultura</p>
@@ -173,8 +165,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Paulo Antônio Imon Spanó</h3>
         <p><strong>Cargo: </strong> Desenvolvedor</p>
         <p><strong>Departamento: </strong> Desenvolvimento</p>
@@ -214,7 +206,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Paulo Gabriel Silva Araújo Gomes</h3>
         <p><strong>Cargo: </strong>Engenheiro de Dados</p>
@@ -267,8 +259,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Paulo%20Rick.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Paulo%20Rick.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Paulo Joneas Goncalves Rick</h3>
         <p><strong>Cargo: </strong> Product Owner</p>
         <p><strong>Departamento: </strong> Não especificado</p>
@@ -295,8 +287,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Paulo%20Victor%20Borges.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Paulo%20Victor%20Borges.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Paulo Victor Borges</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -356,8 +348,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Pedro%20Daher%20Yunes.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Pedro%20Daher%20Yunes.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Pedro Daher Yunes</h3>
         <p><strong>Cargo: </strong> Analista de Marketing Internacional</p>
         <p><strong>Departamento: </strong> Marketing Internacional</p>
@@ -402,8 +394,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Pedro%20Castelani.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Pedro%20Castelani.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Pedro Henrique Castelani Dias Pires do Prado</h3>
         <p><strong>Cargo: </strong> Analista De QA</p>
         <p><strong>Departamento: </strong> Produto</p>
@@ -421,8 +413,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Pedro Henrique Cruz Ubine</h3>
         <p><strong>Cargo: </strong> Estagiário(a) Dev</p>
         <p><strong>Departamento: </strong> Desenvolvimento</p>
@@ -440,8 +432,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Pedro%20Henrique%20Romano%20Caetano.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Pedro%20Henrique%20Romano%20Caetano.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Pedro Henrique Romano Caetano</h3>
         <p><strong>Cargo: </strong> Analista De Processos Jr</p>
         <p><strong>Departamento: </strong> Backoffice</p>
@@ -480,8 +472,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Pedro%20Nícolas%20Vieira.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Pedro%20Nícolas%20Vieira.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Pedro Nícolas Vieira</h3>
         <p><strong>Cargo: </strong> Estágio Suporte</p>
         <p><strong>Departamento: </strong> Suporte</p>
@@ -527,8 +519,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Pricila%20Santana.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Pricila%20Santana.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Pricila Françoaze Carrile Santana</h3>
         <p><strong>Cargo: </strong>Especialista Financeiro </p>
         <p><strong>Departamento: </strong>Financeiro</p>
@@ -577,7 +569,7 @@
             </div>
         </div>
     </div>
-    <div class="card">
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Priscila Batista De Souza</h3>
         <p><strong>Cargo: </strong>Assistente de CS</p>
@@ -632,8 +624,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Priscila%20Faquim.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Priscila%20Faquim.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Priscila Moreira Faquim</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -680,9 +672,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
