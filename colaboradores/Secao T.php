@@ -2,22 +2,14 @@
 <html lang="en">
 <head>
     <title>Seção T</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras D</h2>
 <div class="container">
-    <div class="card">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Tabata Fernades</h3>
         <p><strong>Cargo: </strong>Analista Administrativo Jr</p>
         <p><strong>Departamento: </strong>Plano Odontológico</p>
@@ -70,8 +62,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Tamara%20Saturno.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Tamara%20Saturno.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Tamara Honorato Saturno</h3>
         <p><strong>Cargo: </strong> Coordenadora de Suporte</p>
         <p><strong>Departamento: </strong> Suporte</p>
@@ -119,8 +111,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Tatiane Coelho da Luz</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Operações</p>
@@ -167,8 +159,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Tatiane%20Zeotti.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Tatiane%20Zeotti.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Tatiane Tavaes Zeott</h3>
         <p><strong>Cargo: </strong> Assistente de Treinamento</p>
         <p><strong>Departamento: </strong> Não informado</p>
@@ -202,8 +194,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Thaina%20Soares.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Thaina%20Soares.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Thaina Soares de Jesus</h3>
         <p><strong>Cargo: </strong> Não informado</p>
         <p><strong>Departamento: </strong> Não informado</p>
@@ -237,8 +229,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Thais Cristina Medina Whitehead</h3>
         <p><strong>Cargo: </strong> Consultora de Operações</p>
         <p><strong>Departamento: </strong> Não informado</p>
@@ -286,8 +278,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Thais%20Medina.jpeg" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Thais%20Medina.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Thais Dias Martins</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -334,8 +326,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Thiago%20Isaac%20Da%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Thiago%20Isaac%20Da%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Thiago Isaac da Silva</h3>
         <p><strong>Cargo: </strong> Analista De Suporte Pl</p>
         <p><strong>Departamento: </strong> Suporte</p>
@@ -375,8 +367,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Tiago Amado</h3>
         <p><strong>Cargo:</strong>Analista de Dados</p>
         <p><strong>Departamento:</strong>Dados</p>
@@ -406,8 +398,6 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 </body>
 </html>
