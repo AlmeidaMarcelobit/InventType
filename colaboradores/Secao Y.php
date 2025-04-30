@@ -3,23 +3,15 @@
 
 <head>
     <title>Seção Y</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+<?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras Y</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Yago%20Mariano.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Yago%20Mariano.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Yago dos Anjos Mariano</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -80,8 +72,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Yago%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Yago%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Yago Romao Rocha Oliveira</h3>
         <p><strong>Cargo: </strong> Analista CS SAC Jr</p>
         <p><strong>Departamento: </strong> SAC</p>
@@ -134,8 +126,8 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Yasmin%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+    <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Yasmin%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Yasmin Campos da Silva</h3>
         <p><strong>Cargo: </strong> Assistente de Operações</p>
         <p><strong>Departamento: </strong> Backoffice</p>
@@ -198,9 +190,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
