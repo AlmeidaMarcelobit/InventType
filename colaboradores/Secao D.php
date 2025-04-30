@@ -3,30 +3,22 @@
 
 <head>
     <title>Seção D</title>
-    <meta charset="UTF-8">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <link rel="stylesheet" href="../css/colaboradores.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
 <?php include '../includes/header.php'; ?>
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras D</h2>
 <div class="container">
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daiana Aparecida dos Santos</h3>
         <p><strong>Cargo: </strong> Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong>Atendimento ao Cliente</p>
         <p><strong>E-mail: </strong>daiana.santos@amorsaude.com</p>
         <p><strong>CPF: </strong>366.622.218-80</p>
         <p><strong>Centro de Custo: </strong>12002 - SAC</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -64,18 +56,18 @@
         </div>
 
     </div>
-    <div class="card">
-        <img src="../imagem/Daiene%20Priscila.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Daiene%20Priscila.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daiene Priscila Alexandre</h3>
         <p><strong>Cargo: </strong> Analista de Administração Pessoal</p>
         <p><strong>Departamento: </strong> Departamento Pessoal</p>
         <p><strong>E-mail: </strong> daiene.priscila@amorsaude.com</p>
         <p><strong>CPF: </strong> 415.939.168-09</p>
         <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
+                <h4>⌨️🖱�?Teclado e Mouse</h4>
                 <p><strong>Patrimônio: </strong> 277</p>
                 <p><strong>Série: </strong> 2243CE258458</p>
                 <p><strong>Modelo: </strong> Logitech MK270</p>
@@ -107,15 +99,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Daila%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Daila%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daila de Souza Silva Santos</h3>
         <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
         <p><strong>Departamento: </strong> Canais Digitais e Relacionamento</p>
         <p><strong>E-mail: </strong> daila.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 438.983.168-23</p>
         <p><strong>Centro de Custo: </strong> 22005 - Operação Canais Digitais</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -124,7 +116,7 @@
                 <p><strong>Modelo: </strong> Lenovo V15 G3 IAP</p>
             </div>
             <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
+                <h4>⌨️🖱�?Teclado e Mouse</h4>
                 <p><strong>Patrimônio: </strong> 1537</p>
                 <p><strong>Série: </strong> 2347ce268048</p>
                 <p><strong>Modelo: </strong> Logitech MK270</p>
@@ -148,15 +140,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Daniel%20Braz.jpg" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Daniel%20Braz.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daniel Braz</h3>
         <p><strong>Cargo:</strong>Desenvolvedor Fullstack PL</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
         <p><strong>E-mail:</strong>daniel.braz@amorsaude.com</p>
         <p><strong>CPF:</strong>125.722.706-84</p>
         <p><strong>Centro de Custo:</strong>13012 - Desenvolvimento</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -184,15 +176,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Daniel%20Paula.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Daniel%20Paula.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daniel Oliveira Rosa de Paula</h3>
         <p><strong>Cargo: </strong> Assistente de Cadastro</p>
         <p><strong>Departamento: </strong> Dental</p>
         <p><strong>E-mail: </strong> daniel.paula@amorsaude.com</p>
         <p><strong>CPF: </strong> 441.608.948-10</p>
         <p><strong>Centro de Custo: </strong> 72021 - Cadastro</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -225,14 +217,14 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Dariane%20Romerio.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Dariane%20Romerio.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Dariane Romerio</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> SAC</p>
         <p><strong>E-mail: </strong> dariane.romerio@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -253,7 +245,7 @@
                 <p><strong>Modelo: </strong> Galaxy A03</p>
             </div>
             <div class="device">
-                <h4>🖱️ Teclado e Mouse</h4>
+                <h4>🖱�?Teclado e Mouse</h4>
                 <p><strong>Teclado Patrimônio: </strong> 345</p>
                 <p><strong>Mouse Patrimônio: </strong> 346</p>
                 <p><strong>Teclado Série: </strong> 2234CE182229</p>
@@ -261,7 +253,7 @@
                 <p><strong>Modelo: </strong> Logitech MK270</p>
             </div>
             <div class="device">
-                <h4>🖇️ Suporte</h4>
+                <h4>🖇�?Suporte</h4>
                 <p><strong>Patrimônio: </strong> 331</p>
                 <p><strong>Modelo: </strong> Aluminio</p>
             </div>
@@ -272,15 +264,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Davi Ribeiro da Silva</h3>
         <p><strong>Email: </strong>davi.ribeiro@amorsaude.com</p>
         <p><strong>Cargo: </strong>Analista de dados</p>
         <p><strong>Departamento: </strong>Dados</p>
         <p><strong>CPF: </strong>417.150.938-60</p>
         <p><strong>Centro de Custo: </strong>13011 - Dados</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -303,7 +295,7 @@
                 <p><strong>Patrimonio: </strong>547</p>
             </div>
             <div class="device">
-                <h4>🖥️ Monitor</h4>
+                <h4>🖥�?Monitor</h4>
                 <p><strong>Marca/Modelo: </strong>Samsung F24T350FHL</p>
                 <p class="serial"><strong>S/N: </strong>Y4SKHX5T601009L</p>
                 <p><strong>Patrimonio: </strong>499</p>
@@ -334,15 +326,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Davi Simoes dos Santos</h3>
         <p><strong>Cargo: </strong>Consultor de Operações</p>
         <p><strong>Departamento: </strong>Consultoria</p>
         <p><strong>E-mail: </strong>davi.simoes@amorsaude.com</p>
         <p><strong>CPF: </strong>456.589.498-07</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2 </p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -377,15 +369,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Dayane%20Cristina%20Silva%20dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Dayane%20Cristina%20Silva%20dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Dayane Cristina Silva dos Santos</h3>
         <p><strong>Cargo: </strong>Assistente de Retenção</p>
         <p><strong>Departamento: </strong>Relacionamento com Cliente</p>
         <p><strong>E-mail: </strong>dayane.santos@amorsaude.com</p>
         <p><strong>CPF: </strong>383.111.148-03</p>
         <p><strong>Centro de Custo: </strong>72023 - Relacionamento com Cliente / Retensão</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -425,15 +417,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Deise%20Leite%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Deise%20Leite%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Deise Leite</h3>
         <p><strong>Cargo: </strong>Consultor de Operações Internacional</p>
         <p><strong>Departamento: </strong>Internacional</p>
         <p><strong>E-mail: </strong>deise.leite@amorsaude.com</p>
         <p><strong>CPF: </strong>374.036.148-44</p>
         <p><strong>Centro de Custo: </strong>12011 - Internacional</p>
-        <p><span class="online">Status: Online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -461,14 +453,14 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Diego Alberto Rodrigues Blandino</h3>
         <p><strong>Cargo: </strong> Gerente De Suporte</p>
         <p><strong>Departamento: </strong> Gerência Suporte</p>
         <p><strong>E-mail: </strong> diego.blandino@amorsaude.com</p>
         <p><strong>Centro de Custo: </strong> 13015 - Gerência Dados</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -491,7 +483,7 @@
                 <p><strong>IMEI 2: </strong> 355106278871385/01</p>
             </div>
             <div class="device">
-                <h4>🖥️ Monitor</h4>
+                <h4>🖥�?Monitor</h4>
                 <p><strong>Patrimônio: </strong> 354</p>
                 <p><strong>Série: </strong> 302AZDB7874</p>
                 <p><strong>Modelo: </strong> LG 22MP410-B</p>
@@ -503,15 +495,15 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Dione%20Antonio%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Dione%20Antonio%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Dione Antonio dos Santos</h3>
         <p><strong>Cargo: </strong> Analista de desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de negócios</p>
         <p><strong>E-mail: </strong> dione.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 470.351.168-18</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de negócios</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Equipamento</h4>
@@ -552,13 +544,13 @@
             </div>
         </div>
     </div>
-    <div class="card">
-        <img src="../imagem/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Donato Cesar da Costa e Silva</h3>
         <p><strong>Cargo: </strong> Gerente de Customer Sucess</p>
         <p><strong>E-mail: </strong> donato.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 021.989.578-33</p>
-        <p><span class="offline">Status: Offline</span></p>
+        <img class="status" src="../imagem/icone/Off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -573,7 +565,7 @@
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
             <div class="device">
-                <h4>🖇️ Suporte</h4>
+                <h4>🖇�?Suporte</h4>
                 <p><strong>Modelo: </strong> ORMRME</p>
             </div>
             <div class="device">
@@ -592,9 +584,7 @@
         </div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 - 2025 Inventário de Colaboradores - Todos os direitos reservados.</p>
-</footer>
+<?php include '../includes/footer.php'; ?>
 
 </body>
 </html>
