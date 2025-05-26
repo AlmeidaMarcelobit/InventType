@@ -1,91 +1,41 @@
 /* Fonte refinada e clássica */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
 
-/* Container Principal */
+
 body {
-    font-family: 'Cinzel', serif;
     background-color: #f9f9f6;
-    /* Branco perolado */
+    font-family: 'Cinzel', serif;
     margin: 0;
     padding: 0;
     color: #333;
 }
 
-header {
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 100;
-    box-sizing: border-box;
+.home h1 {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 10px;
 }
-
-/* Container Principal Index */
-.home {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 50px auto;
-    gap: 20px;
-    height: 86vh;
-    width: 85%;
+.home p{
+    text-align: center;
+    font-size: 14px;
 }
-
-.container {
+.container{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-    margin: auto;
-    margin-bottom: 20px;
-    width: 70%;
-    gap: 10px;
-    padding: 20px;
+   grid-template-columns: repeat(auto-fill, minmax(470px, 1fr));
+   padding: 20px;
+   gap: 10px;
 }
 
 .card {
-    border: 1px solid #ccc;
-    border-radius: 10px;
     padding: 10px;
     width: 100%;
-    box-sizing: border-box;
-    background: #f9f9f9;
     cursor: pointer;
     transition: background 0.3s;
-}
-
-.card-phone {
-    background-color: #EDEDED;
-    padding: 10px;
     border-radius: 12px;
     border: 1px #525252 solid;
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
-}
-.card-fone{
-    background-color: #EDEDED;
-    padding: 10px;
-    border-radius: 12px;
-    border: 1px #525252 solid;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
-}
-.card-suporte{
-    background-color: #EDEDED;
-    padding: 10px;
-    border-radius: 12px;
-    border: 1px #525252 solid;
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
-}
-.item-device{
-     border: 1px solid #ccc;
-    border-radius: 10px;
-    padding: 10px;
-    width: 100%;
     box-sizing: border-box;
-    background: #f9f9f9;
-    cursor: pointer;
-    transition: background 0.3s;
-}
-
-.card:hover {
-    background: #f1f1f1;
+    background-color: #EDEDED;
 }
 
 .profile-pic {
@@ -100,15 +50,6 @@ header {
 .devices {
     display: none;
 }
-
-.card.active .devices {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    box-sizing: border-box;
-    font-size: 16px;
-}
-
 .device {
     flex: 1;
     padding: 10px 15px;
@@ -130,12 +71,19 @@ header {
     color: #1e1e1e;
 }
 
+.card.active .devices {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
 .responsibility-link {
     width: 100%;
-    margin: 20px auto;
-    padding: 15px;
-    text-align: left;
-    font-size: 12px;
+    margin: 10px auto;
+    padding: px;
+    text-align: center;
+    font-size: 14px;
     border: 1px solid #ccc;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
