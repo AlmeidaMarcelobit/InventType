@@ -5,7 +5,7 @@
     <title>Maquinas</title>
     <meta charset="UTF-8">
     <meta name="author" content="Marcelo de Araujo Almeida">
-    <link rel="stylesheet" href="../css/notebook.css">
+    <link rel="stylesheet" href="../css/global.css">
     <link rel="stylesheet" href="../css/menu-drop.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../scripts/menudrop.js" defer></script>
@@ -16,7 +16,7 @@
 <body>
     <?php include '../includes/header.php';  ?>
     <h2 style="text-align:center;margin-top:10px">💻 Inventário de Maquinas</h2>
-    <div id="container">
+    <div class="container">
         <div class="item-device">
             <h3>💻Maquina 01</h3>
             <p><strong>Modelo:</strong>Dell Vostro 15 3510</p>
