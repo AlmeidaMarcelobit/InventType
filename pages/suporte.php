@@ -5,7 +5,7 @@
     <title>Suporte</title>
     <meta charset="UTF-8">
     <meta name="author" content="Marcelo de Araujo Almeida">
-    <link rel="stylesheet" href="../css/suporte.css">
+    <link rel="stylesheet" href="../css/global.css">
     <link rel="stylesheet" href="../css/menu-drop.css">
     <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -16,7 +16,7 @@
 <body>
     <?php include '../includes/header.php';  ?>
     <h2>🔩Inventario de Suporte</h2>
-    <div id="container">
+    <div class="container">
         <div class="card-suporte">
             <p><strong>Modelo:</strong>Aluminio</p>
             <p><strong>Subtituição:</strong></p>
