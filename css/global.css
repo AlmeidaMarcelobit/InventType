@@ -1,9 +1,11 @@
 /* Fonte refinada e clássica */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+
 /* Container Principal */
 body {
     font-family: 'Cinzel', serif;
-    background-color: #f9f9f6; /* Branco perolado */
+    background-color: #f9f9f6;
+    /* Branco perolado */
     margin: 0;
     padding: 0;
     color: #333;
@@ -23,24 +25,56 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 50px auto;
     gap: 20px;
     height: 86vh;
     width: 85%;
-    margin: 50px auto;
 }
 
 .container {
     display: grid;
-    justify-items: center;
-    width: 70%;
-    margin: auto;
     grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-    gap: 20px;
+    margin: auto;
     margin-bottom: 20px;
+    width: 70%;
+    gap: 10px;
+    padding: 20px;
 }
 
 .card {
     border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    background: #f9f9f9;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.card-phone {
+    background-color: #EDEDED;
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px #525252 solid;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
+}
+.card-fone{
+    background-color: #EDEDED;
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px #525252 solid;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
+}
+.card-suporte{
+    background-color: #EDEDED;
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px #525252 solid;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
+}
+.item-device{
+     border: 1px solid #ccc;
     border-radius: 10px;
     padding: 10px;
     width: 100%;
@@ -119,11 +153,5 @@ footer {
     padding: 10px;
     box-sizing: border-box;
     text-align: center;
-/*
-    position: fixed;
-    bottom: -100px;
-    left: 0;
-    z-index: 100;
-*/
     color: #fff;
 }
