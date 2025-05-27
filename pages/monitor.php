@@ -15,158 +15,139 @@
 </head>
 
 <body>
-    <?php include '../includes/header.php';  ?>
-    <h2 style="text-align:center; margin-top: 10px">💻 Inventário de Monitores</h2>
-    <div class="container">
-        <!-- Cartões de Monitores -->
-        <div class="card">
-            <h3>💻 ID Caixa: 01</h3>
-            <p><strong>Centro Custo:</strong> 12010 - Inteligência de Negócios</p>
-            <p><strong>Marca/Modelo:</strong> Dell P2018H</p>
-            <p><strong>S/N:</strong> BR-00CPG1-TVB00-9CA-1VEU-A08</p>
-            <p><strong>Patrimônio:</strong> 043</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 02</h3>
-            <p><strong>Centro Custo:</strong> Sem Centro Custo</p>
-            <p><strong>Marca/Modelo:</strong> Dell P2018H</p>
-            <p><strong>S/N:</strong> BR-00CPG1-TVB00-9CA-1L9U</p>
-            <p><strong>Patrimônio:</strong> 143</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 04</h3>
-            <p><strong>Centro Custo:</strong> 12007 - Regional 2</p>
-            <p><strong>Marca/Modelo:</strong> LG 22MP410-B</p>
-            <p><strong>S/N:</strong> 303AZSP94390</p>
-            <p><strong>Patrimônio:</strong> 399</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 05</h3>
-            <p><strong>Centro Custo:</strong> 12005 - Backoffice</p>
-            <p><strong>Marca/Modelo:</strong> LG22P410-B</p>
-            <p><strong>S/N:</strong> 303AZZX8K061</p>
-            <p><strong>Patrimônio:</strong> 395</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 06</h3>
-            <p><strong>Centro Custo:</strong> 12006 - Regional 1</p>
-            <p><strong>Marca/Modelo:</strong> LG 22MP410-B</p>
-            <p><strong>S/N:</strong> 403AZBZ6H853</p>
-            <p><strong>Patrimônio:</strong> 1480</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 07</h3>
-            <p><strong>Centro Custo:</strong> 12006 - Regional 1</p>
-            <p><strong>Marca/Modelo:</strong> LG 22MP410-B</p>
-            <p><strong>S/N:</strong> 112AZB7C018</p>
-            <p><strong>Patrimônio:</strong> 060</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 08</h3>
-            <p><strong>Centro Custo:</strong> 12005 - Backoffice</p>
-            <p><strong>Marca/Modelo:</strong> LG 22MP410-B</p>
-            <p><strong>S/N:</strong> 303AZCQ93931</p>
-            <p><strong>Patrimônio:</strong> 394</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 09</h3>
-            <p><strong>Centro Custo:</strong> 12006 - Regional 1</p>
-            <p><strong>Marca/Modelo:</strong> LG 22MP410-B</p>
-            <p><strong>S/N:</strong> 402AZDB4W274</p>
-            <p><strong>Patrimônio:</strong> 1472</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 10</h3>
-            <p><strong>Centro Custo:</strong> Sem Custo</p>
-            <p><strong>Marca/Modelo:</strong> LG 22MP410-B</p>
-            <p><strong>S/N:</strong> 401AZXC5Y114</p>
-            <p><strong>Patrimônio:</strong> 1501</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 11</h3>
-            <p><strong>Centro Custo:</strong> 12006 - Regional 1</p>
-            <p><strong>Marca/Modelo:</strong> LG-22MP410-B</p>
-            <p><strong>S/N:</strong> 403AZPUJ240</p>
-            <p><strong>Patrimônio:</strong> 1475</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 12</h3>
-            <p><strong>Centro Custo:</strong> Sem Centro Custo</p>
-            <p><strong>Marca/Modelo:</strong> Dell P2018HC</p>
-            <p><strong>S/N:</strong> BR-00CPG1-TVB00-04E-2FIU-A08</p>
-            <p><strong>Patrimônio:</strong> 039</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 13</h3>
-            <p><strong>Centro Custo:</strong> Sem Centro Custo</p>
-            <p><strong>Marca/Modelo:</strong> Dell P2018HC</p>
-            <p><strong>S/N:</strong> BR-00CPG1-TVB00-9CA-1V8U-A08</p>
-            <p><strong>Patrimônio:</strong> 139</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 14</h3>
-            <p><strong>Centro Custo:</strong> 12007 - Regional 2</p>
-            <p><strong>Marca/Modelo:</strong> Dell E1920HF</p>
-            <p><strong>S/N:</strong> BR-0V4FTW-TVB00-1A6-8O0B-A03</p>
-            <p><strong>Patrimônio:</strong> 033</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 15</h3>
-            <p><strong>Centro Custo:</strong> Sem Centro Custo</p>
-            <p><strong>Marca/Modelo:</strong> Dell E1920HF</p>
-            <p><strong>S/N:</strong> BR-0V4FTW-TVB00-1A6-80QB-A03</p>
-            <p><strong>Patrimônio:</strong> 057</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 16</h3>
-            <p><strong>Centro Custo:</strong> 12006 - Regional 1</p>
-            <p><strong>Marca/Modelo:</strong> Dell E1920HF</p>
-            <p><strong>S/N:</strong> BR-OV4FTW-TVB00-1A6-8P0B-A03</p>
-            <p><strong>Patrimônio:</strong> 070</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 17</h3>
-            <p><strong>Centro Custo:</strong> Sem Centro Custo</p>
-            <p><strong>Marca/Modelo:</strong> Dell E1920HF</p>
-            <p><strong>S/N:</strong> BR-0V4FTW-TVB00-1A6-8P5B-A03</p>
-            <p><strong>Patrimônio:</strong> 004</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 18</h3>
-            <p><strong>Centro Custo:</strong> 13013 - Produto</p>
-            <p><strong>Marca/Modelo:</strong> Dell E1920HF</p>
-            <p><strong>S/N:</strong> BR-0V4FTW-TVB00-1A6-8PRB-A03</p>
-            <p><strong>Patrimônio:</strong> 069</p>
-        </div>
-
-        <div class="card">
-            <h3>💻 ID Caixa: 30</h3>
-            <p><strong>Centro Custo:</strong> Sem Centro Custo</p>
-            <p><strong>Marca/Modelo:</strong> LG22MP410-B</p>
-            <p><strong>S/N:</strong> 303AZQV96500</p>
-            <p><strong>Patrimônio:</strong> Não especificado</p>
-        </div>
+<?php include '../includes/header.php';  ?>
+<h2 style="text-align:center; margin-top: 10px">💻 Inventário de Monitores</h2>
+<div class="container">
+    <div class="card">
+        <div class="info">Caixa:<span class="label">01</span></div>
+        <div class="info">Centro de Custo<span class="label">12010 - Inteligência de Negócios</span></div>
+        <div class="info">Modelo:<span class="label"> Dell P2018H</span></div>
+        <div class="info">S/N:<span class="label"></span>BR-00CPG1-TVB00-9CA-1VEU-A08</div>
+        <div class="info">Patrimônio:<span class="label">043</span></div>
     </div>
-
-    <footer>
-        <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
-    </footer>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">02</span></div>
+        <div class="info">Centro de Custo:<span class="label">Sem Centro Custo</span></div>
+        <div class="info">Modelo:<span class="label">Dell P2018H</span></div>
+        <div class="info">S/N:<span class="label">BR-00CPG1-TVB00-9CA-1L9U</span></div>
+        <div class="info">Patrimônio:<span class="label">143</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">04</span></div>
+        <div class="info">Centro de Custo<span class="label">12007 - Regional 2</span></div>
+        <div class="info">Modelo:<span class="label">LG 22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">303AZSP94390</span></div>
+        <div class="info">Patrimônio:<span class="label">399</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">05</span></div>
+        <div class="info">Centro de Custo<span class="label">12005 - Backoffice</span></div>
+        <div class="info">Modelo:<span class="label">LG22P410-B</span></div>
+        <div class="info">S/N:<span class="label">303AZZX8K061</span></div>
+        <div class="info">Patrimônio:<span class="label">395</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">06</span></div>
+        <div class="info">Centro de Custo<span class="label">12006 - Regional 1</span></div>
+        <div class="info">Modelo:<span class="label">LG 22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">403AZBZ6H853</span></div>
+        <div class="info">Patrimônio:<span class="label">1480</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">07</span></div>
+        <div class="info">Centro de Custo<span class="label">12006 - Regional 1</span></div>
+        <div class="info">Modelo:<span class="label">LG 22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">112AZB7C018</span></div>
+        <div class="info">Patrimônio:<span class="label">060</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">08</span></div>
+        <div class="info">Centro de Custo<span class="label">12005 - Backoffice</span></div>
+        <div class="info">Modelo:<span class="label">LG 22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">303AZCQ93931</span></div>
+        <div class="info">Patrimônio:<span class="label">394</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">09</span></div>
+        <div class="info">Centro de Custo<span class="label">12006 - Regional 1</span></div>
+        <div class="info">Modelo:<span class="label">LG 22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">402AZDB4W274</span></div>
+        <div class="info">Patrimônio:<span class="label">1472</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">10</span></div>
+        <div class="info">Centro de Custo<span class="label">Sem Custo</span></div>
+        <div class="info">Modelo:<span class="label">LG 22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">401AZXC5Y114</span></div>
+        <div class="info">Patrimônio:<span class="label">1501</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">11</span></div>
+        <div class="info">Centro de Custo<span class="label">12006 - Regional 1</span></div>
+        <div class="info">Modelo:<span class="label">LG-22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">403AZPUJ240</span></div>
+        <div class="info">Patrimônio:<span class="label">1475</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">12</span></div>
+        <div class="info">Centro de Custo<span class="label">Sem Centro Custo</span></div>
+        <div class="info">Modelo:<span class="label">Dell P2018HC</span></div>
+        <div class="info">S/N:<span class="label">BR-00CPG1-TVB00-04E-2FIU-A08</span></div>
+        <div class="info">Patrimônio:<span class="label">039</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">13</span></div>
+        <div class="info">Centro de Custo<span class="label">Sem Centro Custo</span></div>
+        <div class="info">Modelo:<span class="label">Dell P2018HC</span></div>
+        <div class="info">S/N:<span class="label">BR-00CPG1-TVB00-9CA-1V8U-A08</span></div>
+        <div class="info">Patrimônio:<span class="label">139</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">14</span></div>
+        <div class="info">Centro de Custo<span class="label">12007 - Regional 2</span></div>
+        <div class="info">Modelo:<span class="label">Dell E1920HF</span></div>
+        <div class="info">S/N:<span class="label">BR-0V4FTW-TVB00-1A6-8O0B-A03</span></div>
+        <div class="info">Patrimônio:<span class="label">033</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">15</span></div>
+        <div class="info">Centro de Custo<span class="label">Sem Centro Custo</span></div>
+        <div class="info">Modelo:<span class="label">Dell E1920HF</span></div>
+        <div class="info">S/N:<span class="label">BR-0V4FTW-TVB00-1A6-80QB-A03</span></div>
+        <div class="info">Patrimônio:<span class="label">057</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">16</span></div>
+        <div class="info">Centro de Custo<span class="label">12006 - Regional 1</span></div>
+        <div class="info">Modelo:<span class="label">Dell E1920HF</span></div>
+        <div class="info">S/N:<span class="label">BR-OV4FTW-TVB00-1A6-8P0B-A03</span></div>
+        <div class="info">Patrimônio:<span class="label">070</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label"> 17</span></div>
+        <div class="info">Centro de Custo<span class="label">Sem Centro Custo</span></div>
+        <div class="info">Modelo:<span class="label">Dell E1920HF</span></div>
+        <div class="info">S/N:<span class="label">BR-0V4FTW-TVB00-1A6-8P5B-A03</span></div>
+        <div class="info">Patrimônio:<span class="label">004</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">18</span></div>
+        <div class="info">Centro de Custo<span class="label"> 13013 - Produto</span></div>
+        <div class="info">Modelo:<span class="label">Dell E1920HF</span></div>
+        <div class="info">S/N:<span class="label">BR-0V4FTW-TVB00-1A6-8PRB-A03</span></div>
+        <div class="info">Patrimônio:<span class="label">069</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">30</span></div>
+        <div class="info">Centro de Custo<span class="label">Sem Centro Custo</span></div>
+        <div class="info">Modelo:<span class="label">LG22MP410-B</span></div>
+        <div class="info">S/N:<span class="label">303AZQV96500</span></div>
+        <div class="info">Patrimônio:<span class="label"></span></div>
+    </div>
+</div>
+<footer>
+    <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
+</footer>
 
 </body>
 
