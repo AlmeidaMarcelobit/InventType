@@ -1254,7 +1254,6 @@
             </div>
         </div>
     </div>
-    <div class="container">
         <div class="card">
             <h2>📦ID Caixa: 51</h2>
             <p><strong>Substituição:</strong> Bruna de Freitas Rosário/p>
