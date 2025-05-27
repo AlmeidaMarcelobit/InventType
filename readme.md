@@ -381,7 +381,6 @@
     ├── pages
     │   ├── celular.php
     │   ├── code-escape.php
-    │   ├── equipamentos-emprestado.php
     │   ├── fone.php
     │   ├── kits.php
     │   ├── monitor.php
