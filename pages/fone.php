@@ -15,97 +15,98 @@
 </head>
 
 <body>
-    <?php include '../includes/header.php';  ?>
-    <h2 style="text-align:center; margin-top: 10px">🎧Inventario de Fones</h2>
-    <div class="container">
-        <div class="card-fone">
-            <h3>📦ID Caixa: 24</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong>2309me017vn8</p>
-            <p><strong>Patrimônio:</strong>833</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 25</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong></p>
-            <p><strong>Patrimônio:</strong>909</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 26</h3>
-            <p><strong>Modelo:</strong>Jabra HSC016</p>
-            <p><strong>S/N:</strong>0026441762</p>
-            <p><strong>Patrimônio:</strong>596</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 27</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong>2125ME0K055</p>
-            <p><strong>Patrimônio:</strong>1125</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 28</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong>2421AY021RR8</p>
-            <p><strong>Patrimônio:</strong>1098</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 29</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong>2421AY01UK49</p>
-            <p><strong>Patrimônio:</strong>1123</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 30</h3>
-            <p><strong>Modelo:</strong>Jabra HSC016</p>
-            <p><strong>S/N:</strong>00262807419</p>
-            <p><strong>Patrimônio:</strong>535</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 31</h3>
-            <p><strong>Modelo:</strong>Jabra HSC016</p>
-            <p><strong>S/N:</strong>273938593</p>
-            <p><strong>Patrimônio:</strong>648</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 32</h3>
-            <p><strong>Modelo:</strong>Jabra HSC016</p>
-            <p><strong>S/N:</strong>274048216</p>
-            <p><strong>Patrimônio:</strong>654</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 33</h3>
-            <p><strong>Modelo:</strong>Jabra HSC016</p>
-            <p><strong>S/N:</strong>273966069</p>
-            <p><strong>Patrimônio:</strong>650</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 34</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong>2329gg169w8</p>
-            <p><strong>Patrimônio:</strong>897</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 38</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong>2331AY02D848</p>
-            <p><strong>Patrimônio:</strong>1020</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 39</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong>2316gg00ass8</p>
-            <p><strong>Patrimônio:</strong>1020</p>
-        </div>
-        <div class="card-fone">
-            <h3>📦ID Caixa: 39</h3>
-            <p><strong>Modelo:</strong>Logitech H390</p>
-            <p><strong>S/N:</strong></p>
-            <p><strong>Patrimônio:</strong>780</p>
-        </div>
+<?php include '../includes/header.php'; ?>
+<h2 style="text-align:center; margin-top: 10px">🎧Inventario de Fones</h2>
+<div class="container">
+
+    <div class="card">
+        <div class="info">Caixa:<span class="label">24</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label">2309me017vn8 </span></div>
+        <div class="info">Patrimônio:<span class="label"> 833</span></div>
     </div>
-    <footer>
-        <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
-    </footer>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">25</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label"></span></div>
+        <div class="info">Patrimônio:<span class="label">909</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">26</span></div>
+        <div class="info">Modelo:<span class="label">Jabra HSC016</span></div>
+        <div class="info">S/N:<span class="label"></span>0026441762</div>
+        <div class="info">Patrimônio:<span class="label"></span>596</div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">27</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label">2125ME0K055</span></div>
+        <div class="info">Patrimônio:<span class="label"></span>1125</div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">28</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label">2421AY021RR8</span></div>
+        <div class="info">Patrimônio:<span class="label">1098</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">29</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label">2421AY01UK49</span></div>
+        <div class="info">Patrimônio:<span class="label">1123</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">30</span></div>
+        <div class="info">Modelo:<span class="label">Jabra HSC016</span></div>
+        <div class="info">S/N:<span class="label">00262807419</span></div>
+        <div class="info">Patrimônio:<span class="label">535</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">31</span></div>
+        <div class="info">Modelo:<span class="label">Jabra HSC016</span></div>
+        <div class="info">S/N:<span class="label">273938593</span></div>
+        <div class="info">Patrimônio:<span class="label">648</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">32</span></div>
+        <div class="info">Modelo:<span class="label">Jabra HSC016</span></div>
+        <div class="info">S/N:<span class="label">274048216</span></div>
+        <div class="info">Patrimônio:<span class="label">654</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">33</span></div>
+        <div class="info">Modelo:<span class="label">Jabra HSC016</span></div>
+        <div class="info">S/N:<span class="label"></span>273966069</div>
+        <div class="info">Patrimônio:<span class="label">650</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">34</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label">2329gg169w8</span></div>
+        <div class="info">Patrimônio:<span class="label">897</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">38</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label">2331AY02D848</span></div>
+        <div class="info">Patrimônio:<span class="label">1020</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">39</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label">2316gg00ass8</span></div>
+        <div class="info">Patrimônio:<span class="label">1020</span></div>
+    </div>
+    <div class="card">
+        <div class="info">Caixa:<span class="label">39</span></div>
+        <div class="info">Modelo:<span class="label">Logitech H390</span></div>
+        <div class="info">S/N:<span class="label"></span></div>
+        <div class="info">Patrimônio:<span class="label">780</span></div>
+    </div>
+</div>
+<footer>
+    <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
+</footer>
 </body>
 
 </html>
