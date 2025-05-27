@@ -737,6 +737,24 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <h3>👤 Matheus Lima</h3>
+        <p><strong>Cargo: </strong>Coordenador de Parcerias Comercias</p>
+        <p><strong>Departamento: </strong> Cirurgias</p>
+        <p><strong>E-mail: </strong> matheus.lima@amorsaude.com</p>
+        <p><strong>CPF: </strong> </p>
+        <p><strong>Centro de Custo: </strong> Não informado</p>
+        <span class=" online">:  online</span>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio: </strong> 049</p>
+                <p><strong>Série: </strong>6BTR3L3</p>
+                <p><strong>Modelo: </strong> Dell Inspiron 5402</p>
+            </div>
+        </div>
+    </div>
+    <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Mathiele%20Matos.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Mathiele Machado de Matos</h3>
         <p><strong>Cargo: </strong> Consultoria de Operações</p>
