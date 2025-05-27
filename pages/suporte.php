@@ -17,10 +17,10 @@
     <?php include '../includes/header.php';  ?>
     <h2>🔩Inventario de Suporte</h2>
     <div class="container">
-        <div class="card-suporte">
-            <p><strong>Modelo:</strong>Aluminio</p>
-            <p><strong>Subtituição:</strong></p>
-            <p><strong>Patrimonio:</strong>1087</p>
+        <div class="card">
+            <div class="info">Modelo:<span class="label">Aluminio</span></div>
+            <div class="info">S/N:<span class="label"></span></div>
+            <div class="info">Patrimônio:<span class="label">1087</span></div>
         </div>
     </div>
     <footer>
