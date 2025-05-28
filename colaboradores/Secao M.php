@@ -81,7 +81,7 @@
         <p><strong>E-mail: </strong> malinda.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong> 306.257.108-00</p>
         <p><strong>Centro de Custo: </strong> 12002 - Sac</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -157,7 +157,7 @@
         <p><strong>E-mail: </strong> marcela.diab@amorsaude.com</p>
         <p><strong>CPF: </strong> 368.325.148-40</p>
         <p><strong>Centro de Custo: </strong> Não informado</p>
-        <p><span class=" online">:  online</span></p>
+        <<img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -252,7 +252,7 @@
         <p><strong>E-mail: </strong> marcelo.okazaki@amorsaude.com</p>
         <p><strong>CPF: </strong> 452.967.358-89</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos, porém ainda não possui o
@@ -272,7 +272,7 @@
         <p><strong>E-mail: </strong> marcos.bizarri@amorsaude.com</p>
         <p><strong>CPF: </strong> 412.562.488-78</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -325,7 +325,7 @@
         <p><strong>E-mail: </strong> marcos.corusse@amorsaude.com</p>
         <p><strong>CPF: </strong> 403.238.458-43</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -367,7 +367,7 @@
         <p><strong>E-mail: </strong>marcos.silva@amorsaude.com</p>
         <p><strong>CPF: </strong>195.035.218-82</p>
         <p><strong>Centro de Custo: </strong>32000</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook I5 8gb ram 256gb ssd</h4>
@@ -424,7 +424,7 @@
         <p><strong>E-mail: </strong> marcos.moroti@amorsaude.com</p>
         <p><strong>CPF: </strong> 473.590.478-62</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <span class=" desligado">:  Desligado</span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -468,7 +468,7 @@
         <p><strong>E-mail: </strong> maria.medeiros@amorsaude.com</p>
         <p><strong>CPF: </strong> 115.150.016-01</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <span class="offline">Status: Offline</span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -513,7 +513,7 @@
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
         <p><strong>Data de Admissão: </strong> 20.06.2022</p>
         <p><strong>Data de Desligamento: </strong> 03.09.2024</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -919,7 +919,7 @@
         <p><strong>E-mail: </strong> miria.cardozo@amorsaude.com</p>
         <p><strong>CPF: </strong> 419.539.578-03</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -966,7 +966,7 @@
         <p><strong>E-mail: </strong> monica.soares@amorsaude.com</p>
         <p><strong>CPF: </strong> 305.937.958-06</p>
         <p><strong>Centro de Custo: </strong> 13000 - Dir. Financ</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -1015,7 +1015,7 @@
         <p><strong>E-mail: </strong> murillo.zanine@amorsaude.com</p>
         <p><strong>CPF: </strong> 448.038.248-86</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1062,7 +1062,7 @@
         <p><strong>E-mail: </strong> murilo.borba@amorsaude.com</p>
         <p><strong>CPF: </strong> 443.463.578-65</p>
         <p><strong>Centro de Custo: </strong> 13011 - Dados</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -1103,7 +1103,7 @@
         <p><strong>E-mail: </strong> murilo.tinazzo@amorsaude.com</p>
         <p><strong>CPF: </strong> 334.823.378-02</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
