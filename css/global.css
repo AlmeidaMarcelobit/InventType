@@ -43,7 +43,6 @@ body {
     background-color: #1a1a1a;
 }
 
-
 .profile-pic {
     width: 100px;
     border-radius: 50%;
@@ -76,16 +75,26 @@ body {
 }
 
 .card .devices {
-    display: none;
-}
-
-.card:hover .devices {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    box-sizing: border-box;
-    font-size: 16px;
 }
+
+/*.card:hover .devices {*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*    gap: 10px;*/
+/*    box-sizing: border-box;*/
+/*    font-size: 16px;*/
+/*}*/
+
+/*.card.active .devices {*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+/*    gap: 10px;*/
+/*    box-sizing: border-box;*/
+/*    font-size: 16px;*/
+/*}*/
 
 .device {
     flex: 1;
@@ -106,14 +115,6 @@ body {
 
 .device strong {
     color: #888;
-}
-
-.card.active .devices {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    box-sizing: border-box;
-    font-size: 16px;
 }
 
 .responsibility-link {
