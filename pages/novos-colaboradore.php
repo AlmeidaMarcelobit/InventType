@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/global.css">
     <link rel="stylesheet" href="../css/menu-drop.css">
+    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="../scripts/menudrop.js" defer></script>
 
@@ -16,9 +17,9 @@
 
 <body id="corpo">
 <?php include '../includes/header.php'; ?>
-<div id="conainer">
-    <div id="card">
-        <h1>Ticket: #141110</h1>
+<div class="container">
+    <div class="card">
+        <div class="info"><span class="label">Ticket:</span> #141110</div>
         <div class="info"><span class="label">Candidato:</span> Beatriz Lima Gouvêa</div>
         <div class="info"><span class="label">CPF:</span>526.497.578-76 </div>
         <div class="info"><span class="label">Fabíola Todesco Quiles:</span>Superior Imediato </div>
