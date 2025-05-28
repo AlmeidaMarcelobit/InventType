@@ -68,7 +68,6 @@ body {
     border-left: 4px solid #a11a1a;
     padding: 8px;
     border-radius: 6px;
-    color: #;
     font-style: italic;
 }
 
@@ -120,7 +119,7 @@ body {
 .responsibility-link {
     width: 100%;
     margin: 10px auto;
-    padding: px;
+    padding: 5px;
     text-align: center;
     font-size: 14px;
     border: 1px solid #ccc;
