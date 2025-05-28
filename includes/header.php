@@ -2,11 +2,12 @@
     <nav class="nav" aria-label="Main navigation">
         <ul>
             <li><a href="../includes/index.php">Home</a></li>
+            <li><a href="../pages/novos-colaboradore.php">Novos Colaboradores</a></li>
 
             <li class="drop" aria-haspopup="true" aria-expanded="false">
                 <a href="#">Colaboradores ▾</a>
                 <ul class="dropdown" aria-label="Submenu">
-                    <li><a href="../pages/novos-colaboradore.php">Novos COlaboradres</a></li>
+                    <li><a href="../pages/novos-colaboradore.php">Novos Colaboradres</a></li>
                     <li><a href="../colaboradores/Secao%20A.php">Seção A</a></li>
                     <li><a href="../colaboradores/Secao%20B.php">Seção B</a></li>
                     <li><a href="../colaboradores/Secao%20C.php">Seção C</a></li>
