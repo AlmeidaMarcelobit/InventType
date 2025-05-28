@@ -18,7 +18,7 @@
         <p><strong>E-mail: </strong> sairah.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 096.801.206-00</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p class="online"><span>: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -86,7 +86,7 @@
         <p><strong>E-mail: </strong> sandra.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong> 175.483.388-80</p>
         <p><strong>Centro de Custo: </strong> 13021 - Gerência Pessoas e Cultura</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -129,7 +129,7 @@
         <p><strong>E-mail: </strong>sara.domingos@amorsaude.com</p>
         <p><strong>CPF: </strong> 464.717.258-92</p>
         <p><strong>Centro de Custo: </strong>12006 - Regional 1</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -184,7 +184,7 @@
         <p><strong>E-mail: </strong></p>
         <p><strong>CPF: </strong> 326.384.048-70</p>
         <p><strong>Centro de Custo: </strong></p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -233,7 +233,7 @@
         <p><strong>E-mail: </strong> sophia.fantini@amorsaude.com</p>
         <p><strong>CPF: </strong> 398.365.638-22</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -274,7 +274,7 @@
         <p><strong>E-mail: </strong> suellen.tavares@amorsaude.com</p>
         <p><strong>CPF: </strong> 343.634.398-66</p>
         <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>

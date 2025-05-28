@@ -9,16 +9,14 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras D</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/Tabata%20Fernades.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Tabata Fernades</h3>
         <p><strong>Cargo: </strong>Analista Administrativo Jr</p>
         <p><strong>Departamento: </strong>Plano Odontológico</p>
-        <p><strong>E-mail: </strong>tabata.fernandes@amorsaude.com
-
-        </p>
+        <p><strong>E-mail: </strong>tabata.fernandes@amorsaude.com</p>
         <p><strong>CPF: </strong>336.174.488-10</p>
         <p><strong>Centro de Custo: </strong>72024 - Operações Plano</p>
-        <p><span class=" ativo">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -70,7 +68,7 @@
         <p><strong>E-mail: </strong> tamara.saturno@amorsaude.com</p>
         <p><strong>CPF: </strong> 368.245.228-13</p>
         <p><strong>Centro de Custo: </strong> 13019 - Suporte</p>
-        <p class="online"><strong>Status: </strong>Online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -119,7 +117,7 @@
         <p><strong>E-mail: </strong> tatiane.luz@amorsaude.com</p>
         <p><strong>CPF: </strong> 346.405.008-40</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -167,7 +165,7 @@
         <p><strong>E-mail: </strong> Não informado</p>
         <p><strong>CPF: </strong> 365.396.218-84</p>
         <p><strong>Centro de Custo: </strong> Não informado</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -202,7 +200,7 @@
         <p><strong>E-mail: </strong> Não informado</p>
         <p><strong>CPF: </strong> 380.231.428-01</p>
         <p><strong>Centro de Custo: </strong> Não informado</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -237,7 +235,7 @@
         <p><strong>E-mail: </strong> Não informado</p>
         <p><strong>CPF: </strong> 423.069.398-29</p>
         <p><strong>Centro de Custo: </strong> Não informado</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -286,6 +284,7 @@
         <p><strong>E-mail: </strong> thais.martins@amorsaude.com</p>
         <p><strong>CPF: </strong> 184.66.578-78</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regioan 1</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -334,7 +333,7 @@
         <p><strong>E-mail: </strong> thiago.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 436.577.728-98</p>
         <p><strong>Centro de Custo: </strong> 13019 - Suporte</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -375,7 +374,7 @@
         <p><strong>E-mail:</strong>tiago.amado@amorsaude.com</p>
         <p><strong>CPF:</strong></p>
         <p><strong>Centro de Custo:</strong></p>
-        <p><span class=" ativo">:</span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
