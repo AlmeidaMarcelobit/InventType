@@ -3,7 +3,7 @@
 
 <head>
     <title>Seção R</title>
-<?php include '../includes/head.html'; ?>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
@@ -18,7 +18,7 @@
         <p><strong>E-mail: </strong> rafael.gomes@amorsaude.com</p>
         <p><strong>CPF: </strong> 402.847.248-23</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -57,49 +57,7 @@
             </div>
         </div>
     </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Rafaela%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
-        <h3>👤 Rafaela Diniz Campos da Silva</h3>
-        <p><strong>Cargo: </strong> Consultor(A) De Operações</p>
-        <p><strong>Departamento: </strong> Consultoria</p>
-        <p><strong>E-mail: </strong> rafaela.silva@amorsaude.com</p>
-        <p><strong>CPF: </strong> 325.839.138.67</p>
-        <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">: </span></p>
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 219</p>
-                <p><strong>Série: </strong> 83KLOV3</p>
-                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 761</p>
-                <p><strong>Série: </strong> 00225942557</p>
-                <p><strong>Modelo: </strong> Jabra HSC015</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong></p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Multileaser M0300</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 545</p>
-                <p><strong>Série: </strong> R9QT403WRSE</p>
-                <p><strong>Modelo: </strong> Galaxy A03</p>
-                <p><strong>IMEI 1: </strong> 351989271933664/01</p>
-                <p><strong>IMEI 2: </strong> 353297231933669/01</p>
-            </div>
-        </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
+
     <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Rafaela%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Rafaela Domenici da Silva</h3>
@@ -108,7 +66,7 @@
         <p><strong>E-mail: </strong> rafaela.domenici@amorsaude.com</p>
         <p><strong>CPF: </strong> 407.827.468-45</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -157,7 +115,7 @@
         <p><strong>E-mail: </strong> raissa.lima@amorsaude.com</p>
         <p><strong>CPF: </strong> 374.117.888-80</p>
         <p><strong>Centro de Custo: </strong> 72023 - Relacionamento com Cliente / Retenção</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -198,8 +156,7 @@
         <p><strong>E-mail:</strong>raphael.leite@amorsaude.com</p>
         <p><strong>CPF:</strong>028.739.429-83</p>
         <p><strong>Centro de Custo:</strong>13013 - Produto</p>
-        <p><span class=" online">: online</span></p>
-
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -235,7 +192,7 @@
         <p><strong>E-mail: </strong> renan.freire@amorsaude.com</p>
         <p><strong>CPF: </strong> 439.638.938-85</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -291,7 +248,7 @@
         <p><strong>E-mail: </strong> renata.gomes@amorsaude.com</p>
         <p><strong>CPF: </strong> 282 846 148-39</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -338,7 +295,7 @@
         <p><strong>E-mail: </strong> renata.merlo@amorsaude.com</p>
         <p><strong>CPF: </strong> 443.414.268-26</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -373,7 +330,7 @@
         <p><strong>E-mail: </strong> ricardo.perdigao@amorsaude.com</p>
         <p><strong>CPF: </strong> 352.074.958-01</p>
         <p><strong>Centro de Custo: </strong> 12019 - Gerência Regional 2</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/offpng" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -416,7 +373,7 @@
         <p><strong>E-mail: </strong> rodrigo.pelicano@amorsaude.com</p>
         <p><strong>CPF: </strong> 345.200.218-71</p>
         <p><strong>Centro de Custo: </strong></p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -465,7 +422,7 @@
         <p><strong>E-mail: </strong> roger.mazzali@amorsaude.com</p>
         <p><strong>CPF: </strong> 319.054.418-27</p>
         <p><strong>Centro de Custo: </strong> 13019</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -496,7 +453,7 @@
         <p><strong>E-mail: </strong> rogerio.almeida@amorsaude.com</p>
         <p><strong>CPF: </strong> 435.810.868-75</p>
         <p><strong>Centro de Custo: </strong> 13000 - Dir. Financeira</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔌 Adaptador de Rede</h4>
@@ -540,7 +497,7 @@
         <p><strong>E-mail: </strong> rosemeire.soares@amorsaude.com</p>
         <p><strong>CPF: </strong> 167.232.588-94</p>
         <p><strong>Centro de Custo: </strong> 13008 - Recepção</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️Teclado e Mouse</h4>
@@ -581,7 +538,7 @@
         <p><strong>E-mail: </strong> rubem.diniz@amorsaude.com</p>
         <p><strong>CPF: </strong> N/A</p>
         <p><strong>Centro de Custo: </strong> 13019</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⚠️ Informações Importantes</h4>
@@ -603,7 +560,11 @@
         <p><strong>E-mail: </strong> rubia.albuquerque@amorsaude.com</p>
         <p><strong>CPF: </strong> 301.676.228-55</p>
         <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
+
+        <div>
+
+        </div>
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
