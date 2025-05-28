@@ -3,7 +3,7 @@
 
 <head>
     <title>Seção R</title>
-?php include '../includes/head.html'; ?>
+<?php include '../includes/head.html'; ?>
 </head>
 
 <body>
@@ -460,8 +460,8 @@
     <div class="card" onclick="this.classList.toggle('active')">
         <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Roger Ricobelo Mazzali</h3>
-        <p><strong>Cargo: </strong> Analista de Suporte Pl</p>
-        <p><strong>Departamento: </strong> Suporte/Tech</p>
+        <p><strong>Cargo: </strong> Analista de QA Pl</p>
+        <p><strong>Departamento: </strong> Produtos</p>
         <p><strong>E-mail: </strong> roger.mazzali@amorsaude.com</p>
         <p><strong>CPF: </strong> 319.054.418-27</p>
         <p><strong>Centro de Custo: </strong> 13019</p>
@@ -474,6 +474,12 @@
                 <p><strong>Modelo: </strong> K8+</p>
                 <p><strong>IMEI 1: </strong> 353523117417273</p>
                 <p><strong>IMEI 2: </strong> 353523117417281</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 1052</p>
+                <p><strong>Série: </strong> 2501AY4008Z8</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
         </div>
         <div class="devices">
