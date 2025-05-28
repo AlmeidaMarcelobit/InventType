@@ -207,7 +207,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Paulo Gabriel Silva Araújo Gomes</h3>
         <p><strong>Cargo: </strong>Engenheiro de Dados</p>
         <p><strong>Departamento: </strong>Dados</p>
@@ -241,13 +241,6 @@
                 <p><strong>Série: </strong></p>
                 <p><strong>Modelo: </strong>Alumínio</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong>547</p>
-            <p><strong>Série: </strong>2128ME0EYNA8</p>
-            <p><strong>Modelo: </strong>Logitech H390</p>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
@@ -378,14 +371,6 @@
                 <p><strong>IMEI 1: </strong> 35830223539608/01</p>
                 <p><strong>IMEI 2: </strong> 35976405393604/01</p>
             </div>
-        </div>
-        <!-- Exibe a seção de Equipamentos Comprometidos porque há dados -->
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 598</p>
-            <p><strong>Série: </strong> 265441762</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
         </div>
         <!-- Termo de Responsabilidade sempre aparece -->
         <div class="devices">
