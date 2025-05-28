@@ -59,19 +59,6 @@
                 <p><strong>Modelo: </strong> LG 22MP410-B</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 655</p>
-            <p><strong>Série: </strong> 274050566</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
-        </div>
-        <div class="device">
-            <h4>🖥️ Monitor</h4>
-            <p><strong>Patrimônio: </strong> 033</p>
-            <p><strong>Série: </strong> BR-0V4FTW-TV800-1A6-800B-A03</p>
-            <p><strong>Modelo: </strong> Dell E1920H</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -302,13 +289,6 @@
                 <p><strong>Série: </strong> 2323LXX5KT18 - 2325CE138068</p>
                 <p><strong>Modelo: </strong> Logitech MK270</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Equipamento</h4>
-            <p><strong>Patrimônio: </strong> 1009</p>
-            <p><strong>Série: </strong> 2350AY051038</p>
-            <p><strong>Modelo: </strong> Logitech H390</p>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
