@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="../readme-ai/readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
+<img src="imagem/favicon/favicon-32x32.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
 
 # INVENTTYPE
 
