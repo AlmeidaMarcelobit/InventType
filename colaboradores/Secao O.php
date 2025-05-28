@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras 0</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/Otavio%20Freitas.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Otavio Honrorio de Freitas</h3>
         <p><strong>Cargo: </strong>Product Owner Junior</p>
         <p><strong>Departamento: </strong>Projetos e Processos</p>
