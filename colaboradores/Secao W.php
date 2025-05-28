@@ -18,7 +18,7 @@
         <p><strong>E-mail: </strong> walkiria.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 067.368.296-07</p>
         <p><strong>Centro de Custo: </strong> 72024 - Operações Plano</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -73,6 +73,7 @@
         <p><strong>E-mail: </strong> wendell.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong> 411.412.878-62</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -125,8 +126,7 @@
         <p><strong>E-mail: </strong> william.lima@amorsaude.com</p>
         <p><strong>CPF: </strong> 336.273.218-63</p>
         <p><strong>Centro de Custo: </strong> 22000 - Dir. Operações</p>
-        <p><strong>: </strong> Desligado</p>
-        <p><strong>Data de Desligamento: </strong> 08.01.2025</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
