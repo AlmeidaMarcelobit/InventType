@@ -43,13 +43,6 @@
                 <p><strong>Modelo: </strong>Aluminio</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Equipamento</h4>
-            <p><strong>Patrimônio: </strong> Código</p>
-            <p><strong>Série: </strong> Série</p>
-            <p><strong>Modelo: </strong> Modelo</p>
-        </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Informação relevante aqui</p>
