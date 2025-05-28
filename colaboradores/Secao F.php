@@ -257,13 +257,6 @@
                 <p><strong>IMEI 2: </strong>354654236987752/01</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong>650</p>
-            <p><strong>Série: </strong>273966069</p>
-            <p><strong>Modelo: </strong>Jabra HSC016</p>
-        </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Verificar o Monitor e coletar dados Monitor</p>
@@ -323,13 +316,6 @@
                 <p><strong>Modelo: </strong> LG 22MP410-B</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 676</p>
-            <p><strong>Série: </strong> 273963701</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -370,13 +356,6 @@
                 <p><strong>Série: </strong> 303AZQU96524</p>
                 <p><strong>Modelo: </strong> LG-22MP410-P</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🖥️ Monitor</h4>
-            <p><strong>Patrimônio: </strong> 128</p>
-            <p><strong>Série: </strong> BR0V4FTWTVB001A6805BA03</p>
-            <p><strong>Modelo: </strong> E1920H</p>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
