@@ -90,21 +90,6 @@
                 <p><strong>Modelo: </strong> Dell p2018hc</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="devices">
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 789</p>
-                <p><strong>Série: </strong> 2128me0ey</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 973</p>
-                <p><strong>Série: </strong> 233AAy031BAB</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -571,13 +556,6 @@
                 <p><strong>Série: </strong> 384925183</p>
                 <p><strong>Modelo: </strong> Dell WH1022</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 792</p>
-            <p><strong>Série: </strong> 2399829109</p>
-            <p><strong>Modelo: </strong> Jabra HSC 01015</p>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
