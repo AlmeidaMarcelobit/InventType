@@ -3,7 +3,7 @@
 
 <head>
     <title>Seção J</title>
-<?php include '../includes/head.html'; ?>
+    <?php include '../includes/head.html'; ?>
 </head>
 
 <body>
@@ -108,13 +108,6 @@
                 <p><strong>Série: </strong> 2309ME013N89</p>
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 743</p>
-            <p><strong>Série: </strong> 00027313317020917</p>
-            <p><strong>Modelo: </strong> Jabra HSC015</p>
         </div>
         <div class="devices">
             <div class="responsibility-link">
@@ -241,7 +234,8 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Joao%20Vitor%20Silva%20Alves.jpg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/Joao%20Vitor%20Silva%20Alves.jpg" alt="Foto do Colaborador"
+             class="profile-pic">
         <h3>👤 João Vitor Silva Alves</h3>
         <p><strong>Cargo: </strong>Analista de Suporte</p>
         <p><strong>Departamento: </strong>Suporte</p>
@@ -492,27 +486,6 @@
                 <p><strong>Série:</strong></p>
                 <p><strong>Modelo:</strong>Aluminio</p>
             </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio:</strong></p>
-                <p><strong>Série:</strong></p>
-                <p><strong>Modelo:</strong></p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>;
-                <p><strong>Patrimônio:</strong></p>
-                <p><strong>Série:</strong></p>
-                <p><strong>Modelo:</strong></p>
-                <p><strong>IMEI 1:</strong></p>
-                <p><strong>IMEI 2:</strong></p>
-            </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Equipamento</h4>
-            <p><strong>Patrimônio:</strong> Código</p>
-            <p><strong>Série:</strong> Série</p>
-            <p><strong>Modelo:</strong> Modelo</p>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
@@ -616,13 +589,6 @@
                 <p><strong>Modelo: </strong> Alumínio</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Equipamento</h4>
-            <p><strong>Patrimônio: </strong> Código</p>
-            <p><strong>Série: </strong> Série</p>
-            <p><strong>Modelo: </strong> Modelo</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -719,18 +685,18 @@
                 <p><strong>Série: </strong> HN3MOT3</p>
                 <p><strong>Modelo: </strong> Dell Vostro 15 351</p>
             </div>
-        </div>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 1124</p>
-            <p><strong>Série: </strong> 2421AY01PH38</p>
-            <p><strong>Modelo: </strong> Logitech H390</p>
-        </div>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 924</p>
-            <p><strong>Série: </strong> 2332ME01XL08</p>
-            <p><strong>Modelo: </strong> Logitech H390</p>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 1124</p>
+                <p><strong>Série: </strong> 2421AY01PH38</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 924</p>
+                <p><strong>Série: </strong> 2332ME01XL08</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
         </div>
         <div class="devices">
             <div class="responsibility-link">
