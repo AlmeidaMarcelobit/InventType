@@ -326,26 +326,9 @@
             </div>
         </div>
         <div class="devices">
-            <h2>Equipamentos Comprometidos</h2>
-        </div>
-        <div class="devices">
-            <div class="device">
-                <h4>🔌 Adaptador-Rede</h4>
-                <p><strong>Patrimônio: </strong>933</p>
-                <p><strong>Modelo: </strong>Fy-684</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong>511</p>
-                <p><strong>Série: </strong>R9qt403wmhp</p>
-                <p><strong>Modelo: </strong>Galaxy A03</p>
-                <p><strong>IMEI 1: </strong>35198927132251/01</p>
-                <p><strong>IMEI 2: </strong>35327223192257/01</p>
-            </div>
-        </div>
-        <div class="devices">
             <div class="responsibility-link">
-                <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing" target="_blank">📑 Termo de Responsabilidade</a></h4>
+                <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing"
+                       target="_blank">📑 Termo de Responsabilidade</a></h4>
             </div>
         </div>
     </div>
@@ -442,915 +425,869 @@
                 <p><strong>IMEI 1: </strong>359939802683454</p>
                 <p><strong>IMEI 2: </strong>359939802683462</p>
             </div>
-            <h2>Equipamentos Comprometidos</h2>
-            <div class="devices">
-                <div class="device">
-                    <h4>🎧 Fone</h4>
-                    <p><strong>Patrimônio: </strong>870</p>
-                    <p><strong>Série: </strong>2315AY07A69</p>
-                    <p><strong>Modelo: </strong>Logitech H390</p>
-                </div>
+            <div class="responsibility-link">
+                <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing"
+                       target="_blank">📓 Termo de Responsabilidade</a></h4>
+            </div>
+        </div>
+    </div>
 
-                <div class="responsibility-link">
-                    <h4><a href="https: //drive.google.com/drive/folders/1Cq9WaOEZhIRzOXoGrFE3AGcW1dG2ASHX?usp=sharing"
-                           target="_blank">📓 Termo de Responsabilidade</a></h4>
-                </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Carolina Rossi" class="profile-pic">
+    <h3>👤 Ana Carolina Rossi</h3>
+    <p><strong>Cargo: </strong>Analista Comercial</p>
+    <p><strong>Departamento: </strong>Amor Cirurgias</p>
+    <p><strong>E-mail: </strong>anacarolina.rossi@amorsaude.com</p>
+    <p><strong>CPF: </strong>305.254.438-19</p>
+    <p><strong>Centro de Custo: </strong>32001 - Administronline</p>
+    <img class="status" src="../imagem/icone/Off.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong>013</p>
+            <p><strong>Série: </strong>G7LYXP3</p>
+            <p><strong>Modelo: </strong>Dell Vostro 15 3510</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong>682</p>
+            <p><strong>Série: </strong>273963821</p>
+            <p><strong>Modelo: </strong>Jabra HSC016</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong></p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong>Multlease MO300</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong>718</p>
+            <p><strong>Série: </strong>r9qr1082gxh</p>
+            <p><strong>Modelo: </strong>Samsung A02s</p>
+            <p><strong>IMEI 1: </strong>355473601371420/01</p>
+            <p><strong>IMEI 2: </strong>359454181371424/01</p>
+        </div>
+    </div>
+    <div class="devices">
+        <div class="responsibility-link">
+            <h4><a href="" target="_blank">📓 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves"
+         class="profile-pic">
+    <h3>👤 Ana Caroline de Rezende Alves</h3>
+    <p><strong>Cargo: </strong>Consultora de Operações</p>
+    <p><strong>Departamento: </strong>Consultoria</p>
+    <p><strong>E-mail: </strong>anacaroline.alves@amorsaude.com</p>
+    <p><strong>CPF: </strong>115.334.276-66</p>
+    <p><strong>Centro de Custo: </strong>12001 - Regional 1</p>
+    <img class="status" src="../imagem/icone/Off.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong>461</p>
+            <p><strong>Série: </strong>GD3KZ3</p>
+            <p><strong>Modelo: </strong>Dell Vostro 3520</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong>926</p>
+            <p><strong>Série: </strong>2332ME01XK88</p>
+            <p><strong>Modelo: </strong>Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado e Mouse</h4>
+            <p><strong>Patrimônio: </strong>462</p>
+            <p><strong>Série: </strong>2232CE1CFB78 - 2230LZX1R9E8</p>
+            <p><strong>Modelo: </strong>Logitech K270 - M185</p>
+        </div>
+        <div class="device">
+            <h4>📌 Suporte</h4>
+            <p><strong>Patrimônio: </strong>927</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong>Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>🖥️ Monitor</h4>
+            <p><strong>Patrimônio:</strong>051</p>
+            <p><strong>Série:</strong>HVG3C03</p>
+            <p><strong>Modelo:</strong>Dell P2018HC</p>
+        </div>
+    </div>
+        <div class="devices">
+            <div class="responsibility-link">
+                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
             </div>
         </div>
+    </div>
 
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Carolina Rossi" class="profile-pic">
-        <h3>👤 Ana Carolina Rossi</h3>
-        <p><strong>Cargo: </strong>Analista Comercial</p>
-        <p><strong>Departamento: </strong>Amor Cirurgias</p>
-        <p><strong>E-mail: </strong>anacarolina.rossi@amorsaude.com</p>
-        <p><strong>CPF: </strong>305.254.438-19</p>
-        <p><strong>Centro de Custo: </strong>32001 - Administronline</p>
-        <img class="status" src="../imagem/icone/Off.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong>013</p>
-                <p><strong>Série: </strong>G7LYXP3</p>
-                <p><strong>Modelo: </strong>Dell Vostro 15 3510</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong>682</p>
-                <p><strong>Série: </strong>273963821</p>
-                <p><strong>Modelo: </strong>Jabra HSC016</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong></p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong>Multlease MO300</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong>718</p>
-                <p><strong>Série: </strong>r9qr1082gxh</p>
-                <p><strong>Modelo: </strong>Samsung A02s</p>
-                <p><strong>IMEI 1: </strong>355473601371420/01</p>
-                <p><strong>IMEI 2: </strong>359454181371424/01</p>
-            </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida"
+         class="profile-pic">
+    <h3>Ana Clara Lourenco de Almeida</h3>
+    <p><strong>Cargo: </strong>Auxiliar de Pessoas & Cultura</p>
+    <p><strong>Departamento: </strong>Remuneração e Benefícios</p>
+    <p><strong>E-mail: </strong>ana.almeida@amorsaude.com</p>
+    <p><strong>CPF: </strong> 483.778.638-39</p>
+    <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
+    <p><strong>Substituição: </strong> Isabella Biscaro Vieira De Sousa</p>
+    <img class="status" src="../imagem/icone/on.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 2369</p>
+            <p><strong>Série: </strong> PE0CMYMG</p>
+            <p><strong>Modelo: </strong> Lenovo V15 G3 IAP</p>
         </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="" target="_blank">📓 Termo de Responsabilidade</a></h4>
-            </div>
+        <div class="device">
+            <h4>⌨️ Teclado e Mouse</h4>
+            <p><strong>Patrimônio: </strong> 1464</p>
+            <p><strong>Série: </strong> 2334CE2DE758</p>
+            <p><strong>Modelo: </strong> MK270</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 978</p>
+            <p><strong>Série: </strong> 2330AYO43088</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 984</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong> Alumínio</p>
         </div>
     </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves"
-             class="profile-pic">
-        <h3>👤 Ana Caroline de Rezende Alves</h3>
-        <p><strong>Cargo: </strong>Consultora de Operações</p>
-        <p><strong>Departamento: </strong>Consultoria</p>
-        <p><strong>E-mail: </strong>anacaroline.alves@amorsaude.com</p>
-        <p><strong>CPF: </strong>115.334.276-66</p>
-        <p><strong>Centro de Custo: </strong>12001 - Regional 1</p>
-        <img class="status" src="../imagem/icone/Off.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong>461</p>
-                <p><strong>Série: </strong>GD3KZ3</p>
-                <p><strong>Modelo: </strong>Dell Vostro 3520</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong>926</p>
-                <p><strong>Série: </strong>2332ME01XK88</p>
-                <p><strong>Modelo: </strong>Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong>462</p>
-                <p><strong>Série: </strong>2232CE1CFB78 - 2230LZX1R9E8</p>
-                <p><strong>Modelo: </strong>Logitech K270 - M185</p>
-            </div>
-            <div class="device">
-                <h4>📌 Suporte</h4>
-                <p><strong>Patrimônio: </strong>927</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong>Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio:</strong>051</p>
-                <p><strong>Série:</strong>HVG3C03</p>
-                <p><strong>Modelo:</strong>Dell P2018HC</p>
-            </div>
-            <h2>Equipamento Comprometido</h2>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong>761</p>
-                <p><strong>Série: </strong>00225942557</p>
-                <p><strong>Modelo: </strong>Jabra HSC015</p>
-            </div>
-            <div class="attention-info">
-                <h2>⚠️ Informações Importantes</h2>
-                <p><strong>Alerta: </strong>O colaborador está utiliza os equipamentos, porém ainda não possui o termo
-                    de
-                    responsabilidade assinado do monitor.
-                </p>
-            </div>
-            <div class="devices">
-                <div class="responsibility-link">
-                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-                </div>
-            </div>
+    <div class="devices">
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
         </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
+    <h3>👤 Ana Claudia Ferreira Nunes</h3>
+    <p><strong>Cargo: </strong> Consultor de Operações</p>
+    <p><strong>Departamento: </strong> Consultoria</p>
+    <p><strong>E-mail: </strong> ana.nunes@amorsaude.com</p>
+    <p><strong>CPF: </strong> 362.982.368-80</p>
+    <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 007</p>
+            <p><strong>Série: </strong> DMJLLH3</p>
+            <p><strong>Modelo: </strong> Dell Inspiron 3501</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio:</strong>1012</p>
+            <p><strong>Série:</strong>2316ME027D59</p>
+            <p><strong>Modelo:</strong>Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 252</p>
+            <p><strong>Série: </strong> 2232CE1CC278</p>
+            <p><strong>Modelo: </strong> Logitech K270</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 252</p>
+            <p><strong>Série: </strong> 2232CE1CC278</p>
+        </div>
+        <div class="device">
+            <h4>🖥️ Monitor</h4>
+            <p><strong>Patrimônio: </strong> 453</p>
+            <p><strong>Série: </strong> 307AZNK97767</p>
+            <p><strong>Modelo: </strong> LG 22MP410</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 905</p>
+            <p><strong>Série: </strong> (Não informado)</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            ;
+            <p><strong>Patrimônio:</strong>628</p>
+            <p><strong>Série:</strong>R9QTA00GH5A</p>
+            <p><strong>Modelo:</strong>Galaxy A03</p>
+            <p><strong>IMEI 1:</strong>351989279290265/01</p>
+            <p><strong>IMEI 2:</strong>353297239280260/01</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes"
+         class="profile-pic">
+    <h3>👤 Ana Cláudia Mata de Sousa Hermogenes</h3>
+    <p><strong>Cargo: </strong> Assistente de Retenção</p>
+    <p><strong>Departamento: </strong> Relacionamento com Cliente / Retenção</p>
+    <p><strong>E-mail: </strong> ana.hermogenes@amorsaude.com</p>
+    <p><strong>CPF: </strong> 313.083.518-01</p>
+    <p><strong>Centro de Custo: </strong> 72023 - Relacionamento com Cliente / Retenção</p>
+    <img class="status" src="../imagem/icone/Off.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 1503</p>
+            <p><strong>Série: </strong> F3Y3F14</p>
+            <p><strong>Modelo: </strong> Dell Vostro 3520</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 203</p>
+            <p><strong>Série: </strong> JNZYR0036</p>
+            <p><strong>Modelo: </strong> Logitech K235</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 203</p>
+            <p><strong>Série: </strong> JNZYR0036</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 989</p>
+            <p><strong>Série: </strong> 2330AY02D1AB</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte</h4>
+            <p><strong>Patrimônio: </strong> 987</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Julia%20Bujardi.png" alt="Foto de Ana Julia Bujardi"
+         class="profile-pic">
+    <h3>👤 Ana Julia Bujardi</h3>
+    <p><strong>Cargo: </strong> Analista de Administração de Pessoal</p>
+    <p><strong>Departamento: </strong> Administração de Pessoal</p>
+    <p><strong>E-mail: </strong> ana.bujardi@amorsaude.com</p>
+    <p><strong>CPF: </strong> 451.239.538-50</p>
+    <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 1454</p>
+            <p><strong>Série: </strong> 8V9VD14</p>
+            <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 972</p>
+            <p><strong>Série: </strong> 2330AY031F68</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 1453</p>
+            <p><strong>Série: </strong> 2334CE2DA8B8</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 1453</p>
+            <p><strong>Série: </strong> 2331LXRRGP8</p>
+        </div>
+        <div class="device">
+            <h4>🖥️ Monitor</h4>
+            <p><strong>Patrimônio: </strong> 354</p>
+            <p><strong>Série: </strong> 302AZDB7F874</p>
+            <p><strong>Modelo: </strong> LG 22MP410-B</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 958</p>
+            <p><strong>Série: </strong> (Não informado)</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
+    <h3>👤 Ana Laura Ferrari Maila Santos</h3>
+    <p><strong>Cargo: </strong> Assistente Administronline</p>
+    <p><strong>Departamento: </strong> Amor Cirurgias</p>
+    <p><strong>E-mail: </strong> analaura.santos@amorsaude.com</p>
+    <p><strong>CPF: </strong> 451.414.178-08</p>
+    <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 168</p>
+            <p><strong>Série: </strong> PE097838</p>
+            <p><strong>Modelo: </strong> Lenovo Ideapd3 15alc6</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 595</p>
+            <p><strong>Série: </strong> 26438595</p>
+            <p><strong>Modelo: </strong> Jabra HSC016</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 585</p>
+            <p><strong>Série: </strong> r9xt703hlgw</p>
+            <p><strong>Modelo: </strong> Galaxy A03</p>
+            <p><strong>IMEI 1: </strong> 354985989158872/01</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli"
+         class="profile-pic">
+    <h3>👤 Ana Luisa Fumagalli</h3>
+    <p><strong>Cargo: </strong> Coordenadora de Backoffice</p>
+    <p><strong>Departamento: </strong> Gerencia Operações</p>
+    <p><strong>E-mail: </strong> analuisa.fumagalli@amorsaude.com</p>
+    <p><strong>CPF: </strong> 430.792.958-62</p>
+    <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 257</p>
+            <p><strong>Série: </strong> CNZ64R3</p>
+            <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 1553</p>
+            <p><strong>Série: </strong> 2347CE268028</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 1553</p>
+            <p><strong>Série: </strong> 2347CE268028</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa"
+         class="profile-pic">
+    <h3>👤 Ana Luiz Bernardes Peres Costa</h3>
+    <p><strong>Cargo: </strong> Assistente de Cadastro</p>
+    <p><strong>Departamento: </strong> Cadastro</p>
+    <p><strong>E-mail: </strong> ana.costa@amorsaude.com</p>
+    <p><strong>CPF: </strong> 401.886.978-96</p>
+    <p><strong>Centro de Custo: </strong> 72021 - Cadastro</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 487</p>
+            <p><strong>Série: </strong> CJHJHZ3</p>
+            <p><strong>Modelo: </strong> Dell Vostro 3520</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 327</p>
+            <p><strong>Série: </strong> 2240LZX5J3C8</p>
+            <p><strong>Modelo: </strong> Logitech K235</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 708</p>
+            <p><strong>Série: </strong> 2250CE0D2709</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 908</p>
+            <p><strong>Série: </strong> 2332ME0207P8</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte</h4>
+            <p><strong>Patrimônio: </strong> 918</p>
+            <p><strong>Série: </strong> (Não informado)</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo"
+         class="profile-pic">
+    <h3>👤 Ana Paula Romualdo</h3>
+    <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
+    <p><strong>Departamento: </strong> Telemedicina / Administronline</p>
+    <p><strong>E-mail: </strong> anapaula.romualdo@amorsaude.com</p>
+    <p><strong>CPF: </strong> 477.406.758-06</p>
+    <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 310</p>
+            <p><strong>Série: </strong> CVZHNY3</p>
+            <p><strong>Modelo: </strong> Dell Latitude 3420</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 884</p>
+            <p><strong>Série: </strong> 2316ME026F9</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 883</p>
+            <p><strong>Série: </strong> (Não informado)</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 309</p>
+            <p><strong>Série: </strong> SPC2113001145</p>
+            <p><strong>Modelo: </strong> Philips C501</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 309</p>
+            <p><strong>Série: </strong> SPC2113001145</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Andr%C3%A9%20Medina.png" alt="Foto de Andre Medina" class="profile-pic">
+    <h3>👤 Andre Luiz Medina De Andrade</h3>
+    <p><strong>Cargo: </strong> Gerente Regional De Operações</p>
+    <p><strong>Departamento: </strong> Dir. Operações</p>
+    <p><strong>E-mail: </strong> andre.medina@amorsaude.com</p>
+    <p><strong>CPF: </strong> 270.517.138-09</p>
+    <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 210</p>
+            <p><strong>Série: </strong> PE09XVKV</p>
+            <p><strong>Modelo: </strong> Lenovo V15 G2</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 643</p>
+            <p><strong>Série: </strong> 273749472</p>
+            <p><strong>Modelo: </strong> Jabra HSC016</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 592</p>
+            <p><strong>Série: </strong> R9XT7009JW</p>
+            <p><strong>Modelo: </strong> Galaxy A03</p>
+            <p><strong>IMEI 1: </strong> 35498588534719/01</p>
+            <p><strong>IMEI 2: </strong> 355106278534710/01</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 162</p>
+            <p><strong>Série: </strong> 2250CE0D2799</p>
+            <p><strong>Modelo: </strong> Logitech MK235</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 699</p>
+            <p><strong>Série: </strong> 2240LZX5N118</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte</h4>
+            <p><strong>Patrimônio: </strong> 700</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>🔌 Adaptador USB-C</h4>
+            <p><strong>Patrimônio: </strong> 965</p>
+            <p><strong>Série: </strong> 70336</p>
+            <p><strong>Modelo: </strong> Ugreen HUB USB</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto"
+         class="profile-pic">
+    <h3>👤 André Rigobello Pinto</h3>
+    <p><strong>Cargo: </strong> Consultor de Operações</p>
+    <p><strong>Departamento: </strong> Consultoria</p>
+    <p><strong>E-mail: </strong> andre.rigobello@amorsaude.com</p>
+    <p><strong>CPF: </strong> 343.695.638-44</p>
+    <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>🖥️ Monitor</h4>
+            <p><strong>Patrimônio: </strong> 1434</p>
+            <p><strong>Série: </strong> 31AZDB60146</p>
+            <p><strong>Modelo: </strong> LG 22MP410-B</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 986</p>
+            <p><strong>Série: </strong> ZL73239K6P</p>
+            <p><strong>Modelo: </strong> Moto E13</p>
+            <p><strong>IMEI 1: </strong> 355569154458892</p>
+            <p><strong>IMEI 2: </strong> 355569154458900</p>
+        </div>
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 982</p>
+            <p><strong>Série: </strong> F5DY014</p>
+            <p><strong>Modelo: </strong> Dell Vostro 3520</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 963</p>
+            <p><strong>Série: </strong> 2330AY31E18</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 1471</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 1020</p>
+            <p><strong>Série: </strong> 2232CE1C7118</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 1020</p>
+            <p><strong>Série: </strong> 2232CE1C7118</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Andreia%20Lopes.png" alt="Foto de Andreia Lopes" class="profile-pic">
+    <h3>👤 Andreia dos Anjos Lopes</h3>
+    <p><strong>Cargo: </strong> Coordenadora Financeiro</p>
+    <p><strong>Departamento: </strong> Financeiro</p>
+    <p><strong>E-mail: </strong> andreia.lopes@amorsaude.com</p>
+    <p><strong>CPF: </strong> 416.398.198-60</p>
+    <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
+    <img class="status" src="../imagem/icone/Off.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 206</p>
+            <p><strong>Série: </strong> PE09EEK5</p>
+            <p><strong>Modelo: </strong> Lenovo V15 82ME</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 632</p>
+            <p><strong>Série: </strong> 00254425932</p>
+            <p><strong>Modelo: </strong> Jabra HSC016</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 631</p>
+            <p><strong>Série: </strong> R9QTA00JMHP</p>
+            <p><strong>Modelo: </strong> Galaxy A03</p>
+            <p><strong>IMEI 1: </strong> 35198279313463/01</p>
+            <p><strong>IMEI 2: </strong> 353297239323468/01</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Angelica%20Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires"
+         class="profile-pic">
+    <h3>👤 Angelica Emanuela dos Santos Pires</h3>
+    <p><strong>Cargo: </strong> Assistente de CS</p>
+    <p><strong>Departamento: </strong> SAC</p>
+    <p><strong>E-mail: </strong> angelica.pires@amorsaude.com</p>
+    <p><strong>CPF: </strong> 351.200.428-80</p>
+    <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
+    <img class="status" src="../imagem/icone/Off.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 639</p>
+            <p><strong>Série: </strong> R9XT9071V2Z</p>
+            <p><strong>Modelo: </strong> Galaxy A03</p>
+        </div>
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 209</p>
+            <p><strong>Série: </strong> PE09XVKK</p>
+            <p><strong>Modelo: </strong> Lenovo V15 82ME</p>
+        </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 915</p>
+            <p><strong>Série: </strong> 2232ME0208J8</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 349</p>
+            <p><strong>Série: </strong> 2234CE182249</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 350</p>
+            <p><strong>Série: </strong> 130LZN0ZWZ8</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 333</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
 
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida"
-             class="profile-pic">
-        <h3>Ana Clara Lourenco de Almeida</h3>
-        <p><strong>Cargo: </strong>Auxiliar de Pessoas & Cultura</p>
-        <p><strong>Departamento: </strong>Remuneração e Benefícios</p>
-        <p><strong>E-mail: </strong>ana.almeida@amorsaude.com</p>
-        <p><strong>CPF: </strong> 483.778.638-39</p>
-        <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
-        <p><strong>Substituição: </strong> Isabella Biscaro Vieira De Sousa</p>
-        <img class="status" src="../imagem/icone/on.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 2369</p>
-                <p><strong>Série: </strong> PE0CMYMG</p>
-                <p><strong>Modelo: </strong> Lenovo V15 G3 IAP</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong> 1464</p>
-                <p><strong>Série: </strong> 2334CE2DE758</p>
-                <p><strong>Modelo: </strong> MK270</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 978</p>
-                <p><strong>Série: </strong> 2330AYO43088</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 984</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Ariane%20Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
+    <h3>👤 Ariane Alves Herrera</h3>
+    <p><strong>Cargo: </strong> Analista Administrativo SR</p>
+    <p><strong>Departamento: </strong> Operações Plano</p>
+    <p><strong>E-mail: </strong> ariane.herrera@amorsaude.com</p>
+    <p><strong>CPF: </strong> 395.936.898-42</p>
+    <p><strong>Centro de Custo: </strong> 72024 - Operações Plano</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 1024</p>
+            <p><strong>Série: </strong> 2432AYN0H0P8</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
         </div>
-        <div class="devices">
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 910</p>
+            <p><strong>Série: </strong> (Não informado)</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
         </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
-        <h3>👤 Ana Claudia Ferreira Nunes</h3>
-        <p><strong>Cargo: </strong> Consultor de Operações</p>
-        <p><strong>Departamento: </strong> Consultoria</p>
-        <p><strong>E-mail: </strong> ana.nunes@amorsaude.com</p>
-        <p><strong>CPF: </strong> 362.982.368-80</p>
-        <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 007</p>
-                <p><strong>Série: </strong> DMJLLH3</p>
-                <p><strong>Modelo: </strong> Dell Inspiron 3501</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio:</strong>1012</p>
-                <p><strong>Série:</strong>2316ME027D59</p>
-                <p><strong>Modelo:</strong>Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 252</p>
-                <p><strong>Série: </strong> 2232CE1CC278</p>
-                <p><strong>Modelo: </strong> Logitech K270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 252</p>
-                <p><strong>Série: </strong> 2232CE1CC278</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio: </strong> 453</p>
-                <p><strong>Série: </strong> 307AZNK97767</p>
-                <p><strong>Modelo: </strong> LG 22MP410</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 905</p>
-                <p><strong>Série: </strong> (Não informado)</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                ;
-                <p><strong>Patrimônio:</strong>628</p>
-                <p><strong>Série:</strong>R9QTA00GH5A</p>
-                <p><strong>Modelo:</strong>Galaxy A03</p>
-                <p><strong>IMEI 1:</strong>351989279290265/01</p>
-                <p><strong>IMEI 2:</strong>353297239280260/01</p>
-            </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 496</p>
+            <p><strong>Série: </strong> 2323LZX5KR88</p>
+            <p><strong>Modelo: </strong> Logitech M185 MK270</p>
         </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 496</p>
+            <p><strong>Série: </strong> 2325CE1138048</p>
+        </div>
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 498</p>
+            <p><strong>Série: </strong> JJHJHZ3</p>
+            <p><strong>Modelo: </strong> Dell Vostro 3520</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 1204</p>
+            <p><strong>Série: </strong> ZF5244C2TJ</p>
+            <p><strong>Modelo: </strong> Moto E22</p>
+            <p><strong>IMEI 1: </strong> 352800824235995</p>
+            <p><strong>IMEI 2: </strong> 352800824236001</p>
         </div>
     </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes"
-             class="profile-pic">
-        <h3>👤 Ana Cláudia Mata de Sousa Hermogenes</h3>
-        <p><strong>Cargo: </strong> Assistente de Retenção</p>
-        <p><strong>Departamento: </strong> Relacionamento com Cliente / Retenção</p>
-        <p><strong>E-mail: </strong> ana.hermogenes@amorsaude.com</p>
-        <p><strong>CPF: </strong> 313.083.518-01</p>
-        <p><strong>Centro de Custo: </strong> 72023 - Relacionamento com Cliente / Retenção</p>
-        <img class="status" src="../imagem/icone/Off.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 1503</p>
-                <p><strong>Série: </strong> F3Y3F14</p>
-                <p><strong>Modelo: </strong> Dell Vostro 3520</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 203</p>
-                <p><strong>Série: </strong> JNZYR0036</p>
-                <p><strong>Modelo: </strong> Logitech K235</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 203</p>
-                <p><strong>Série: </strong> JNZYR0036</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 989</p>
-                <p><strong>Série: </strong> 2330AY02D1AB</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong> 987</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
         </div>
     </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Julia%20Bujardi.png" alt="Foto de Ana Julia Bujardi"
-             class="profile-pic">
-        <h3>👤 Ana Julia Bujardi</h3>
-        <p><strong>Cargo: </strong> Analista de Administração de Pessoal</p>
-        <p><strong>Departamento: </strong> Administração de Pessoal</p>
-        <p><strong>E-mail: </strong> ana.bujardi@amorsaude.com</p>
-        <p><strong>CPF: </strong> 451.239.538-50</p>
-        <p><strong>Centro de Custo: </strong> 13007 - Departamento Pessoal</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 1454</p>
-                <p><strong>Série: </strong> 8V9VD14</p>
-                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 972</p>
-                <p><strong>Série: </strong> 2330AY031F68</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 1453</p>
-                <p><strong>Série: </strong> 2334CE2DA8B8</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 1453</p>
-                <p><strong>Série: </strong> 2331LXRRGP8</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio: </strong> 354</p>
-                <p><strong>Série: </strong> 302AZDB7F874</p>
-                <p><strong>Modelo: </strong> LG 22MP410-B</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 958</p>
-                <p><strong>Série: </strong> (Não informado)</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
-        <h3>👤 Ana Laura Ferrari Maila Santos</h3>
-        <p><strong>Cargo: </strong> Assistente Administronline</p>
-        <p><strong>Departamento: </strong> Amor Cirurgias</p>
-        <p><strong>E-mail: </strong> analaura.santos@amorsaude.com</p>
-        <p><strong>CPF: </strong> 451.414.178-08</p>
-        <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 168</p>
-                <p><strong>Série: </strong> PE097838</p>
-                <p><strong>Modelo: </strong> Lenovo Ideapd3 15alc6</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 595</p>
-                <p><strong>Série: </strong> 26438595</p>
-                <p><strong>Modelo: </strong> Jabra HSC016</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 585</p>
-                <p><strong>Série: </strong> r9xt703hlgw</p>
-                <p><strong>Modelo: </strong> Galaxy A03</p>
-                <p><strong>IMEI 1: </strong> 354985989158872/01</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli"
-             class="profile-pic">
-        <h3>👤 Ana Luisa Fumagalli</h3>
-        <p><strong>Cargo: </strong> Coordenadora de Backoffice</p>
-        <p><strong>Departamento: </strong> Gerencia Operações</p>
-        <p><strong>E-mail: </strong> analuisa.fumagalli@amorsaude.com</p>
-        <p><strong>CPF: </strong> 430.792.958-62</p>
-        <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 257</p>
-                <p><strong>Série: </strong> CNZ64R3</p>
-                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 1553</p>
-                <p><strong>Série: </strong> 2347CE268028</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 1553</p>
-                <p><strong>Série: </strong> 2347CE268028</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa"
-             class="profile-pic">
-        <h3>👤 Ana Luiz Bernardes Peres Costa</h3>
-        <p><strong>Cargo: </strong> Assistente de Cadastro</p>
-        <p><strong>Departamento: </strong> Cadastro</p>
-        <p><strong>E-mail: </strong> ana.costa@amorsaude.com</p>
-        <p><strong>CPF: </strong> 401.886.978-96</p>
-        <p><strong>Centro de Custo: </strong> 72021 - Cadastro</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 487</p>
-                <p><strong>Série: </strong> CJHJHZ3</p>
-                <p><strong>Modelo: </strong> Dell Vostro 3520</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 327</p>
-                <p><strong>Série: </strong> 2240LZX5J3C8</p>
-                <p><strong>Modelo: </strong> Logitech K235</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 708</p>
-                <p><strong>Série: </strong> 2250CE0D2709</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 908</p>
-                <p><strong>Série: </strong> 2332ME0207P8</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong> 918</p>
-                <p><strong>Série: </strong> (Não informado)</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo"
-             class="profile-pic">
-        <h3>👤 Ana Paula Romualdo</h3>
-        <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
-        <p><strong>Departamento: </strong> Telemedicina / Administronline</p>
-        <p><strong>E-mail: </strong> anapaula.romualdo@amorsaude.com</p>
-        <p><strong>CPF: </strong> 477.406.758-06</p>
-        <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 310</p>
-                <p><strong>Série: </strong> CVZHNY3</p>
-                <p><strong>Modelo: </strong> Dell Latitude 3420</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 884</p>
-                <p><strong>Série: </strong> 2316ME026F9</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 883</p>
-                <p><strong>Série: </strong> (Não informado)</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 309</p>
-                <p><strong>Série: </strong> SPC2113001145</p>
-                <p><strong>Modelo: </strong> Philips C501</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 309</p>
-                <p><strong>Série: </strong> SPC2113001145</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Andr%C3%A9%20Medina.png" alt="Foto de Andre Medina" class="profile-pic">
-        <h3>👤 Andre Luiz Medina De Andrade</h3>
-        <p><strong>Cargo: </strong> Gerente Regional De Operações</p>
-        <p><strong>Departamento: </strong> Dir. Operações</p>
-        <p><strong>E-mail: </strong> andre.medina@amorsaude.com</p>
-        <p><strong>CPF: </strong> 270.517.138-09</p>
-        <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 210</p>
-                <p><strong>Série: </strong> PE09XVKV</p>
-                <p><strong>Modelo: </strong> Lenovo V15 G2</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 643</p>
-                <p><strong>Série: </strong> 273749472</p>
-                <p><strong>Modelo: </strong> Jabra HSC016</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 592</p>
-                <p><strong>Série: </strong> R9XT7009JW</p>
-                <p><strong>Modelo: </strong> Galaxy A03</p>
-                <p><strong>IMEI 1: </strong> 35498588534719/01</p>
-                <p><strong>IMEI 2: </strong> 355106278534710/01</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 162</p>
-                <p><strong>Série: </strong> 2250CE0D2799</p>
-                <p><strong>Modelo: </strong> Logitech MK235</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 699</p>
-                <p><strong>Série: </strong> 2240LZX5N118</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong> 700</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>🔌 Adaptador USB-C</h4>
-                <p><strong>Patrimônio: </strong> 965</p>
-                <p><strong>Série: </strong> 70336</p>
-                <p><strong>Modelo: </strong> Ugreen HUB USB</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto"
-             class="profile-pic">
-        <h3>👤 André Rigobello Pinto</h3>
-        <p><strong>Cargo: </strong> Consultor de Operações</p>
-        <p><strong>Departamento: </strong> Consultoria</p>
-        <p><strong>E-mail: </strong> andre.rigobello@amorsaude.com</p>
-        <p><strong>CPF: </strong> 343.695.638-44</p>
-        <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio: </strong> 1434</p>
-                <p><strong>Série: </strong> 31AZDB60146</p>
-                <p><strong>Modelo: </strong> LG 22MP410-B</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 986</p>
-                <p><strong>Série: </strong> ZL73239K6P</p>
-                <p><strong>Modelo: </strong> Moto E13</p>
-                <p><strong>IMEI 1: </strong> 355569154458892</p>
-                <p><strong>IMEI 2: </strong> 355569154458900</p>
-            </div>
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 982</p>
-                <p><strong>Série: </strong> F5DY014</p>
-                <p><strong>Modelo: </strong> Dell Vostro 3520</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 963</p>
-                <p><strong>Série: </strong> 2330AY31E18</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 1471</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 1020</p>
-                <p><strong>Série: </strong> 2232CE1C7118</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 1020</p>
-                <p><strong>Série: </strong> 2232CE1C7118</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Andreia%20Lopes.png" alt="Foto de Andreia Lopes" class="profile-pic">
-        <h3>👤 Andreia dos Anjos Lopes</h3>
-        <p><strong>Cargo: </strong> Coordenadora Financeiro</p>
-        <p><strong>Departamento: </strong> Financeiro</p>
-        <p><strong>E-mail: </strong> andreia.lopes@amorsaude.com</p>
-        <p><strong>CPF: </strong> 416.398.198-60</p>
-        <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <img class="status" src="../imagem/icone/Off.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 206</p>
-                <p><strong>Série: </strong> PE09EEK5</p>
-                <p><strong>Modelo: </strong> Lenovo V15 82ME</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 632</p>
-                <p><strong>Série: </strong> 00254425932</p>
-                <p><strong>Modelo: </strong> Jabra HSC016</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 631</p>
-                <p><strong>Série: </strong> R9QTA00JMHP</p>
-                <p><strong>Modelo: </strong> Galaxy A03</p>
-                <p><strong>IMEI 1: </strong> 35198279313463/01</p>
-                <p><strong>IMEI 2: </strong> 353297239323468/01</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Angelica%20Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires"
-             class="profile-pic">
-        <h3>👤 Angelica Emanuela dos Santos Pires</h3>
-        <p><strong>Cargo: </strong> Assistente de CS</p>
-        <p><strong>Departamento: </strong> SAC</p>
-        <p><strong>E-mail: </strong> angelica.pires@amorsaude.com</p>
-        <p><strong>CPF: </strong> 351.200.428-80</p>
-        <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <img class="status" src="../imagem/icone/Off.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 639</p>
-                <p><strong>Série: </strong> R9XT9071V2Z</p>
-                <p><strong>Modelo: </strong> Galaxy A03</p>
-            </div>
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 209</p>
-                <p><strong>Série: </strong> PE09XVKK</p>
-                <p><strong>Modelo: </strong> Lenovo V15 82ME</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 915</p>
-                <p><strong>Série: </strong> 2232ME0208J8</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 349</p>
-                <p><strong>Série: </strong> 2234CE182249</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 350</p>
-                <p><strong>Série: </strong> 130LZN0ZWZ8</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 333</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <h2>Equipamentos Comprometidos</h2>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 636</p>
-                <p><strong>Série: </strong> 254427997</p>
-                <p><strong>Modelo: </strong> Jabra HSC016</p>
-            </div>
-            <div class="devices">
-                <!-- Link para o Termo de Responsabilidade -->
-                <div class="responsibility-link">
-                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-                </div>
-            </div>
-        </div>
+</div>
 
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ariane%20Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
-        <h3>👤 Ariane Alves Herrera</h3>
-        <p><strong>Cargo: </strong> Analista Administrativo SR</p>
-        <p><strong>Departamento: </strong> Operações Plano</p>
-        <p><strong>E-mail: </strong> ariane.herrera@amorsaude.com</p>
-        <p><strong>CPF: </strong> 395.936.898-42</p>
-        <p><strong>Centro de Custo: </strong> 72024 - Operações Plano</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 1024</p>
-                <p><strong>Série: </strong> 2432AYN0H0P8</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 910</p>
-                <p><strong>Série: </strong> (Não informado)</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 496</p>
-                <p><strong>Série: </strong> 2323LZX5KR88</p>
-                <p><strong>Modelo: </strong> Logitech M185 MK270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 496</p>
-                <p><strong>Série: </strong> 2325CE1138048</p>
-            </div>
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 498</p>
-                <p><strong>Série: </strong> JJHJHZ3</p>
-                <p><strong>Modelo: </strong> Dell Vostro 3520</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 1204</p>
-                <p><strong>Série: </strong> ZF5244C2TJ</p>
-                <p><strong>Modelo: </strong> Moto E22</p>
-                <p><strong>IMEI 1: </strong> 352800824235995</p>
-                <p><strong>IMEI 2: </strong> 352800824236001</p>
-            </div>
-            <h2>Equipamentos Comprometidos</h2>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 907</p>
-                <p><strong>Série: </strong> 23296GG013A98</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="devices">
-                <!-- Link para o Termo de Responsabilidade -->
-                <div class="responsibility-link">
-                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-                </div>
-            </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Arnaldo%20Junior.png" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
+    <h3>👤 Arnaldo Rocha Junior</h3>
+    <p><strong>Cargo: </strong> Gerente Contábil</p>
+    <p><strong>Departamento: </strong> Contabilidade</p>
+    <p><strong>E-mail: </strong> arnaldo.junior@amorsaude.com</p>
+    <p><strong>CPF: </strong> 252.705.628-80</p>
+    <p><strong>Centro de Custo: </strong> 13003 - Contábil</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 1544</p>
+            <p><strong>Série: </strong> PE0C4SLQ</p>
+            <p><strong>Modelo: </strong> Lenovo V15 G3 IAP</p>
         </div>
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 1242</p>
+            <p><strong>Série: </strong> 2316GG00ASR8</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte de Alumínio para Notebook</h4>
+            <p><strong>Patrimônio: </strong> 1243</p>
+            <p><strong>Série: </strong> (Não informado)</p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 1543</p>
+            <p><strong>Série: </strong> 2347CE268008</p>
+            <p><strong>Modelo: </strong> Logitech MK270</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 1543</p>
+            <p><strong>Série: </strong> 2347CE268008</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
+<div class="card" onclick="this.classList.toggle('active')">
+    <img src="../imagem/colaboradores/Artur%20Mello.png" alt="Foto de Artur Ferreira Morais Mello"
+         class="profile-pic">
+    <h3>👤 Artur Ferreira Morais Mello</h3>
+    <p><strong>Cargo: </strong> Consultor de Operações</p>
+    <p><strong>Departamento: </strong> Consultoria</p>
+    <p><strong>E-mail: </strong> artur.mello@amorsaude.com</p>
+    <p><strong>CPF: </strong> 397.945.948-90</p>
+    <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
+    <img class="status" src="../imagem/icone/On.png" alt="">
+    <div class="devices">
+        <div class="device">
+            <h4>🎧 Fone</h4>
+            <p><strong>Patrimônio: </strong> 1113</p>
+            <p><strong>Série: </strong> 2421AY01PGZ8</p>
+            <p><strong>Modelo: </strong> Logitech H390</p>
+        </div>
+        <div class="device">
+            <h4>🖥️ Monitor</h4>
+            <p><strong>Patrimônio: </strong> 452</p>
+            <p><strong>Série: </strong> 308AZXC8A218</p>
+            <p><strong>Modelo: </strong> LG 22MP410</p>
+        </div>
+        <div class="device">
+            <h4>💻 Notebook</h4>
+            <p><strong>Patrimônio: </strong> 381</p>
+            <p><strong>Série: </strong> HRFQXW3</p>
+            <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
+        </div>
+        <div class="device">
+            <h4>🔩 Suporte</h4>
+            <p><strong>Patrimônio: </strong> 828</p>
+            <p><strong>Série: </strong></p>
+            <p><strong>Modelo: </strong> Alumínio</p>
+        </div>
+        <div class="device">
+            <h4>📱 Celular</h4>
+            <p><strong>Patrimônio: </strong> 1031</p>
+            <p><strong>Série: </strong> SVN8D86404</p>
+            <p><strong>Modelo: </strong> Moto E13</p>
+            <p><strong>IMEI 1: </strong> 359340981262667</p>
+            <p><strong>IMEI 2: </strong> 359340981262659</p>
+        </div>
+        <div class="device">
+            <h4>⌨️ Teclado</h4>
+            <p><strong>Patrimônio: </strong> 460</p>
+            <p><strong>Série: </strong> 2232CE1C7278</p>
+            <p><strong>Modelo: </strong> K270</p>
+        </div>
+        <div class="device">
+            <h4>🖱️ Mouse</h4>
+            <p><strong>Patrimônio: </strong> 460</p>
+            <p><strong>Série: </strong> 2227LZX8GVS8</p>
+            <p><strong>Modelo: </strong> M185</p>
+        </div>
+    </div>
+    <div class="devices">
+        <!-- Link para o Termo de Responsabilidade -->
+        <div class="responsibility-link">
+            <h4><a href="">📑 Termo de Responsabilidade</a></h4>
+        </div>
+    </div>
+</div>
 
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Arnaldo%20Junior.png" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
-        <h3>👤 Arnaldo Rocha Junior</h3>
-        <p><strong>Cargo: </strong> Gerente Contábil</p>
-        <p><strong>Departamento: </strong> Contabilidade</p>
-        <p><strong>E-mail: </strong> arnaldo.junior@amorsaude.com</p>
-        <p><strong>CPF: </strong> 252.705.628-80</p>
-        <p><strong>Centro de Custo: </strong> 13003 - Contábil</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 1544</p>
-                <p><strong>Série: </strong> PE0C4SLQ</p>
-                <p><strong>Modelo: </strong> Lenovo V15 G3 IAP</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 1242</p>
-                <p><strong>Série: </strong> 2316GG00ASR8</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte de Alumínio para Notebook</h4>
-                <p><strong>Patrimônio: </strong> 1243</p>
-                <p><strong>Série: </strong> (Não informado)</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 1543</p>
-                <p><strong>Série: </strong> 2347CE268008</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 1543</p>
-                <p><strong>Série: </strong> 2347CE268008</p>
-            </div>
-        </div>
-        <div class="devices">
-            <!-- Link para o Termo de Responsabilidade -->
-            <div class="responsibility-link">
-                <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-            </div>
-        </div>
-    </div>
-    <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Artur%20Mello.png" alt="Foto de Artur Ferreira Morais Mello"
-             class="profile-pic">
-        <h3>👤 Artur Ferreira Morais Mello</h3>
-        <p><strong>Cargo: </strong> Consultor de Operações</p>
-        <p><strong>Departamento: </strong> Consultoria</p>
-        <p><strong>E-mail: </strong> artur.mello@amorsaude.com</p>
-        <p><strong>CPF: </strong> 397.945.948-90</p>
-        <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
-        <div class="devices">
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 1113</p>
-                <p><strong>Série: </strong> 2421AY01PGZ8</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio: </strong> 452</p>
-                <p><strong>Série: </strong> 308AZXC8A218</p>
-                <p><strong>Modelo: </strong> LG 22MP410</p>
-            </div>
-            <div class="device">
-                <h4>💻 Notebook</h4>
-                <p><strong>Patrimônio: </strong> 381</p>
-                <p><strong>Série: </strong> HRFQXW3</p>
-                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong> 828</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Alumínio</p>
-            </div>
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 1031</p>
-                <p><strong>Série: </strong> SVN8D86404</p>
-                <p><strong>Modelo: </strong> Moto E13</p>
-                <p><strong>IMEI 1: </strong> 359340981262667</p>
-                <p><strong>IMEI 2: </strong> 359340981262659</p>
-            </div>
-            <div class="device">
-                <h4>⌨️ Teclado</h4>
-                <p><strong>Patrimônio: </strong> 460</p>
-                <p><strong>Série: </strong> 2232CE1C7278</p>
-                <p><strong>Modelo: </strong> K270</p>
-            </div>
-            <div class="device">
-                <h4>🖱️ Mouse</h4>
-                <p><strong>Patrimônio: </strong> 460</p>
-                <p><strong>Série: </strong> 2227LZX8GVS8</p>
-                <p><strong>Modelo: </strong> M185</p>
-            </div>
-            <h2>Equipamentos Comprometidos</h2>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 976</p>
-                <p><strong>Série: </strong> 2330AY031E48</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 783</p>
-                <p><strong>Série: </strong> 239829109</p>
-                <p><strong>Modelo: </strong> Jabra HSC015</p>
-            </div>
-            <div class="devices">
-                <!-- Link para o Termo de Responsabilidade -->
-                <div class="responsibility-link">
-                    <h4><a href="">📑 Termo de Responsabilidade</a></h4>
-                </div>
-            </div>
-        </div>
-
-    </div>
+</div>
 </div>
 <?php include '../includes/footer.php'; ?>
 </body>
