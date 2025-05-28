@@ -174,14 +174,6 @@
                 <p><strong>IMEI 2: </strong> 353297231794772/01</p>
             </div>
         </div>
-        <h2>Equipamentos Danificados</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 530</p>
-            <p><strong>Série: </strong> 230307953</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
-        </div>
-
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
