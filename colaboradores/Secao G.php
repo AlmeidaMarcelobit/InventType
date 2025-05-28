@@ -277,13 +277,6 @@
                 <p><strong>Modelo: </strong>Aluminio</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong>1043</p>
-            <p><strong>Série: </strong>VN-ORMH97-LXN00-43S-05N3-A01</p>
-            <p><strong>Modelo: </strong>Dell WH1022</p>
-        </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Coletar informação do Monitor, Termo de Usu</p>
@@ -660,10 +653,12 @@
                 <p><strong>Série: </strong></p>
                 <p><strong>Modelo: </strong>Alumnio</p>
             </div>
+            <div class="device">
             <h4>🖥️ Monitor</h4>
             <p><strong>Patrimônio: </strong>242</p>
             <p><strong>Série: </strong>232360GG07</p>
             <p><strong>Modelo: </strong>LG 22MP410-B</p>
+            </div>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
@@ -723,13 +718,6 @@
                 <p><strong>Série:</strong>PEOC4E5</p>
                 <p><strong>Modelo:</strong>Lenovo V15 G3</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio:</strong>1020</p>
-            <p><strong>Série:</strong>23331AY020B49</p>
-            <p><strong>Modelo:</strong>Logitech H390</p>
         </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
