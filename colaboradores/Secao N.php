@@ -18,7 +18,7 @@
         <p><strong>E-mail: </strong> natalia.zimmermann@amorsaude.com</p>
         <p><strong>CPF: </strong> 142.180.767-07</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 2</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -61,7 +61,7 @@
         <p><strong>E-mail: </strong> natanael.zavanela@amorsaude.com</p>
         <p><strong>CPF: </strong> 330.324458-84</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regiona 2</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔌 Adaptador de Rede</h4>
@@ -111,7 +111,7 @@
         <p><strong>CPF: </strong> 462.083.518-80</p>
         <p><strong>Centro de Custo: </strong> 12005</p>
         <p><strong>Substituição: </strong> Letícia Godoy da Silva</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -160,7 +160,7 @@
         <p><strong>E-mail: </strong> nicolas.tassinari@amorsaude.com</p>
         <p><strong>CPF: </strong> 450.326.278-52</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -215,7 +215,7 @@
         <p><strong>E-mail: </strong> nicole.souza@amorsaude.com</p>
         <p><strong>CPF: </strong> 464.476.338.19</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
