@@ -18,7 +18,7 @@
         <p><strong>E-mail: </strong>kessya.rosolini@amorsaude.com</p>
         <p><strong>CPF: </strong> 339.643.328-95</p>
         <p><strong>Centro de Custo: </strong> 13003 - Contábil</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -64,7 +64,7 @@
         <p><strong>Departamento: </strong> BackOffice</p>
         <p><strong>CPF: </strong> 403.473.789-00</p>
         <p><strong>Centro de Custo: </strong> 12005 - BackOffice</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -144,7 +144,7 @@
         <p><strong>E-mail: </strong>larissa.santos@amorsaude.com</p>
         <p><strong>CPF: </strong> 485.231.268-05</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoa e Cultura</p>
-        <p><span class=" online">: </span></p>
+       <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -201,7 +201,7 @@
         <p><strong>Departamento: </strong> Cirurgias</p>
         <p><strong>CPF: </strong> 470.350.438-37</p>
         <p><strong>Centro de Custo: </strong> 32001 - Cirurgias</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -254,7 +254,7 @@
         <p><strong>Departamento: </strong> Produto</p>
         <p><strong>CPF: </strong> 386.596.578-45</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -290,7 +290,7 @@
         <p><strong>E-mail: </strong> laura.ribeiro@amorsaude.com</p>
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> O colaborador está utilizando equipamentos sem registro detalhado e sem o
@@ -310,7 +310,7 @@
         <p><strong>E-mail: </strong> laura.paschoin@amorsaude.com</p>
         <p><strong>CPF: </strong> 432.486.208-70</p>
         <p><strong>Centro de Custo: </strong> 13004 - Projetos / Processos</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -366,7 +366,7 @@
         <p><strong>E-mail: </strong> laurielesantos@amorsaude.com</p>
         <p><strong>CPF: </strong> 457.240.988-90</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -421,7 +421,7 @@
         <p><strong>E-mail: </strong> leandro.hernandes@amorsaude.com</p>
         <p><strong>CPF: </strong> 251.829.328-04</p>
         <p><strong>Centro de Custo: </strong> 12000 - Dir. Operações</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -472,7 +472,7 @@
         <p><strong>E-mail: </strong> leandro.rodrigues@amorsaude.com</p>
         <p><strong>CPF: </strong> 381.953.408-30</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><span class=" online">: </span></p>
+       <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -528,7 +528,7 @@
         <p><strong>E-mail: </strong> leandro.montenegro@amorsaude.com</p>
         <p><strong>CPF: </strong> 385.498.628-94</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -584,7 +584,7 @@
         <p><strong>E-mail: </strong> leonardo.botelho@amorsaude.com</p>
         <p><strong>CPF: </strong> 129.654.087-11</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -645,7 +645,7 @@
         <p><strong>E-mail: </strong>leonardo.mello@amorsaude.com</p>
         <p><strong>CPF: </strong>402.458.348-42</p>
         <p><strong>Centro de Custo: </strong>13013 - Produto</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -738,7 +738,7 @@
         <p><strong>E-mail: </strong> leticia.silva@amorsaude.com</p>
         <p><strong>CPF: </strong> 439.857.398-46</p>
         <p><strong>Centro de Custo: </strong> 13006 - Pessoas & Cultura</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -780,7 +780,7 @@
         <p><strong>E-mail: </strong> leticia.osone@amorsaude.com</p>
         <p><strong>CPF: </strong> 362.189.578-70</p>
         <p><strong>Centro de Custo: </strong> 12004 - Experiência do Cliente</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -827,7 +827,7 @@
         <p><strong>E-mail: </strong> livia.paula@amorsaude.com</p>
         <p><strong>CPF: </strong> 438.725.158-10</p>
         <p><strong>Centro de Custo: </strong> 32001 - Administronline</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -874,7 +874,7 @@
         <p><strong>E-mail: </strong> lorraine.moreno@amorsaude.com</p>
         <p><strong>CPF: </strong> 373.515.648-76</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -921,7 +921,7 @@
         <p><strong>E-mail: </strong> luana.maciel@amorsaude.com</p>
         <p><strong>CPF: </strong> 319.532.598-55</p>
         <p><strong>Centro de Custo: </strong> 13001 - Financeiro</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -964,7 +964,7 @@
         <p><strong>E-mail: </strong> lucas.colbacho@amorsaude.com</p>
         <p><strong>CPF: </strong> 369.193.928-79</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -1019,7 +1019,7 @@
         <p><strong>E-mail: </strong> lucas.rocha@amorsaude.com</p>
         <p><strong>CPF: </strong> 460.375.988-60</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1066,7 +1066,7 @@
         <p><strong>E-mail: </strong> lucas.mateus@amorsaude.com</p>
         <p><strong>CPF: </strong> 432.126.858-32</p>
         <p><strong>Centro de Custo: </strong> 13011 - Dados</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -1129,14 +1129,14 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Lucas Nicolau Saconato</h3>
         <p><strong>Cargo: </strong>Agile Coach</p>
         <p><strong>Departamento: </strong>Desenvolvimento</p>
         <p><strong>E-mail: </strong>lucas.saconato@amorsaude.com</p>
         <p><strong>CPF: </strong>310.949.798-05</p>
         <p><strong>Centro de Custo: </strong>13012 - Desenvolvimento</p>
-        <p><span class=" ativo">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Coletar dados dos equipamentos e coletar termo</p>
@@ -1155,7 +1155,7 @@
         <p><strong>E-mail: </strong> lucas.pereira@amorsaude.com</p>
         <p><strong>CPF: </strong> 461.067.698-26</p>
         <p><strong>Centro de Custo: </strong> 63001 - Financeiro Soluções</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Headset</h4>
@@ -1202,7 +1202,7 @@
         <p><strong>E-mail: </strong> lucas.rodrigues@amorsaude.com</p>
         <p><strong>CPF: </strong> 312.280.518-95</p>
         <p><strong>Centro de Custo: </strong> 12010 - Inteligência de Negócios</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1250,7 +1250,7 @@
         <p><strong>E-mail: </strong> lucilene.matias@amorsaude.com</p>
         <p><strong>CPF: </strong> 219.665.528-74</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>📱 Celular</h4>
@@ -1307,7 +1307,7 @@
         <p><strong>CPF: </strong> 305.937.958-06</p>
         <p><strong>Subtituição:</strong>Lethicia Martins</p>
         <p><strong>Centro de Custo: </strong> 13008 - Recepção</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -1356,7 +1356,7 @@
         <p><strong>E-mail: </strong> luiz.assumpcao@amorsaude.com</p>
         <p><strong>CPF: </strong> 060.764.766-30</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -1405,7 +1405,7 @@
         <p><strong>E-mail: </strong> luylla.magalhaes@amorsaude.com</p>
         <p><strong>CPF: </strong> 123.135.016-47</p>
         <p><strong>Centro de Custo: </strong> 18005 - Odontologia</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
