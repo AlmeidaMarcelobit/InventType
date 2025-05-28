@@ -115,21 +115,6 @@
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="devices">
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 830</p>
-                <p><strong>Série: </strong> 2321AY092309</p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 615</p>
-                <p><strong>Série: </strong> 265438192</p>
-                <p><strong>Modelo: </strong> Jabra HSC016</p>
-            </div>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -165,27 +150,6 @@
                 <p><strong>Modelo: </strong> Samsung Galaxy A03</p>
                 <p><strong>IMEI 1: </strong> 350916877029812/01</p>
                 <p><strong>IMEI 2: </strong> 354554237029810/01</p>
-            </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="devices">
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 598</p>
-                <p><strong>Série: </strong> 265441762</p>
-                <p><strong>Modelo: </strong> Jabra HSC016</p>
-            </div>
-            <div class="device">
-                <h4>⌨️🖱️ Teclado e Mouse</h4>
-                <p><strong>Patrimônio: </strong> 303</p>
-                <p><strong>Série: </strong> 2243CE255CB9</p>
-                <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong> 851</p>
-                <p><strong>Série: </strong> N/A</p>
-                <p><strong>Modelo: </strong> Alumínio</p>
             </div>
         </div>
         <div class="devices">
@@ -1103,23 +1067,6 @@
                 <p><strong>Patrimônio: </strong> 236</p>
                 <p><strong>Série: </strong> 2253CEOF16F9 - 2248LZX6NDX8</p>
                 <p><strong>Modelo: </strong> Logitech MK270</p>
-            </div>
-        </div>
-        <h2>Equipamento Devolvido</h2>
-        <div class="devices">
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> N/A</p>
-                <p><strong>Série: </strong> R9XW20CHKWM</p>
-                <p><strong>Modelo: </strong> Samsung Galaxy A03</p>
-                <p><strong>IMEI 1: </strong> 358302235393525/01</p>
-                <p><strong>IMEI 2: </strong> 35976405393521/01</p>
-            </div>
-            <div class="device">
-                <h4>🖥️ Monitor</h4>
-                <p><strong>Patrimônio: </strong> 238</p>
-                <p><strong>Série: </strong> 303AZTH2V809</p>
-                <p><strong>Modelo: </strong> LG-22M410-P</p>
             </div>
         </div>
         <div class="devices">
