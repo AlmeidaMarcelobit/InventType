@@ -19,7 +19,7 @@
         <p><strong>E-mail: </strong> pamela.crispin@amorsaude.com</p>
         <p><strong>CPF: </strong> 418.479.688-56</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -68,7 +68,7 @@
         <p><strong>E-mail: </strong></p>
         <p><strong>CPF: </strong> 364.688.988-89</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -124,7 +124,7 @@
         <p><strong>E-mail: </strong> paula.tagliacolli@amorsaude.com</p>
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong> 13006</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -173,7 +173,7 @@
         <p><strong>E-mail: </strong> paulo.spano@amorsaude.com</p>
         <p><strong>CPF: </strong> 395.033.398-39</p>
         <p><strong>Centro de Custo: </strong> 13015 - Desenvolvimento</p>
-        <span class=" inonline">:  Inonline</span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -215,7 +215,7 @@
         <p><strong>CPF: </strong>020.782.122-45</p>
         <p><strong>Centro de Custo: </strong>13015 - Gerência Dados</p>
         <p><strong>Subtituição: </strong>Victor Ribeiro da Silva Dantas</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -267,7 +267,7 @@
         <p><strong>E-mail: </strong> paulo.rick@amorsaude.com</p>
         <p><strong>CPF: </strong> Não fornecido</p>
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -295,7 +295,7 @@
         <p><strong>E-mail: </strong> paulo.borges@amorsaude.com</p>
         <p><strong>CPF: </strong> 370.549.518-67</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -356,7 +356,7 @@
         <p><strong>E-mail: </strong> pedro.yunes@amorsaude.com</p>
         <p><strong>CPF: </strong> 859.418.242-20</p>
         <p><strong>Centro de Custo: </strong> 14006 - Marketing Internacional</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -402,7 +402,7 @@
         <p><strong>E-mail: </strong> pedro.castelani@amorsaude.com</p>
         <p><strong>CPF: </strong> [Não fornecido]</p>
         <p><strong>Centro de Custo: </strong> 13013</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <!-- Sem dispositivos fornecidos -->
         </div>
@@ -421,7 +421,7 @@
         <p><strong>E-mail: </strong> pedro.ubine@amorsaude.com</p>
         <p><strong>CPF: </strong> 419.484.238-39</p>
         <p><strong>Centro de Custo: </strong> 13012</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <!-- Sem dispositivos fornecidos -->
         </div>
@@ -440,7 +440,7 @@
         <p><strong>E-mail: </strong> pedro.caetano@amorsaude.com</p>
         <p><strong>CPF: </strong> 455.371.238-51</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -480,7 +480,7 @@
         <p><strong>E-mail: </strong> pedro.vierira@amorsaude.com</p>
         <p><strong>CPF: </strong> 459.765.178-03</p>
         <p><strong>Centro de Custo: </strong> 13019 - Suporte</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -528,7 +528,7 @@
         <p><strong>CPF: </strong> 300.611.718-24</p>
         <p><strong>Centro de Custo: </strong>13001 - Financeiro</p>
         <p><strong>Subtituição: </strong>Barbara Bidurin</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -570,7 +570,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/Priscila%20Souza.jpeg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Priscila Batista De Souza</h3>
         <p><strong>Cargo: </strong>Assistente de CS</p>
         <p><strong>Departamento: </strong>Atendimento ao Cliente</p>
@@ -579,7 +579,7 @@
         <p><strong>Centro de Custo: </strong>12002 - SAC</p>
         <p><strong>Subtituição: </strong>Isadora Soares Marques</p>
         <p><strong>Data de Demissão: </strong></p>
-        <p><span class=" ativo">: </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -632,7 +632,7 @@
         <p><strong>E-mail: </strong> priscila.faqim@amorsaude.com</p>
         <p><strong>CPF: </strong> 346.070.918-98</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <span class="">: </span>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
