@@ -67,7 +67,7 @@
         <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
-                <h4>⌨️🖱�?Teclado e Mouse</h4>
+                <h4>⌨️🖱�?Teclado e Mouse</h4>
                 <p><strong>Patrimônio: </strong> 277</p>
                 <p><strong>Série: </strong> 2243CE258458</p>
                 <p><strong>Modelo: </strong> Logitech MK270</p>
@@ -116,7 +116,7 @@
                 <p><strong>Modelo: </strong> Lenovo V15 G3 IAP</p>
             </div>
             <div class="device">
-                <h4>⌨️🖱�?Teclado e Mouse</h4>
+                <h4>⌨️🖱�?Teclado e Mouse</h4>
                 <p><strong>Patrimônio: </strong> 1537</p>
                 <p><strong>Série: </strong> 2347ce268048</p>
                 <p><strong>Modelo: </strong> Logitech MK270</p>
@@ -245,7 +245,7 @@
                 <p><strong>Modelo: </strong> Galaxy A03</p>
             </div>
             <div class="device">
-                <h4>🖱�?Teclado e Mouse</h4>
+                <h4>🖱�?Teclado e Mouse</h4>
                 <p><strong>Teclado Patrimônio: </strong> 345</p>
                 <p><strong>Mouse Patrimônio: </strong> 346</p>
                 <p><strong>Teclado Série: </strong> 2234CE182229</p>
@@ -253,7 +253,7 @@
                 <p><strong>Modelo: </strong> Logitech MK270</p>
             </div>
             <div class="device">
-                <h4>🖇�?Suporte</h4>
+                <h4>🖇�?Suporte</h4>
                 <p><strong>Patrimônio: </strong> 331</p>
                 <p><strong>Modelo: </strong> Aluminio</p>
             </div>
@@ -295,7 +295,7 @@
                 <p><strong>Patrimonio: </strong>547</p>
             </div>
             <div class="device">
-                <h4>🖥�?Monitor</h4>
+                <h4>🖥�?Monitor</h4>
                 <p><strong>Marca/Modelo: </strong>Samsung F24T350FHL</p>
                 <p class="serial"><strong>S/N: </strong>Y4SKHX5T601009L</p>
                 <p><strong>Patrimonio: </strong>499</p>
@@ -312,13 +312,6 @@
                 <p class="serial"><strong>S/N: </strong>2148LZX4U4L8</p>
                 <p><strong>Patrimonio: </strong>630 - 203</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>📱 Celular</h4>
-            <p><strong>Marca/Modelo: </strong>Samsung LG K9</p>
-            <p class="serial"><strong>S/N: </strong>905bshc727425</p>
-            <p><strong>Patrimonio: </strong>742</p>
         </div>
         <div class="devices">
             <div class="responsibility-link">
@@ -404,13 +397,6 @@
                 <p><strong>Modelo: </strong>Aluminio</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>⌨️🖱️Teclado e Mouse</h4>
-            <p><strong>Patrimônio: </strong> 1142 - 447</p>
-            <p><strong>Série: </strong> 2320CE1626C8 - 2240LZN1KF8</p>
-            <p><strong>Modelo: </strong> Logitech MK270</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -483,7 +469,7 @@
                 <p><strong>IMEI 2: </strong> 355106278871385/01</p>
             </div>
             <div class="device">
-                <h4>🖥�?Monitor</h4>
+                <h4>🖥�?Monitor</h4>
                 <p><strong>Patrimônio: </strong> 354</p>
                 <p><strong>Série: </strong> 302AZDB7874</p>
                 <p><strong>Modelo: </strong> LG 22MP410-B</p>
@@ -545,7 +531,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Donato Cesar da Costa e Silva</h3>
         <p><strong>Cargo: </strong> Gerente de Customer Sucess</p>
         <p><strong>E-mail: </strong> donato.silva@amorsaude.com</p>
@@ -565,7 +551,7 @@
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
             <div class="device">
-                <h4>🖇�?Suporte</h4>
+                <h4>🖇�?Suporte</h4>
                 <p><strong>Modelo: </strong> ORMRME</p>
             </div>
             <div class="device">
