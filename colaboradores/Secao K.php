@@ -74,13 +74,6 @@
                 <p><strong>Modelo: </strong> Dell KM5221W</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 598</p>
-            <p><strong>Série: </strong> 265441762</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
