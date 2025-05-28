@@ -19,7 +19,7 @@
         <p><strong>E-mail: </strong> karen.ramos@amorsaude.com</p>
         <p><strong>CPF: </strong> 405.22.938-08</p>
         <p><strong>Centro de Custo: </strong> 13020 - Treinamentos</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🖥️ Monitor</h4>
@@ -47,7 +47,7 @@
         <p><strong>Departamento: </strong> Consultoria</p>
         <p><strong>CPF: </strong> 387.565.348-33</p>
         <p><strong>Centro de Custo: </strong>12006 - Regional 1</p>
-        <p><span class="offline">Status: Offline </span></p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -95,7 +95,7 @@
         <p><strong>E-mail: </strong>katia.marcondes@amorsaude.com</p>
         <p><strong>CPF: </strong> 317.842.138-61</p>
         <p><strong>Centro de Custo: </strong> 12002 - Sac</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Headset</h4>
@@ -149,7 +149,7 @@
         <p><strong>Departamento: </strong> Pessoas E Cultura</p>
         <p><strong>CPF: </strong> 433.684.318-03</p>
         <p><strong>Centro de Custo: </strong> 13006</p>
-        <p><span class=" online">: </span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
