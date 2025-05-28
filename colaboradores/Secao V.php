@@ -18,7 +18,7 @@
         <p><strong>E-mail: </strong> vanessa.posca@amorsaude.com</p>
         <p><strong>CPF: </strong> 219.607.248-60</p>
         <p><strong>Centro de Custo: </strong> 12019 - Gerência Regional 2</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -59,7 +59,7 @@
         <p><strong>E-mail: </strong> vanessa.matos@amorsaude.com</p>
         <p><strong>CPF: </strong> 478.525.748-23</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -114,7 +114,7 @@
         <p><strong>E-mail: </strong> [não fornecido]</p>
         <p><strong>CPF: </strong> 017.671.550-93</p>
         <p><strong>Centro de Custo: </strong> 12003 - Relacionamento Profissionais da Saúde</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️🖱️ Teclado e Mouse</h4>
@@ -149,7 +149,7 @@
         <p><strong>E-mail: </strong> victor.souza@amorsaude.com</p>
         <p><strong>CPF: </strong> 037.234.715-01</p>
         <p><strong>Centro de Custo: </strong> 14002 - Endomarketing</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -186,7 +186,7 @@
         <p><strong>E-mail: </strong> victor.hugo@amorsaude.com</p>
         <p><strong>CPF: </strong> 478.319.538-25</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -235,7 +235,7 @@
         <p><strong>E-mail: </strong> victor.lima@amorsaude.com</p>
         <p><strong>CPF: </strong> 397.234.398-16</p>
         <p><strong>Centro de Custo: </strong> 14003 - CRM</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -292,7 +292,7 @@
         <p><strong>E-mail: </strong> victor.dantas@amorsaude.com</p>
         <p><strong>CPF: </strong> 060.444.161-43</p>
         <p><strong>Centro de Custo: </strong> 13011 - Dados</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -334,7 +334,7 @@
         <p><strong>E-mail: </strong> vinicius.massullo@amorsaude.com</p>
         <p><strong>CPF: </strong> pj3.271.625/0001-09</p>
         <p><strong>Centro de Custo: </strong> 13015</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -395,7 +395,7 @@
         <p><strong>E-mail: </strong> N/A</p>
         <p><strong>CPF: </strong> 425.036.598-02</p>
         <p><strong>Centro de Custo: </strong> N/A</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -444,7 +444,7 @@
         <p><strong>E-mail: </strong> vitor.magno@amorsaude.com</p>
         <p><strong>CPF: </strong> 459.273.348-73</p>
         <p><strong>Centro de Custo: </strong> 13012 - Desenvolvimento</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -485,7 +485,7 @@
         <p><strong>E-mail: </strong> viviane.carvalho@amorsaude.com</p>
         <p><strong>CPF: </strong> 339.344.308-99</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <p><strong></strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -526,7 +526,7 @@
         <p><strong>E-mail: </strong> viviane.murari@amorsaude.com</p>
         <p><strong>CPF: </strong> 369.419.328-64</p>
         <p><strong>Centro de Custo: </strong> N/A</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
