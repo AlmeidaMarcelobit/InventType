@@ -18,8 +18,7 @@
         <p><strong>E-mail: </strong> yago.mariano@amorsaude.com</p>
         <p><strong>CPF: </strong> 120.120.005-42</p>
         <p><strong>Centro de Custo: </strong> 12006 - Regional 1</p>
-        <p><strong>: </strong> online</p>
-        <p><strong>Data de Admissão: </strong> 03.06.2023</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -80,7 +79,7 @@
         <p><strong>E-mail: </strong> yago.oliveira@amorsaude.com</p>
         <p><strong>CPF: </strong> 380.127.808-52</p>
         <p><strong>Centro de Custo: </strong> 12002 - SAC</p>
-        <p><strong>: </strong> online</p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>⌨️Teclado</h4>
@@ -134,7 +133,7 @@
         <p><strong>E-mail: </strong> Não informado</p>
         <p><strong>CPF: </strong> Não informado</p>
         <p><strong>Centro de Custo: </strong> 12005 - Backoffice</p>
-        <p><strong>: </strong> Desligada (19.08.2024)</p>
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
