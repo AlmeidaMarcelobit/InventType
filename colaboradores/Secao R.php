@@ -135,12 +135,6 @@
                 <p><strong>Série: </strong> 2412AYOONXEB</p>
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
-            <div class="device">
-                <h4>🔩 Suporte</h4>
-                <p><strong>Patrimônio: </strong></p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong></p>
-            </div>
         </div>
         <div class="devices">
             <div class="responsibility-link">
