@@ -277,21 +277,6 @@
                 <p><strong>IMEI 2: </strong> 3583022355393392/01</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="devices">
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> 895</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> Logitech H390</p>
-            </div>
-            <div class="device">
-                <h4>🎧 Fone</h4>
-                <p><strong>Patrimônio: </strong> Logitech H390</p>
-                <p><strong>Série: </strong></p>
-                <p><strong>Modelo: </strong> 901</p>
-            </div>
-        </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> Verificar os equipamento</p>
