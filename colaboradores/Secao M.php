@@ -304,6 +304,12 @@
                 <p><strong>Série: </strong> N/A</p>
                 <p><strong>Modelo: </strong> Multi Suporte</p>
             </div>
+            <div class="device">
+                <h4>🌐 Hub USB</h4>
+                <p><strong>Patrimônio: </strong> 1029</p>
+                <p><strong>Série: </strong> F202212-HC</p>
+                <p><strong>Modelo: </strong> Exbom</p>
+            </div>
         </div>
         <div class="devices">
             <div class="responsibility-link">
