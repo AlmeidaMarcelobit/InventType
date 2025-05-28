@@ -60,13 +60,6 @@
                 <p><strong>Modelo: </strong> Waster Digital/WD10spzx</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>💻 Notebook Antigo</h4>
-            <p><strong>Patrimônio: </strong> 184</p>
-            <p><strong>Série: </strong> 2125me0jypn8</p>
-            <p><strong>Modelo: </strong> Idealpad 15ALC6 0 (Win-10 Ryzen 5-5500U 12GB)</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -122,22 +115,6 @@
                 <p><strong>Modelo: </strong> Dell Pro MS300</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="devices">
-        <div class="device">
-            <h4>⌨️🖱️ Teclado e Mouse</h4>
-            <p><strong>Teclado Patrimônio: </strong> 197</p>
-            <p><strong>Mouse Patrimônio: </strong> 602</p>
-            <p><strong>Série: </strong> 2217CE091FF9</p>
-            <p><strong>Modelo: </strong> Logitech MK270</p>
-        </div>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 697</p>
-            <p><strong>Série: </strong> 275340856</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
-        </div>
-        </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
             <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos listados, porém ainda não
@@ -190,13 +167,6 @@
                 <p><strong>Patrimônio: </strong> Não informado</p>
                 <p><strong>Modelo: </strong> Alumínio</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 598</p>
-            <p><strong>Série: </strong> 265441762</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
         </div>
         <div class="devices">
             <div class="responsibility-link">
@@ -551,7 +521,7 @@
         <p><strong>CPF: </strong> 456.010.168-01</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
         <p><strong>Data de Admissão: </strong> 02.12.2024</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🎧 Fone</h4>
@@ -598,7 +568,7 @@
         <p><strong>CPF: </strong> 366.240.078-26</p>
         <p><strong>Centro de Custo: </strong> 22001 - Consulta Assistida</p>
         <p><strong>Data de Admissão: </strong> 02.10.2023</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>🔩 Suporte</h4>
@@ -653,7 +623,7 @@
         <p><strong>Centro de Custo: </strong> 13013 - Produto</p>
         <p><strong>Data de Admissão: </strong> 17.11.2020</p>
         <p><strong>Data da Promoção: </strong> 01.11.2024</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -674,25 +644,6 @@
                 <p><strong>Modelo: </strong> Dell KB3121WT</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>💻 Notebook</h4>
-            <p><strong>Patrimônio: </strong> 027</p>
-            <p><strong>Série: </strong> 96w2qd3</p>
-            <p><strong>Modelo: </strong> Dell Inspirion 3510</p>
-        </div>
-        <div class="device">
-            <h4>⌨️🖱️ Teclado e Mouse</h4>
-            <p><strong>Patrimônio: </strong> 379</p>
-            <p><strong>Série: </strong> 2240ce0b5479</p>
-            <p><strong>Modelo: </strong> Logite MK270</p>
-        </div>
-        <div class="device">
-            <h4>🎧 Fone</h4>
-            <p><strong>Patrimônio: </strong> 898</p>
-            <p><strong>Série: </strong> 2332ME021N79</p>
-            <p><strong>Modelo: </strong> Logitech H390</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -707,7 +658,7 @@
         <p><strong>E-mail: </strong> mateus.nistarda@amorsaude.com</p>
         <p><strong>CPF: </strong> 395.947.118-17</p>
         <p><strong>Centro de Custo: </strong> Não informado</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -750,7 +701,7 @@
         <p><strong>E-mail: </strong> matheus.lima@amorsaude.com</p>
         <p><strong>CPF: </strong> </p>
         <p><strong>Centro de Custo: </strong> Não informado</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -768,7 +719,7 @@
         <p><strong>E-mail: </strong> mathiele.matos@amorsaude.com</p>
         <p><strong>CPF: </strong> 008.422.160-73</p>
         <p><strong>Centro de Custo: </strong> 12007 - Regional 2</p>
-        <span class=" online">:  online</span>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -817,7 +768,7 @@
         <p><strong>E-mail: </strong>miguel.silverio@amorsaude.com</p>
         <p><strong>CPF: </strong>441.067.438-25</p>
         <p><strong>Centro de Custo: </strong>13019 - Suporte</p>
-        <p><span class=" online">:  online</span></p>
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -844,13 +795,6 @@
                 <p><strong>Modelo: </strong>Alumínio</p>
             </div>
 
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Equipamento</h4>
-            <p><strong>Patrimônio: </strong> Código</p>
-            <p><strong>Série: </strong> Série</p>
-            <p><strong>Modelo: </strong> Modelo</p>
         </div>
         <div class="devices">
             <div class="responsibility-link">
@@ -899,7 +843,7 @@
                 <p><strong>Modelo:</strong>Dell E1920H</p>
             </div>
             <div class="device">
-                <h4>📱 Celular</h4>;
+                <h4>📱 Celular</h4>
                 <p><strong>Patrimônio:</strong>541</p>
                 <p><strong>Série:</strong>R9QT403E6BX</p>
                 <p><strong>Modelo:</strong>Galaxy A03</p>
