@@ -47,18 +47,6 @@
                 <p><strong>Modelo: </strong> Dell Vostro 3520</p>
             </div>
         </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="devices">
-            <div class="device">
-                <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 794</p>
-                <p><strong>Série: </strong> RX9R90HDAAR</p>
-                <p><strong>Modelo: </strong> Galaxy A02</p>
-                <p><strong>IMEI 1: </strong> 354397310709045</p>
-                <p><strong>IMEI 2: </strong> 354578130709048</p>
-            </div>
-        </div>
-
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -134,16 +122,6 @@
                 <p><strong>Série: </strong> zl73239kd6</p>
                 <p><strong>Modelo: </strong> Moto E13</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>📱 Smartphone</h4>
-            <p><strong>Patrimônio: </strong> 747</p>
-            <p><strong>Série: </strong> R9xt20139dl</p>
-            <p><strong>Modelo: </strong> Samsung Galaxy A03</p>
-            <p><strong>IMEI 1: </strong> 354985980029619/01</p>
-            <p><strong>IMEI 2: </strong> 355106270029610/01</p>
-            <p><strong>ID Ticket: </strong> #30250</p>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
