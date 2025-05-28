@@ -270,14 +270,6 @@
                 <p><strong>Modelo: </strong> Dell KM5221W</p>
             </div>
         </div>
-        <h2>Equipamento Compormetido</h2>
-        <div class="device">
-            <h4>⌨️🖱️ Teclado e Mouse</h4>
-            <p><strong>Teclado - Patrimônio: </strong> 1514</p>
-            <p><strong>Mouse - Patrimônio: </strong> 1004</p>
-            <p><strong>Série: </strong> 2345CE4BA5A9</p>
-            <p><strong>Modelo: </strong> Logitech MK270</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -368,13 +360,6 @@
                 <p><strong>IMEI 1: </strong> 354985980029693</p>
                 <p><strong>IMEI 2: </strong> 355106280029693</p>
             </div>
-        </div>
-        <h2>Equipamentos Comprometidos</h2>
-        <div class="device">
-            <h4>🎧 Equipamento</h4>
-            <p><strong>Patrimônio: </strong> 598</p>
-            <p><strong>Série: </strong> 265441762</p>
-            <p><strong>Modelo: </strong> Jabra HSC016</p>
         </div>
         <div class="attention-info">
             <h2>⚠️ Informações Importantes</h2>
