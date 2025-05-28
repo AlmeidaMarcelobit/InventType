@@ -612,7 +612,6 @@
             </div>
             <div class="device">
                 <h4>📱 Celular</h4>
-                ;
                 <p><strong>Patrimônio:</strong>628</p>
                 <p><strong>Série:</strong>R9QTA00GH5A</p>
                 <p><strong>Modelo:</strong>Galaxy A03</p>
