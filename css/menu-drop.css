@@ -51,10 +51,9 @@ nav ul li ul.dropdown li {
 
 nav ul li ul.dropdown li a {
     display: block;
-    color: #555;
+    color: #fff;
     padding: 8px;
-    border-bottom: 1px solid #DDE0E7;
-    background: white;
+    background: #1a1a1a;
 }
 
 nav ul li ul.dropdown li a:hover {
