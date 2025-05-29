@@ -1291,63 +1291,9 @@
                 <p><strong>Alerta:</strong> Alocado temporariamente para Marcos Vinicius Baleirini Silva </p>
             </div>
         </div>
-    <div class="card">
-        <h2>📦ID Caixa: </h2>
-        <p><strong>Colaborador:</strong>Julia Carolina Rogerio</p>
-        <p><strong>Substituição:</strong>Yago dos Anjos Mariano</p>
-        <p><strong>Departamento:</strong>Consultoria de Performance</p>
-        <p><strong>E-mail:</strong></p>
-        <p><strong>CPF:</strong>377.938.578-36</p>
-        <p><strong>Centro de Custo:</strong>12010 - Consultoria de Performance</p>
-    </div>
-    <div class="card">
-        <h2>📦ID Caixa: </h2>
-        <p><strong>Colaborador:</strong>Pedro Luiz Vicente de Carvalho</p>
-        <p><strong>Substituição:</strong>Lucilene Santos Matias</p>
-        <p><strong>Cargo:</strong>Consultor de Performance</p>
-        <p><strong>Departamento:</strong>Consultoria</p>
-        <p><strong>E-mail:</strong>pedro.carvalho@amorsaude.com</p>
-        <p><strong>CPF:</strong>470.311.428-30</p>
-        <p><strong>Centro de Custo:</strong>12010 - Consultoria de Performance</p>
-    </div>
-    <div class="card">
-        <h2>📦ID Caixa: </h2>
-        <p><strong>Colaborador:</strong>Agata Cristina Silva Assunção</p>
-        <p><strong>Cargo:</strong>Supervisor de Operações</p>
-        <p><strong>Departamento:</strong>Backoffice e SAF</p>
-        <p><strong>E-mail:</strong>agata.assuncao@amorsaude.com</p>
-        <p><strong>CPF:</strong>376.102.618-82</p>
-        <p><strong>Centro de Custo:</strong>12005 - BackOffice</p>
-    </div>
-    <div class="card">
-        <h2>📦ID Caixa: </h2>
-        <p><strong>Colaborador:</strong>Brenno Yan Romanatti Rogério</p>
-        <p><strong>Substituição:</strong>Ana Beatriz Silveira</p>
-        <p><strong>Cargo:</strong>Analista de QA JR</p>
-        <p><strong>Departamento:</strong>Produto</p>
-        <p><strong>E-mail:</strong>brenno.rogerio@amorsaude.com</p>
-        <p><strong>CPF:</strong>456.510.218-84</p>
-        <p><strong>Centro de Custo:</strong>13013 - Produto</p>
-    </div>
-    <div class="card">
-        <h2>📦ID Caixa: </h2>
-        <p><strong>Colaborador:</strong>Thauany Heloisa Pereira</p>
-        <p><strong>Substituição:</strong></p>
-        <p><strong>Cargo:</strong>Analista de Administração Pessoal JR</p>
-        <p><strong>Departamento:</strong>Pessoas e Cultura</p>
-        <p><strong>E-mail:</strong>thauany.pereira@amorsaude.com</p>
-        <p><strong>CPF:</strong>414.972.498-99</p>
-        <p><strong>Centro de Custo:</strong>13007 - Remuneração e Benefícios</p>
-    </div>
-    <div class="card">
-        <h2>📦ID Caixa: </h2>
-        <h3>👤 Marina Pereira Pardinho Ramos</h3>
-        <p><strong>Cargo:</strong>Analista de Documentações Gestão de Rede SR</p>
-        <p><strong>Departamento:</strong>Gestão de Rede</p>
-        <p><strong>E-mail:</strong>marina.ramos@amorsaude.com</p>
-        <p><strong>CPF:</strong>323.808.848-38</p>
-        <p><strong>Centro de Custo:</strong>12006 - Gestão de Rede</p>
-    </div>
+
+
+
     <div class="card">
         <h2>📦ID Caixa: </h2>
         <p><strong>Colaborador:</strong></p>
