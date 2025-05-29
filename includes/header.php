@@ -2,8 +2,6 @@
     <nav class="nav" aria-label="Main navigation">
         <ul>
             <li><a href="../includes/index.php">Home</a></li>
-            <li><a href="../pages/novos-colaboradore.php">Novos Colaboradores</a></li>
-
             <li class="drop" aria-haspopup="true" aria-expanded="false">
                 <a href="#">Colaboradores ▾</a>
                 <ul class="dropdown" aria-label="Submenu">
