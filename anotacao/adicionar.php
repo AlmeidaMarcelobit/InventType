@@ -1,20 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8"/>
     <title>Adicionar Anotação</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Marcelo de Araujo Almeida">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../css/adicionar.css">
-    <link rel="stylesheet" href="../css/menu-drop.css">
-    <link rel="icon" href="../imagem/favicon/favicon-16x16.png">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../scripts/menudrop.js" defer></script>
+    <?php include '../includes/head.html'; ?>
+    <link rel="stylesheet" href="../css/anotacao.css">
 </head>
 <body>
 <?php include '../includes/header.php'; ?>
-<div class="container">
+<div class="container_2">
     <h2>Nova Anotação</h2>
 
     <label for="titulo">Título:</label><br />
@@ -29,30 +22,31 @@
     <label for="texto">Descrição:</label><br />
     <textarea id="texto" rows="4" cols="50" placeholder="Descreva a anotação ou problema..."></textarea><br /><br />
 
-    <button onclick="salvar()">Salvar</button>
-
-    <script>
-        function salvar() {
-            const tipo = document.getElementById("tipo").value;
-            const titulo = document.getElementById("titulo").value;
-            const texto = document.getElementById("texto").value;
-
-            fetch("salvar.php", {
-                method: "POST",
-                headers: { "Content-Type": "application/x-www-form-urlencoded" },
-                body: `tipo=${tipo}&titulo=${encodeURIComponent(titulo)}&texto=${encodeURIComponent(texto)}`
-            })
-                .then(res => res.json())
-                .then(data => {
-                    alert("Salvo com sucesso!");
-                    document.getElementById("titulo").value = "";
-                    document.getElementById("texto").value = "";
-                });
-        }
-    </script>
+    <div class="button">
+        <button id="button" onclick="salvar()">Salvar</button>
+    </div>
 </div>
 <footer>
     <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
 </footer>
+<script>
+    function salvar() {
+        const tipo = document.getElementById("tipo").value;
+        const titulo = document.getElementById("titulo").value;
+        const texto = document.getElementById("texto").value;
+
+        fetch("salvar.php", {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: `tipo=${tipo}&titulo=${encodeURIComponent(titulo)}&texto=${encodeURIComponent(texto)}`
+        })
+            .then(res => res.json())
+            .then(data => {
+                // alert("Salvo com sucesso!");
+                document.getElementById("titulo").value = "";
+                document.getElementById("texto").value = "";
+            });
+    }
+</script>
 </body>
 </html>
