@@ -32,6 +32,19 @@
         <div class="info">Numero Kits:<span class="label"></span></div>
     </div>
     <div class="card">
+        <div class="info">Ticket:<span class="label">#164179</span></div>
+        <div class="info">Candidato:<span class="label">Victor Hugo Lopes Da Silva Moro</span></div>
+        <div class="info">CPF:<span class="label">445.733.608-40</span></div>
+        <div class="info">Superior Imediato:<span class="label">Victor Lima</span></div>
+        <div class="info">Cargo de Admissão:<span class="label">Analista de QA Jr</span></div>
+        <div class="info">Departamento:<span class="label">CRM</span></div>
+        <div class="info">E-mail:<span class="label">victor.moro@amorsaude.com</span></div>
+        <div class="info">User AD:<span class="label"></span></div>
+        <div class="info">Empresa:<span class="label">AmorSaúde</span></div>
+        <div class="info">Centro de Custo:<span class="label">14003 - CRM</span></div>
+        <div class="info">Numero Kits:<span class="label"></span></div>
+    </div>
+    <div class="card">
         <div class="info">Colaborador:<span class="label">Pedro Luiz Vicente de Carvalho</span></div>
         <div class="info">Substituição:<span class="label">Lucilene Santos Matias</span></div>
         <div class="info">Cargo:<span class="label">Consultor de Performance</span></div>
