@@ -33,6 +33,20 @@
         <div class="info">Numero Kits:<span class="label"></span></div>
     </div>
     <div class="card">
+        <div class="info">Ticket:<span class="label">#128351 - #172777</span></div>
+        <div class="info">Candidato:<span class="label">Leandro Marcos de Deus</span></div>
+        <div class="info">CPF:<span class="label">702.643.676-77</span></div>
+        <div class="info">Superior:<span class="label">Marcos Henrique Corusse</span></div>
+        <div class="info">Cargo:<span class="label">Desenvolvedo Full Stack Jr</span></div>
+        <div class="info">Departamento:<span class="label">Tech</span></div>
+        <div class="info">Substituição:<span class="label">Marcos Corusse</span></div>
+        <div class="info">E-mail:<span class="label">leandro.marcos@amorsaude.com</span></div>
+        <div class="info">User AD:<span class="label"></span></div>
+        <div class="info">Empresa:<span class="label"></span>AmorSaude</div>
+        <div class="info">Centro de Custo:<span class="label"></span></div>
+        <div class="info">Numero Kits:<span class="label"></span></div>
+    </div>
+    <div class="card">
         <div class="info">Ticket:<span class="label">#176556</span></div>
         <div class="info">Candidato:<span class="label">Eduardo Valentim</span></div>
         <div class="info">CPF:<span class="label">833.702.774-68</span></div>
