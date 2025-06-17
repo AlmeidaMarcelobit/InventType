@@ -23,12 +23,27 @@
         <div class="info">Candidato:<span class="label"></span></div>
         <div class="info">CPF:<span class="label"></span></div>
         <div class="info">Superior Imediato:<span class="label"></span></div>
-        <div class="info">Cargo de Admissão:<span class="label"></span></div>
+        <div class="info">Cargo:<span class="label"></span></div>
+        <div class="info">Departamento:<span class="label"></span></div>
         <div class="info">Substituição:<span class="label"></span></div>
         <div class="info">E-mail:<span class="label"></span></div>
         <div class="info">User AD:<span class="label"></span></div>
         <div class="info">Empresa:<span class="label"></span></div>
         <div class="info">Centro de Custo:<span class="label"></span></div>
+        <div class="info">Numero Kits:<span class="label"></span></div>
+    </div>
+    <div class="card">
+        <div class="info">Ticket:<span class="label">#176556</span></div>
+        <div class="info">Candidato:<span class="label">Eduardo Valentim</span></div>
+        <div class="info">CPF:<span class="label">833.702.774-68</span></div>
+        <div class="info">Superior Imediato:<span class="label"></span></div>
+        <div class="info">Cargo:<span class="label">Gerente de Engenharia</span></div>
+        <div class="info">Departamento:<span class="label">Engenharia</span></div>
+        <div class="info">Substituição:<span class="label">Dan Sabbagh</span></div>
+        <div class="info">E-mail:<span class="label"></span></div>
+        <div class="info">User AD:<span class="label"></span></div>
+        <div class="info">Empresa:<span class="label">AmorSaúde</span></div>
+        <div class="info">Centro de Custo:<span class="label">13009 - Diretoria de Tecnologia</span></div>
         <div class="info">Numero Kits:<span class="label"></span></div>
     </div>
     <div class="card">
