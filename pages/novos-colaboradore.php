@@ -33,6 +33,19 @@
         <div class="info">Numero Kits:<span class="label"></span></div>
     </div>
     <div class="card">
+        <div class="info">Ticket:<span class="label">#168914</span></div>
+        <div class="info">Candidato:<span class="label">Wesley Rafael da Silva</span></div>
+        <div class="info">CPF:<span class="label">496.354.958-11</span></div>
+        <div class="info">Superior:<span class="label">Agata Cristina Silva Assunção</span></div>
+        <div class="info">Cargo:<span class="label">Assistente de Processos e Documentações</span></div>
+        <div class="info">Departamento:<span class="label">Backoffice</span></div>
+        <div class="info">E-mail:<span class="label"></span>wesley.silva@amorsaude.com</div>
+        <div class="info">User AD:<span class="label"></span></div>
+        <div class="info">Empresa:<span class="label">AmorSaúde</span></div>
+        <div class="info">Centro de Custo:<span class="label">12005 - BackOffice</span></div>
+        <div class="info">Numero Kits:<span class="label"></span></div>
+    </div>
+    <div class="card">
         <div class="info">Ticket:<span class="label">#128351 - #172777</span></div>
         <div class="info">Candidato:<span class="label">Leandro Marcos de Deus</span></div>
         <div class="info">CPF:<span class="label">702.643.676-77</span></div>
