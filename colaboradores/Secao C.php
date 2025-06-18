@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras C</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Caio%20Souza.png" alt="Foto de Caio Souza" class="profile-pic">
+        <img src="../imagem/colaboradores/caio%20souza.jpg" alt="Foto de Caio Souza" class="profile-pic">
         <h3>👤 Caio Souza</h3>
         <p><strong>Cargo: </strong> Analista de Suporte Pl</p>
         <p><strong>Departamento: </strong> Suporte</p>
@@ -48,7 +48,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Caique%20Picolo.png" alt="Foto de Caique Picolo Dal Picolo"
+        <img src="../imagem/colaboradores/caique%20picolo.jpg" alt="Foto de Caique Picolo Dal Picolo"
              class="profile-pic">
         <h3>👤 Caique Picolo Dal Picolo</h3>
         <p><strong>Cargo: </strong> Analista de Implantação Jr</p>
@@ -84,7 +84,7 @@
         </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Camila%20Farias.png" alt="Foto de Camila Bagatini Manco Farias"
+    <img src="../imagem/colaboradores/camila%20farias.jpg" alt="Foto de Camila Bagatini Manco Farias"
          class="profile-pic">
     <h3>👤 Camila Bagatini Manco Farias</h3>
     <p><strong>Cargo: </strong> Consultora de Operações</p>
@@ -132,7 +132,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Camila%20Sousa.jpeg" alt="Foto de Camila Cruz Alves de Sousa" class="profile-pic">
+    <img src="../imagem/colaboradores/camila%20sousa.jpg" alt="Foto de Camila Cruz Alves de Sousa" class="profile-pic">
     <h3>👤 Camila Cruz Alves de Sousa</h3>
     <p><strong>Cargo: </strong> Consultoria de Operações</p>
     <p><strong>Departamento: </strong> Consultoria</p>
@@ -183,7 +183,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Carla%20Costa.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/carla%20costa.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Carla Karolaine Da Costa Silvestre Silva</h3>
     <p><strong>Cargo: </strong> Coordenadora de Operações</p>
     <p><strong>Departamento: </strong> Operações</p>
@@ -232,7 +232,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Carolina%20Lopes.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/carolina%20lopes.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Carolina Antonino Lopes</h3>
     <p><strong>Cargo: </strong> Assistente Treinamento</p>
     <p><strong>Departamento: </strong> Backoffice</p>
@@ -273,7 +273,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Caroline%20Prata%20Lima.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/caroline%20prata%20lima.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Caroline Prata Lima</h3>
     <p><strong>Cargo: </strong> Assistente de Treinamentos</p>
     <p><strong>Departamento: </strong> Treinamentos</p>
@@ -324,7 +324,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Cau%C3%A3%20Bacileri.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/caua%20bacilieri.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Cauã Fernando Bacilieri Silva</h3>
     <p><strong>Cargo: </strong> Estagiario</p>
     <p><strong>Departamento: </strong> BackOffice</p>
@@ -375,7 +375,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Cinthia%20Viana.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/cinthia%20viana.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Cinthia Cristiane Alexandre Viana</h3>
     <p><strong>Cargo: </strong> Analista Contábil Sr</p>
     <p><strong>Departamento: </strong> Contabilidade</p>
@@ -422,7 +422,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Claudia%20Ornela.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/claudia%20ornela.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Claudia Matos Ornela</h3>
     <p><strong>Cargo: </strong> Analista Financeiro Jr</p>
     <p><strong>Departamento: </strong> Financeiro</p>
@@ -483,7 +483,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Claudia%20Dias.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/claudia%20dias.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Claudia Regina Vieria Dias</h3>
     <p><strong>Cargo: </strong> Assistente Administronline</p>
     <p><strong>Departamento: </strong> Telemedicina</p>
