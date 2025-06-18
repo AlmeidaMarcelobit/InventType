@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras J</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Jade%20Rodrigues.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/jade%20rodrigues.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jade Rodrigues</h3>
         <p><strong>Cargo: </strong> Analista</p>
         <p><strong>Departamento: </strong> Amorcirurgias</p>
@@ -67,7 +67,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Janaima%20Fram%C3%A7oza.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/janaima%20framcoza.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Janaina Françoza</h3>
         <p><strong>Cargo: </strong> Analista de Documentações Pl</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -116,7 +116,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Jaqueline%20Roviero.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/jaqueline%20roviero.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jaqueline Roviero</h3>
         <p><strong>Cargo: </strong> Analista De Experiência Do Cliente</p>
         <p><strong>Departamento: </strong> Administronline</p>
@@ -138,11 +138,6 @@
                 <p><strong>Modelo: </strong> Logitech MK270</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos listados, porém ainda não
-                possui o termo de responsabilidade assinado e dados para os notebook e monitor.</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -150,7 +145,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 João Pedro Pereira Ribeiro</h3>
         <p><strong>Cargo: </strong> Desenvolvedor FullStack</p>
         <p><strong>Departamento: </strong> Desenvolvimento</p>
@@ -191,7 +186,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 João Pedro Silvestre</h3>
         <p><strong>Cargo: </strong> Analista de Desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de Negócio</p>
@@ -283,10 +278,6 @@
                 <p><strong>IMEI 2: </strong></p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Coletar Termos</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -336,7 +327,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jonatas Henrique Esreves Mian</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -379,7 +370,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jordy Neves</h3>
         <p><strong>Cargo: </strong> Analista De Desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de Negócio</p>
@@ -408,7 +399,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Jorge Augusto Zaidan</h3>
         <p><strong>Cargo: </strong>Coordenador de BackOffice</p>
         <p><strong>Departamento: </strong>BackOffice</p>
@@ -453,7 +444,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 José Vinicius Menari</h3>
         <p><strong>Cargo:</strong>Desenvolvedor Sênior</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
@@ -487,10 +478,6 @@
                 <p><strong>Modelo:</strong>Aluminio</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta:</strong> Informação relevante aqui</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -499,7 +486,7 @@
     </div>
 
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Josiane%20Santos.jpeg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/josiane%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Josiane Santos</h3>
         <p><strong>Cargo: </strong> Analista De QA</p>
         <p><strong>Departamento: </strong> Produto</p>
@@ -518,7 +505,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Julcelly%20Henriques.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/julcelly%20henriques.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Julcelly Henriques</h3>
         <p><strong>Cargo: </strong> Analista De Pesquisa Jr</p>
         <p><strong>Departamento: </strong> Projetos</p>
@@ -534,12 +521,6 @@
                 <p><strong>Modelo: </strong> LG 22MP410-B</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos listados, porém apenas possui
-                o termo de responsabilidade assinado para o monitor, não tendo os dados e termo para os demais
-                itens.</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -547,7 +528,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Julia%20Colombari.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/julia%20colombari.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Julia Colombari</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -596,7 +577,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Julia%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/julia%20silva.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Julia Carolia da Silva</h3>
         <p><strong>Cargo: </strong> Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong> Atendimento ao Cliente</p>
@@ -656,7 +637,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Juliana%20De%20Oliveira%20Silv%C3%A9rio.png" alt="Foto do Colaborador"
+        <img src="../imagem/colaboradores/juliana%20de%20oliveira%20silverio.jpg" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Juliana de Oliveira Silvério</h3>
         <p><strong>Cargo: </strong> Consultor de Operação</p>
@@ -705,7 +686,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Juliana%20Souza.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/juliana%20souza.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Juliana Paula da Silva Souza</h3>
         <p><strong>Cargo: </strong> Analista de Pessoas e Cultura</p>
         <p><strong>Departamento: </strong> Pessoas & Cultura</p>
