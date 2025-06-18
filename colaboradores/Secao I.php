@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras I</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Iago%20Perin.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/iago%20perin.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Iago Rodrigues Perin</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -60,7 +60,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Iara%20Ribeiro.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/iara%20ribeiro.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Iara Cristina Moraes Ribeiro</h3>
         <p><strong>Cargo: </strong> Analista de Pessoas & Cultura Júnior</p>
         <p><strong>Departamento: </strong> Pessoas & Cultura</p>
@@ -109,7 +109,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Igor Hentique de Baggis</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -157,7 +157,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Indiara%20Miria%20da%20Rocha%20Siqueira.png" alt="Foto do Colaborador"
+        <img src="../imagem/colaboradores/indiara%20miria%20da%20rocha%20siqueira.jpg" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Indiara Miria da Rocha Siqueira</h3>
         <p><strong>Cargo: </strong> Assistente de Retenção</p>
@@ -200,7 +200,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Iris%20Cristina%20Nietto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/iris%20cristina%20nietto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Iris Cristina Nietto</h3>
         <p><strong>Cargo: </strong> Analista Contábil</p>
         <p><strong>Departamento: </strong> Contabilidade</p>
@@ -247,7 +247,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Isabela%20Sousa.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/isabela%20sousa.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Isabela Cristina De Sousa Ponce Santana</h3>
         <p><strong>Cargo: </strong> Consultora De Operações</p>
         <p><strong>Departamento: </strong> Migração</p>
@@ -277,10 +277,6 @@
                 <p><strong>IMEI 2: </strong> 3583022355393392/01</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Verificar os equipamento</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -288,7 +284,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Isabela Hanna Borin</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Operações</p>
@@ -331,7 +327,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Isabella%20Santana.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/isabella%20santana.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Isabella Santana</h3>
         <p><strong>Cargo: </strong>Gerente de Operações</p>
         <p><strong>Departamento: </strong>Inteligência de Negócios</p>
@@ -339,10 +335,6 @@
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong>13021 - Operações</p>
         <img class="status" src="../imagem/icone/on.png" alt="">
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Sem termo de responsabilidade</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -350,7 +342,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Isabella Viera</h3>
         <p><strong>Cargo: </strong> Estagiária</p>
         <p><strong>Departamento: </strong> Pessoas e Cultura</p>
@@ -391,7 +383,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Isabelle%20Castilho.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/isabelle%20castilho.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Isabelle Carorile Salvadego Castilho</h3>
         <p><strong>Cargo: </strong> Estagiário Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -426,7 +418,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Isadora%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/isadora%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Isadora Solbaro Dos Santos</h3>
         <p><strong>Cargo: </strong> Estagiário(a)</p>
         <p><strong>Departamento: </strong> Backoffice</p>
