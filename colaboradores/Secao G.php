@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras G</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Borges Silverio</h3>
         <p><strong>Cargo: </strong> Consultor de Operação</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -60,7 +60,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriel%20Cardinali.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriel%20cardinali.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Cardinali</h3>
         <p><strong>Cargo: </strong> Coordenador De Pesquisa E Desenvolvimento</p>
         <p><strong>Departamento: </strong> Dir. Financeira</p>
@@ -109,7 +109,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriel%20Carvalho.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriel%20carvalho.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Carrasco De Carvalho</h3>
         <p><strong>Cargo: </strong> Consultor De Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -159,7 +159,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriel%20Dourado.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriel%20dourado.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Dourado</h3>
         <p><strong>Cargo:</strong>Analista De Desenvolvimento</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
@@ -183,7 +183,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriel%20Guilherme.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriel%20guilherme.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Guilherme</h3>
         <p><strong>Cargo: </strong> Analista de Dados</p>
         <p><strong>Departamento: </strong> Dados</p>
@@ -224,7 +224,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Renan Gregorato Santos</h3>
         <p><strong>Cargo: </strong> Desenvolvedor Jr</p>
         <p><strong>Departamento: </strong> 04.08.2023</p>
@@ -241,7 +241,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriel%20Rodrigues%20de%20Morais.jpg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriel%20rodrigues%20de%20morais.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Rodrigues de Morais</h3>
         <p><strong>Cargo: </strong>Gerente de Pessoas</p>
         <p><strong>Departamento: </strong>Pessoas e Cultura</p>
@@ -277,10 +277,6 @@
                 <p><strong>Modelo: </strong>Aluminio</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Coletar informação do Monitor, Termo de Usu</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -288,7 +284,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriel%20Nadeu.jpg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriel%20nadeu.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriel Rodrigues Nadeu</h3>
         <p><strong>Cargo: </strong>Coordenador(a) de Projetos e Processos</p>
         <p><strong>Departamento: </strong> Projeto/Processo</p>
@@ -335,7 +331,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriela%20Martins.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriela%20martins.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Bouchabki Martins</h3>
         <p><strong>Cargo: </strong> Product Owner</p>
         <p><strong>Departamento: </strong> Produtos</p>
@@ -411,7 +407,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriela%20Fritz.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriela%20fritz.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Fritz</h3>
         <p><strong>Cargo: </strong> Analista de Experiência do Cliente</p>
         <p><strong>Departamento: </strong> Experiência do Cliente</p>
@@ -466,7 +462,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriela%20Cristina.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriela%20cristina.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Cristina Soares</h3>
         <p><strong>Cargo: </strong> Assistente de Operações</p>
         <p><strong>Departamento: </strong> Backoffice</p>
@@ -521,7 +517,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriela%20Georgete.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriela%20georgete.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriela Georgete da Cruz</h3>
         <p><strong>Cargo: </strong> Analista Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -570,7 +566,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Gabriele%20Marin%20Soare.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/gabriele%20marin%20soare.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gabriele Marin Soare</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -660,10 +656,6 @@
             <p><strong>Modelo: </strong>LG 22MP410-B</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Coletar Monitor e recolher termo de uso</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -671,7 +663,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Gilmara Luiza de Oliveira</h3>
         <p><strong>Cargo:</strong>Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento:</strong>Atendimento ao Cliente</p>
@@ -721,7 +713,7 @@
         </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Gisele%20Brochetto.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/gisele%20brochetto.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Gisele Brochetto</h3>
     <p><strong>Cargo: </strong> Coordenador De Relacionamento Com Prestadores De Saúde</p>
     <p><strong>Departamento: </strong> Dir. Operações</p>
@@ -737,12 +729,6 @@
             <p><strong>Modelo: </strong> Logitech H390</p>
         </div>
     </div>
-    <div class="attention-info">
-        <h2>⚠️ Informações Importantes</h2>
-        <p><strong>Alerta: </strong> O colaborador está utilizando equipamentos sem registro detalhado e sem o
-            termo
-            de responsabilidade assinado.</p>
-    </div>
     <div class="devices">
         <div class="responsibility-link">
             <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -750,7 +736,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Graziele%20Ambrosio.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/graziele%20ambrosio.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Graziele Giacon Ambrosio</h3>
     <p><strong>Cargo: </strong> Consultora de Operações</p>
     <p><strong>Departamento: </strong> Consultoria</p>
@@ -805,7 +791,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Guilherme%20Neto.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/guilherme%20neto.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Guilherme Neto</h3>
     <p><strong>Cargo: </strong> Analista de Relacionamento com Profissionais da Saúde</p>
     <p><strong>Departamento: </strong> Relacionamento com Profissionais da Saúde</p>
@@ -846,7 +832,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Guilherme%20Correa.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/guilherme%20correa.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Guilherme Correa</h3>
     <p><strong>Cargo: </strong> Analista de Negócio</p>
     <p><strong>Departamento: </strong> Inteligência de Negócio</p>
