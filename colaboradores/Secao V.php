@@ -496,6 +496,14 @@
                 <p><strong>Série: </strong> 2309ME01AQT9</p>
                 <p><strong>Modelo: </strong> Logitech H390</p>
             </div>
+            <div class="device">
+                <h4>📱 Celular</h4>
+                <p><strong>Patrimônio: </strong>589</p>
+                <p><strong>Série: </strong> R9XT703HHHL</p>
+                <p><strong>Modelo: </strong> Galaxy A03</p>
+                <p><strong>IMEI 1: </strong> 354985989157890/01</p>
+                <p><strong>IMEI 2: </strong> 355106279157891/01</p>
+            </div>
         </div>
         <div class="devices">
             <div class="responsibility-link">
