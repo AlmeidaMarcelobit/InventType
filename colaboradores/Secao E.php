@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras E</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ed%20Pasquini.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/ed%20pasquini.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Ed Carlos Pasquini</h3>
         <p><strong>Cargo: </strong> Coordenador De Atendimento Ao Cliente</p>
         <p><strong>Departamento: </strong> Dir. Operações</p>
@@ -53,7 +53,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Edson Ortolan Junior</h3>
         <p><strong>Cargo: </strong> Assistente de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -97,7 +97,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Eduardo%20Junior.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/eduardo%20junior.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Eduardo Junior</h3>
         <p><strong>Cargo: </strong> Assistente de Relacionamento com Profissionais da Saúde</p>
         <p><strong>Departamento: </strong> Relacionamento com Profissionais da Saúde</p>
@@ -144,7 +144,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Eduardo%20Cheade.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/eduardo%20cheade.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Eduardo De Lima Cheade</h3>
         <p><strong>Cargo: </strong> Diretor Comercial</p>
         <p><strong>Departamento: </strong> Dir. Operações</p>
@@ -166,12 +166,6 @@
                 <p><strong>Modelo: </strong> Jabra HSC016</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos listados, porém ainda não possui
-                o
-                termo de responsabilidade assinado para os mesmos.</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -179,7 +173,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Eduardo%20Santos-1.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/eduardo%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Eduardo Santos</h3>
         <p><strong>Cargo: </strong> Analista De Desempenho Pl</p>
         <p><strong>Departamento: </strong> Inteligência de Negócio</p>
@@ -202,7 +196,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Eduardo%20Miskulin.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/eduardo%20miskulin.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Eduardo Miskulin Jardao</h3>
         <p><strong>Cargo: </strong> Product Owner Pl</p>
         <p><strong>Departamento: </strong> Produto</p>
@@ -237,7 +231,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Elaine%20Oliveira.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/elaine%20oliveira.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Elaine Oliveira</h3>
         <p><strong>Cargo:</strong>Analista de Atendimento ao Cliente Sr.</p>
         <p><strong>Departamento:</strong>SAC</p>
@@ -245,13 +239,9 @@
         <p><strong>CPF:</strong></p>
         <p><strong>Centro de Custo:</strong>12002 - SAC</p>
         <img class="status" src="../imagem/icone/on.png" alt="">
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta:</strong> Sem informações dos equipamentos</p>
-        </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Elisabete%20Marques%20da%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/elisabete%20marques%20da%20silva.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Elisabete Marques da Silva</h3>
         <p><strong>Cargo: </strong> Coordenadora de Pessoas & Cultura</p>
         <p><strong>Departamento: </strong> Pessoas e Cultura</p>
@@ -306,7 +296,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Elton%20Severo.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/elton%20severo.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Elton Severo</h3>
         <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
         <p><strong>Departamento: </strong> Telemedicina</p>
@@ -352,7 +342,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Emanuela%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/emanuela%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Emanuela Feteira Santos</h3>
         <p><strong>Cargo: </strong> Especialista Hubspot</p>
         <p><strong>Departamento: </strong> CRM</p>
@@ -388,7 +378,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Emerson%20Queiroz.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/emerson%20queiroz.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Emerson Luiz Queiroz</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -442,7 +432,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Enzo%20Siqueira.jpg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/enzo%20siqueira.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Enzo Siqueira</h3>
         <p><strong>Cargo: </strong>Analista de Suporte JR</p>
         <p><strong>Departamento: </strong>Suporte</p>
@@ -477,10 +467,6 @@
                 <p><strong>Modelo: </strong>Aluminio</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Coletar Termo</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -488,7 +474,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Erica%20Pereira%20de%20Almeida.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/erica%20pereira%20de%20almeida.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Erica Pereira de Almeida</h3>
         <p><strong>Cargo: </strong> Assistente Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -522,7 +508,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Erica%20Teodoro%20de%20Oliveira%20da%20Silva.png"
+        <img src="../imagem/colaboradores/erica%20teodoro%20de%20oliveira%20da%20silva.jpg"
              alt="Foto de Erica Teodoro de Oliveira da Silva" class="profile-pic">
         <h3>👤 Erica Teodoro de Oliveira da Silva</h3>
         <p><strong>Cargo: </strong> Analista de Suporte Pleno</p>
@@ -557,10 +543,6 @@
                 <p><strong>Modelo: </strong> Dell WH1022</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Validadr equipamentos que estão com a colaboradora</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -568,7 +550,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Estefania%20Brondi.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/estefania%20brondi.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Estefania Camilo Brondi Paes</h3>
         <p><strong>Cargo: </strong>Analista de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong>SAC</p>
@@ -576,10 +558,6 @@
         <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong>12002</p>
         <img class="status" src="../imagem/icone/on.png" alt="">
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong>Sem termos e dados do equipamentos</p>
-        </div>
     </div>
 </div>
 <?php include '../includes/footer.php'; ?>
