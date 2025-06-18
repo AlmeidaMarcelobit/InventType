@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras D</h2>
 <div class="container">
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daiana Aparecida dos Santos</h3>
         <p><strong>Cargo: </strong> Assistente de Atendimento ao Cliente</p>
         <p><strong>Departamento: </strong>Atendimento ao Cliente</p>
@@ -57,7 +57,7 @@
 
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Daiene%20Priscila.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/daiene%20priscila.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daiene Priscila Alexandre</h3>
         <p><strong>Cargo: </strong> Analista de Administração Pessoal</p>
         <p><strong>Departamento: </strong> Departamento Pessoal</p>
@@ -100,7 +100,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Daila%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/daila%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daila de Souza Silva Santos</h3>
         <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
         <p><strong>Departamento: </strong> Canais Digitais e Relacionamento</p>
@@ -177,7 +177,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Daniel%20Paula.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/daniel%20paula.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Daniel Oliveira Rosa de Paula</h3>
         <p><strong>Cargo: </strong> Assistente de Cadastro</p>
         <p><strong>Departamento: </strong> Dental</p>
@@ -218,7 +218,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Dariane%20Romerio.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/dariane%20romerio.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Dariane Romerio</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
         <p><strong>Departamento: </strong> SAC</p>
@@ -265,7 +265,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Davi Ribeiro da Silva</h3>
         <p><strong>Email: </strong>davi.ribeiro@amorsaude.com</p>
         <p><strong>Cargo: </strong>Analista de dados</p>
@@ -320,7 +320,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Davi Simoes dos Santos</h3>
         <p><strong>Cargo: </strong>Consultor de Operações</p>
         <p><strong>Departamento: </strong>Consultoria</p>
@@ -363,7 +363,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Dayane%20Cristina%20Silva%20dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/dayane%20cristina%20silva%20dos%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Dayane Cristina Silva dos Santos</h3>
         <p><strong>Cargo: </strong>Assistente de Retenção</p>
         <p><strong>Departamento: </strong>Relacionamento com Cliente</p>
@@ -404,7 +404,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Deise%20Leite%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/deise%20leite%20dos%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Deise Leite</h3>
         <p><strong>Cargo: </strong>Consultor de Operações Internacional</p>
         <p><strong>Departamento: </strong>Internacional</p>
@@ -440,7 +440,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Diego Alberto Rodrigues Blandino</h3>
         <p><strong>Cargo: </strong> Gerente De Suporte</p>
         <p><strong>Departamento: </strong> Gerência Suporte</p>
@@ -482,7 +482,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Dione%20Antonio%20Dos%20Santos.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/dione%20antonio%20dos%20santos.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Dione Antonio dos Santos</h3>
         <p><strong>Cargo: </strong> Analista de desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de negócios</p>
@@ -531,7 +531,7 @@
         </div>
     </div>
      <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Donato Cesar da Costa e Silva</h3>
         <p><strong>Cargo: </strong> Gerente de Customer Sucess</p>
         <p><strong>E-mail: </strong> donato.silva@amorsaude.com</p>
