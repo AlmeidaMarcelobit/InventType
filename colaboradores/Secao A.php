@@ -9,7 +9,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras A</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Alessandra%20Rais.png" alt="Foto de Alessandra Rais" class="profile-pic">
+        <img src="../imagem/colaboradores/alessandra%20rais.jpg" alt="Foto de Alessandra Rais" class="profile-pic">
         <h3>👤 Alessandra Rais</h3>
         <p><strong>Cargo: </strong>Analista de Relacionamento com Profissionais da Saúde</p>
         <p><strong>Departamento: </strong>Relacionamento com Profissionais da Saúde</p>
@@ -39,7 +39,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Alexy%20Divino.png" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
+        <img src="../imagem/colaboradores/alexy%20divino.jpg" alt="Foto de Alexy Chiodi Divino<" class="profile-pic">
         <h3>👤 Alexy Chiodi Divino</h3>
         <p><strong>Cargo: </strong>Gerente de CRM</p>
         <p><strong>Departamento: </strong>CRM</p>
@@ -77,7 +77,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Aline%20Sobral.png" alt="Foto de Aline Alves Sobral Da Silva"
+        <img src="../imagem/colaboradores/aline%20sobral.jpg" alt="Foto de Aline Alves Sobral Da Silva"
              class="profile-pic">
         <h3>👤 Aline Alves Sobral Da Silva</h3>
         <p><strong>Cargo: </strong>Consultor de Operações</p>
@@ -102,7 +102,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Aline%20Oliveira.png" alt="Foto de Aline Camilo de Oliveira"
+        <img src="../imagem/colaboradores/aline%20oliveira.jpg" alt="Foto de Aline Camilo de Oliveira"
              class="profile-pic">
         <h3>👤 Aline Camilo de Oliveira</h3>
         <p><strong>Cargo: </strong>Consultor de Operação</p>
@@ -159,7 +159,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Allan%20Magrini.png" alt="Foto de Alessandra Rais" class="profile-pic">
+        <img src="../imagem/colaboradores/allan%20magrini.jpg" alt="Foto de Alessandra Rais" class="profile-pic">
         <h3>👤 Allan Magrini</h3>
         <p><strong>Cargo: </strong>Desenvolvedor Plsql</p>
         <p><strong>Departamento: </strong>Desenvolvimento</p>
@@ -201,7 +201,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Amanda%20Reis.png" alt="Foto de Amanda da Silva Reis" class="profile-pic">
+        <img src="../imagem/colaboradores/amanda%20reis.jpg" alt="Foto de Amanda da Silva Reis" class="profile-pic">
         <h3>👤 Amanda da Silva Reis</h3>
         <p><strong>Cargo: </strong>Assistente De Canais Digitais E Relacionamento</p>
         <p><strong>Departamento: </strong>Administronline</p>
@@ -243,7 +243,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Amanda%20Marcolino.png" alt="Foto de Amanda Dualattka Marcolino"
+        <img src="../imagem/colaboradores/amanda%20marcolino.jpg" alt="Foto de Amanda Dualattka Marcolino"
              class="profile-pic">
         <h3>👤 Amanda Dualattka Marcolino</h3>
         <p><strong>Cargo: </strong>Assistente de CS</p>
@@ -286,7 +286,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Amanda%20Gazetta.png" alt="Foto de Amanda Gazetta" class="profile-pic">
+        <img src="../imagem/colaboradores/amanda%20gazetta.jpg" alt="Foto de Amanda Gazetta" class="profile-pic">
         <h3>👤 Amanda Gazetta Amigo</h3>
         <p><strong>Cargo: </strong>Coordenadora de Operação</p>
         <p><strong>Departamento: </strong>Regional 2</p>
@@ -333,7 +333,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Beatriz%20Melo%20Silveir.png" alt="Foto de Ana Beatriz Melo Silveira"
+        <img src="../imagem/colaboradores/ana%20beatriz%20melo%20silveir.jpg" alt="Foto de Ana Beatriz Melo Silveira"
              class="profile-pic">
         <h3>👤 Ana Beatriz Melo Silveira</h3>
         <p><strong>Cargo: </strong>Estagiário(a) Dev</p>
