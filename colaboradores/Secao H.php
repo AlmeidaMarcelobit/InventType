@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras H</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Heitor%20De%20Paiva%20Boccato.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/heitor%20de%20paiva%20boccato.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Heitor De Paiva Boccato</h3>
         <p><strong>Cargo: </strong> Analista de Desempenho Jr</p>
         <p><strong>Departamento: </strong> Inteligência de Negócios</p>
@@ -62,7 +62,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Helena%20Bugliani.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/helena%20bugliani.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Helena Silva Bugliani</h3>
         <p><strong>Cargo: </strong> Analista de Documentações</p>
         <p><strong>Departamento: </strong> Backoffice</p>
@@ -117,7 +117,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Helvert%20Dias.jpg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/helvert%20dias.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Helvert Dias da Silveira Malaquias</h3>
         <p><strong>Cargo: </strong>Analista de Pessoas e Cultura</p>
         <p><strong>Departamento: </strong>Pessoas e Cultura</p>
@@ -176,7 +176,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Henrique Camargo De Lacerda Chaves</h3>
         <p><strong>Cargo:</strong>Consultor(A) De Operações</p>
         <p><strong>Departamento:</strong>Operação</p>
