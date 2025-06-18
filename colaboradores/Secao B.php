@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras B</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Barbara Carvalho" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto de Barbara Carvalho" class="profile-pic">
         <h3>👤 Barbara Formentti Carvalho</h3>
         <p><strong>Cargo: </strong> Analista de Processos e Qualidade</p>
         <p><strong>Departamento: </strong> Customer Success</p>
@@ -49,7 +49,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Barbara%20Bidurin.png" alt="Foto de Barbara Bidurin" class="profile-pic">
+        <img src="../imagem/colaboradores/barbara%20bidurin.jpg" alt="Foto de Barbara Bidurin" class="profile-pic">
         <h3>👤 Barbara Bidurin</h3>
         <p><strong>Cargo: </strong> Assistente Suprimentos</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -98,7 +98,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Beatriz%20Alves.png" alt="Foto de Beatriz de Aguiar Alves"
+        <img src="../imagem/colaboradores/beatriz%20alves.jpg" alt="Foto de Beatriz de Aguiar Alves"
              class="profile-pic">
         <h3>👤 Beatriz de Aguiar Alves</h3>
         <p><strong>Cargo: </strong> Assistente de Cadastro</p>
@@ -160,7 +160,7 @@
             </div>
         </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Beatriz%20Moreira.png" alt="Foto de Beatriz Olive Pinho Moreira"
+        <img src="../imagem/colaboradores/beatriz%20moreira.jpg" alt="Foto de Beatriz Olive Pinho Moreira"
              class="profile-pic">
         <h3>👤 Beatriz Olive Pinho Moreira</h3>
         <p><strong>Cargo: </strong> Estagiária</p>
@@ -208,7 +208,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Beatriz%20Chaves.png" alt="Foto de Beatriz Santo Chaves" class="profile-pic">
+        <img src="../imagem/colaboradores/beatriz%20chaves.jpg" alt="Foto de Beatriz Santo Chaves" class="profile-pic">
         <h3>👤 Beatriz Santo Chaves</h3>
         <p><strong>Cargo: </strong> Coordenador De Experiência Do Cliente</p>
         <p><strong>Departamento: </strong> Dir. Operações</p>
@@ -263,7 +263,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Beatriz%20Rezende.png" alt="Foto de Beatriz Vaz Rezende" class="profile-pic">
+        <img src="../imagem/colaboradores/beatriz%20rezende.jpg" alt="Foto de Beatriz Vaz Rezende" class="profile-pic">
         <h3>👤 Beatriz Vaz Rezende</h3>
         <p><strong>Cargo: </strong> Especialista Hubspot</p>
         <p><strong>Departamento: </strong> CRM</p>
@@ -311,7 +311,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Bianca%20Duzzi.png" alt="Foto de Bianca Festucci Duzzi" class="profile-pic">
+        <img src="../imagem/colaboradores/bianca%20duzzi.jpg" alt="Foto de Bianca Festucci Duzzi" class="profile-pic">
         <h3>👤 Bianca Festucci Duzzi</h3>
         <p><strong>Cargo: </strong> Analista Treinamento Jr</p>
         <p><strong>Departamento: </strong> Pessoas E Cultura</p>
@@ -366,7 +366,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Bianca%20In%C3%A1cio.png" alt="Foto de Bianca Inacia da Silva"
+        <img src="../imagem/colaboradores/bianca%20inacio.jpg" alt="Foto de Bianca Inacia da Silva"
              class="profile-pic">
         <h3>👤 Bianca Inacia da Silva</h3>
         <p><strong>Cargo: </strong> Assistente de Operações</p>
@@ -420,7 +420,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Bianca%20Carvalho.jpeg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/bianca%20carvalho.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Bianca Naomi de Carvalho</h3>
         <p><strong>Cargo:</strong>Desenvolvedor PL</p>
         <p><strong>Departamento:</strong>Desenvolvimento</p>
@@ -466,7 +466,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Brian Cardoso Ferreira" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto de Brian Cardoso Ferreira" class="profile-pic">
         <h3>👤 Brian Cardoso Ferreira</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -515,7 +515,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Bruna Aliteia de Souza Branco</h3>
         <p><strong>Cargo: </strong>Analista de Parcerias Comercias Sr</p>
         <p><strong>Departamento: </strong>Cirurgias</p>
@@ -573,7 +573,7 @@
         </div>
     </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Bruna%20Ros%C3%A1rio.png" alt="Foto de Bruna Rosário" class="profile-pic">
+    <img src="../imagem/colaboradores/bruna%20rosario.jpg" alt="Foto de Bruna Rosário" class="profile-pic">
     <h3>👤 Bruna de Freitas Rosário</h3>
     <p><strong>Cargo: </strong> Product Owner Jr</p>
     <p><strong>Departamento: </strong> Dental</p>
@@ -620,7 +620,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Bruna%20Reis.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/bruna%20reis.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Bruna Motta Carvalho dos Reis</h3>
     <p><strong>Cargo:</strong>Cordenador a Tecnica</p>
     <p><strong>Departamento:</strong>AmorLab</p>
@@ -653,7 +653,7 @@
 </div>
 
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Bruna%20Emilio.png" alt="Foto de Bruna Rafaela Emilio" class="profile-pic">
+    <img src="../imagem/colaboradores/bruna%20emilio.jpg" alt="Foto de Bruna Rafaela Emilio" class="profile-pic">
     <h3>👤 Bruna Rafaela Emilio</h3>
     <p><strong>Cargo: </strong> Consultoria de Operações</p>
     <p><strong>Departamento: </strong> Consultoria</p>
@@ -708,7 +708,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Bruno%20Dias.png" alt="Foto de Bruno Dias" class="profile-pic">
+    <img src="../imagem/colaboradores/bruno%20dias.jpg" alt="Foto de Bruno Dias" class="profile-pic">
     <h3>👤 Bruno de Moraes Dias</h3>
     <p><strong>Cargo: </strong> Analista de Projetos Sr</p>
     <p><strong>Departamento: </strong> Projetos / Processos</p>
@@ -749,7 +749,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Bruno%20Martins.png" alt="Foto de Bruno Martins" class="profile-pic">
+    <img src="../imagem/colaboradores/bruno%20martins.jpg" alt="Foto de Bruno Martins" class="profile-pic">
     <h3>👤 Bruno Guimarães Martins</h3>
     <p><strong>Cargo: </strong> Consultor de Operações</p>
     <p><strong>Departamento: </strong>Operações </p>
@@ -786,7 +786,7 @@
     </div>
 </div>
 <div class="card" onclick="this.classList.toggle('active')">
-    <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+    <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto do Colaborador" class="profile-pic">
     <h3>👤 Bruno Yuri Alves De Oliveira</h3>
     <p><strong>Cargo:</strong>Desenvolvedor Sr</p>
     <p><strong>Departamento:</strong>Desenvolvimento</p>
