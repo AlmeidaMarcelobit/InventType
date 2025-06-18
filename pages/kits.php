@@ -1225,8 +1225,8 @@
         <p><strong>Substituição:</strong>Marcelo Alexandre Barbosa Martins</p>
         <p><strong>Cargo: </strong></p>
         <p><strong>Departamento: </strong> Suporte</p>
-        <p><strong>E-mail: </strong> </p>
-        <p><strong>CPF: </strong> </p>
+        <p><strong>E-mail: </strong></p>
+        <p><strong>CPF: </strong></p>
         <p><strong>Centro de Custo: </strong> 13019</p>
         <div class="devices">
             <div class="device">
@@ -1254,58 +1254,101 @@
             </div>
         </div>
     </div>
-        <div class="card">
-            <h2>📦ID Caixa: 51</h2>
-            <p><strong>Substituição:</strong> Bruna de Freitas Rosário/p>
-            <p><strong>Departamento:</strong> Produto</p>
-            <p><strong>Centro de Custo:</strong>13013 - Produto</p>
+    <div class="card">
+        <h2>📦ID Caixa: 51</h2>
+        <p><strong>Substituição:</strong> Bruna de Freitas Rosário/p>
+        <p><strong>Departamento:</strong> Produto</p>
+        <p><strong>Centro de Custo:</strong>13013 - Produto</p>
 
-            <div class="devices">
-                <div class="device">
-                    <h4>🎧 Fone</h4>
-                    <p><strong>Modelo:</strong>Logitech H390</p>
-                    <p><strong>S/N:</strong> 2421AY020L09</p>
-                    <p><strong>Patrimônio:</strong> 1022</p>
-                </div>
-                <div class="device">
-                    <h4>🔩 Suporte</h4>
-                    <p><strong>Modelo:</strong>Alumínio</p>
-                    <p><strong>S/N:</strong></p>
-                    <p><strong>Patrimônio:</strong> 359</p>
-                </div>
-                <div class="device">
-                    <h4>⌨️🖱️Teclado e Mouse</h4>
-                    <p><strong>Modelo:</strong>Logitech MK270</p>
-                    <p><strong>S/N:</strong> 2240ce0b5649 - 2237lzxa0b68</p>
-                    <p><strong>Patrimônio:</strong> 357</p>
-                </div>
-                <div class="device">
-                    <h4>💻 Notebook</h4>
-                    <p><strong>Modelo:</strong>Lenovo v15 82ME</p>
-                    <p><strong>S/N:</strong> PE0975G4</p>
-                    <p><strong>Patrimônio:</strong> 194</p>
-                </div>
+        <div class="devices">
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Modelo:</strong>Logitech H390</p>
+                <p><strong>S/N:</strong> 2421AY020L09</p>
+                <p><strong>Patrimônio:</strong> 1022</p>
             </div>
-            <div class="attention-info">
-                <h2>⚠️ Informações Importantes</h2>
-                <p><strong>Alerta:</strong> Alocado temporariamente para Marcos Vinicius Baleirini Silva </p>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Modelo:</strong>Alumínio</p>
+                <p><strong>S/N:</strong></p>
+                <p><strong>Patrimônio:</strong> 359</p>
+            </div>
+            <div class="device">
+                <h4>⌨️🖱️Teclado e Mouse</h4>
+                <p><strong>Modelo:</strong>Logitech MK270</p>
+                <p><strong>S/N:</strong> 2240ce0b5649 - 2237lzxa0b68</p>
+                <p><strong>Patrimônio:</strong> 357</p>
+            </div>
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Modelo:</strong>Lenovo v15 82ME</p>
+                <p><strong>S/N:</strong> PE0975G4</p>
+                <p><strong>Patrimônio:</strong> 194</p>
             </div>
         </div>
-
-
-
+        <div class="attention-info">
+            <h2>⚠️ Informações Importantes</h2>
+            <p><strong>Alerta:</strong> Alocado temporariamente para Marcos Vinicius Baleirini Silva </p>
+        </div>
+    </div>
     <div class="card">
-        <h2>📦ID Caixa: </h2>
+        <h2>📦ID Caixa: 53</h2>
         <p><strong>Colaborador:</strong></p>
-        <p><strong>Substituição:</strong></p>
-        <p><strong>Cargo:</strong></p>
-        <p><strong>Departamento:</strong></p>
+        <p><strong>Substituição:</strong>Viviane de Carvalho</p>
+        <p><strong>Cargo:</strong>C</p>
+        <p><strong>Departamento:</strong>Consultoria de Performece</p>
         <p><strong>E-mail:</strong></p>
         <p><strong>CPF:</strong></p>
         <p><strong>Centro de Custo:</strong></p>
+        <div class="devices">
+            <div class="device">
+                <h4>💻 Notebook</h4>
+                <p><strong>Patrimônio: </strong> 272</p>
+                <p><strong>Série: </strong> 4P3MOT3</p>
+                <p><strong>Modelo: </strong> Dell Vostro 15 3510</p>
+            </div>
+            <div class="device">
+                <h4>⌨️🖱️ Teclado e Mouse</h4>
+                <p><strong>Patrimônio: </strong> 283</p>
+                <p><strong>Série: </strong> 2243CE258439 - 2241LZX3P7V8</p>
+                <p><strong>Modelo: </strong> Logitech MK270</p>
+            </div>
+            <div class="device">
+                <h4>🔩 Suporte</h4>
+                <p><strong>Patrimônio: </strong> 816</p>
+                <p><strong>Série: </strong> N/A</p>
+                <p><strong>Modelo: </strong> Alumínio</p>
+            </div>
+            <div class="device">
+                <h4>🎧 Fone</h4>
+                <p><strong>Patrimônio: </strong> 839</p>
+                <p><strong>Série: </strong> 2309ME01AQT9</p>
+                <p><strong>Modelo: </strong> Logitech H390</p>
+            </div>
+            <div class="device">
+                <h4>📱 Celular</h4>
+                <p><strong>Patrimônio: </strong>589</p>
+                <p><strong>Série: </strong> R9XT703HHHL</p>
+                <p><strong>Modelo: </strong> Galaxy A03</p>
+                <p><strong>IMEI 1: </strong> 354985989157890/01</p>
+                <p><strong>IMEI 2: </strong> 355106279157891/01</p>
+            </div>
+        </div>
     </div>
 
-</div>
+
+        <div class="card">
+            <h2>📦ID Caixa: </h2>
+            <p><strong>Colaborador:</strong></p>
+            <p><strong>Substituição:</strong></p>
+            <p><strong>Cargo:</strong></p>
+            <p><strong>Departamento:</strong></p>
+            <p><strong>E-mail:</strong></p>
+            <p><strong>CPF:</strong></p>
+            <p><strong>Centro de Custo:</strong></p>
+        </div>
+
+    </div>
     <footer>
         <p>&copy; 2024 - 2025 SaúdeTracker - Todos os direitos reservados.</p>
     </footer>
