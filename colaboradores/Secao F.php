@@ -11,7 +11,7 @@
 <h2 style="text-align: center;margin-top: 10px">📋 Colaboradores Letras F</h2>
 <div class="container">
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fabio Eduardo Circucisão Rafael</h3>
         <p><strong>Cargo: </strong>Analista de Suporte JR</p>
         <p><strong>Departamento: </strong>Suporte</p>
@@ -49,7 +49,7 @@
     </div>
 
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Fabio%20Manoel%20Goncalves%20D'avilla.png" alt="Foto do Colaborador"
+        <img src="../imagem/colaboradores/fabio%20manoel%20goncalves%20d'avilla.jpg" alt="Foto do Colaborador"
              class="profile-pic">
         <h3>👤 Fabio Manoel Goncalves D'Avilla</h3>
         <p><strong>Cargo: </strong> Desenvolvedor Fullstack Pl</p>
@@ -73,7 +73,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Fabiola%20Quiles.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/fabiola%20quiles.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fabiola Todesco Quiles</h3>
         <p><strong>Cargo: </strong> Gerente Adm. Plano Odontológico</p>
         <p><strong>Departamento: </strong> Odontologia</p>
@@ -81,12 +81,6 @@
         <p><strong>CPF: </strong> 310.755.438-35</p>
         <p><strong>Centro de Custo: </strong> 18006 - Odontologia - Plano</p>
         <img class="status" src="../imagem/icone/on.png" alt="">
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> O colaborador está utilizando os equipamentos, porém ainda não possui o
-                termo de
-                responsabilidade assinado e dados dos mesmos.</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -94,7 +88,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Fabricio%20Florentino.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/fabricio%20florentino.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fabricio Baastista Florentino</h3>
         <p><strong>Cargo: </strong> Consultor De Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -143,7 +137,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Felipe%20Oliveira.jpeg" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/felipe%20oliveira.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Felipe Candido Oliveira</h3>
         <p><strong>Cargo: </strong>Gerente Financeiro</p>
         <p><strong>Departamento: </strong>Financeiro</p>
@@ -162,7 +156,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Felipe%20Fernandes.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/felipe%20fernandes.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Felipe Lemes Fernandes</h3>
         <p><strong>Cargo: </strong> Analista de Desempenho</p>
         <p><strong>Departamento: </strong> Inteligência de Negócio</p>
@@ -216,7 +210,7 @@
         <p><strong>E-mail: </strong>felipe.santos@amorsaude.com</p>
         <p><strong>CPF: </strong>391.420.088-08</p>
         <p><strong>Centro de Custo: </strong>12007 - Regional 2</p>
-        <p<img class="status" src="../imagem/icone/on.png" alt="">
+        <img class="status" src="../imagem/icone/on.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -257,10 +251,6 @@
                 <p><strong>IMEI 2: </strong>354654236987752/01</p>
             </div>
         </div>
-        <div class="attention-info">
-            <h2>⚠️ Informações Importantes</h2>
-            <p><strong>Alerta: </strong> Verificar o Monitor e coletar dados Monitor</p>
-        </div>
         <div class="devices">
             <div class="responsibility-link">
                 <h4><a href="">📑 Termo de Responsabilidade</a></h4>
@@ -268,7 +258,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Fernanda%20Barbosa.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/fernanda%20barbosa.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fernanda Beatriz Silva Barbosa</h3>
         <p><strong>Cargo: </strong> Consultora Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -323,7 +313,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Fernanda%20Espadari.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/fernanda%20espadari.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fernanda Radiguieri Espadari</h3>
         <p><strong>Cargo: </strong> Estagiária</p>
         <p><strong>Departamento: </strong> BackOffice</p>
@@ -370,7 +360,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Fernando%20Silva.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/fernando%20silva.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Fernando Vinicius Silva</h3>
         <p><strong>Cargo: </strong> Consultor(A) De Operações</p>
         <p><strong>Departamento: </strong> Regional 2</p>
@@ -419,7 +409,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Fabricio%20Freitas.png" alt="Foto do Colaborador" class="profile-pic">
+        <img src="../imagem/colaboradores/fabricio%20freitas.jpg" alt="Foto do Colaborador" class="profile-pic">
         <h3>👤 Francisco Fabricio De Lima Freitas</h3>
         <p><strong>Cargo: </strong> Gerente Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
