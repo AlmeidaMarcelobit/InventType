@@ -341,7 +341,7 @@
         <p><strong>E-mail: </strong>anabeatriz.silveira@amorsaude.com</p>
         <p><strong>CPF: </strong>154.666.279-66</p>
         <p><strong>Centro de Custo: </strong>13012 - Desenvolvimento</p>
-        <img class="status" src="../imagem/icone/On.png" alt="">
+        <img class="status" src="../imagem/icone/off.png" alt="">
         <div class="devices">
             <div class="device">
                 <h4>💻 Notebook</h4>
@@ -384,7 +384,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Carolina%20Lima.png" alt="Foto de Ana Carolina Delsin de Lima"
+        <img src="../imagem/colaboradores/ana%20carolina%20lima.jpg" alt="Foto de Ana Carolina Delsin de Lima"
              class="profile-pic">
         <h3>👤 Ana Carolina Delsin de Lima</h3>
         <p><strong>Cargo: </strong>Consultora de Operações</p>
@@ -432,7 +432,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Carolina Rossi" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto de Ana Carolina Rossi" class="profile-pic">
         <h3>👤 Ana Carolina Rossi</h3>
         <p><strong>Cargo: </strong>Analista Comercial</p>
         <p><strong>Departamento: </strong>Amor Cirurgias</p>
@@ -475,7 +475,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Caroline%20Alves.png" alt="foto de Ana Caroline de Rezende Alves"
+        <img src="../imagem/colaboradores/ana%20caroline%20alves.jpg" alt="foto de Ana Caroline de Rezende Alves"
              class="profile-pic">
         <h3>👤 Ana Caroline de Rezende Alves</h3>
         <p><strong>Cargo: </strong>Consultora de Operações</p>
@@ -523,7 +523,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Almeida.png" alt="Foto de Ana Clara Lourenço de Almeida"
+        <img src="../imagem/colaboradores/ana%20almeida.jpg" alt="Foto de Ana Clara Lourenço de Almeida"
              class="profile-pic">
         <h3>Ana Clara Lourenco de Almeida</h3>
         <p><strong>Cargo: </strong>Auxiliar de Pessoas & Cultura</p>
@@ -566,7 +566,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Nunes.png" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
+        <img src="../imagem/colaboradores/ana%20nunes.jpg" alt="Foto de Ana Claudia Ferreira Nunes" class="profile-pic">
         <h3>👤 Ana Claudia Ferreira Nunes</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
         <p><strong>Departamento: </strong> Consultoria</p>
@@ -627,7 +627,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Hermogenes.png" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes"
+        <img src="../imagem/colaboradores/ana%20hermogenes.jpg" alt="Foto de Ana Cláudia Mata de Sousa Hermogenes"
              class="profile-pic">
         <h3>👤 Ana Cláudia Mata de Sousa Hermogenes</h3>
         <p><strong>Cargo: </strong> Assistente de Retenção</p>
@@ -675,7 +675,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Julia%20Bujardi.png" alt="Foto de Ana Julia Bujardi"
+        <img src="../imagem/colaboradores/ana%20julia%20bujardi.jpg" alt="Foto de Ana Julia Bujardi"
              class="profile-pic">
         <h3>👤 Ana Julia Bujardi</h3>
         <p><strong>Cargo: </strong> Analista de Administração de Pessoal</p>
@@ -729,7 +729,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Sem%20Foto.png" alt="Foto de Ana Laura Santos" class="profile-pic">
+        <img src="../imagem/colaboradores/sem%20foto.jpg" alt="Foto de Ana Laura Santos" class="profile-pic">
         <h3>👤 Ana Laura Ferrari Maila Santos</h3>
         <p><strong>Cargo: </strong> Assistente Administronline</p>
         <p><strong>Departamento: </strong> Amor Cirurgias</p>
@@ -766,7 +766,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Fumagalli.png" alt="Foto de Ana Luisa Rezende Machado Fumagalli"
+        <img src="../imagem/colaboradores/ana%20fumagalli.jpg" alt="Foto de Ana Luisa Rezende Machado Fumagalli"
              class="profile-pic">
         <h3>👤 Ana Luisa Fumagalli</h3>
         <p><strong>Cargo: </strong> Coordenadora de Backoffice</p>
@@ -802,7 +802,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Costa.png" alt="Foto de Ana Luiz Bernardes Peres Costa"
+        <img src="../imagem/colaboradores/ana%20costa.jpg" alt="Foto de Ana Luiz Bernardes Peres Costa"
              class="profile-pic">
         <h3>👤 Ana Luiz Bernardes Peres Costa</h3>
         <p><strong>Cargo: </strong> Assistente de Cadastro</p>
@@ -850,7 +850,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ana%20Paula%20Romualdo.png" alt="Foto de Ana Paula Romualdo"
+        <img src="../imagem/colaboradores/ana%20paula%20romualdo.jpg" alt="Foto de Ana Paula Romualdo"
              class="profile-pic">
         <h3>👤 Ana Paula Romualdo</h3>
         <p><strong>Cargo: </strong> Assistente de Canais Digitais e Relacionamento</p>
@@ -898,7 +898,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Andr%C3%A9%20Medina.png" alt="Foto de Andre Medina" class="profile-pic">
+        <img src="../imagem/colaboradores/andre%20medina.jpg" alt="Foto de Andre Medina" class="profile-pic">
         <h3>👤 Andre Luiz Medina De Andrade</h3>
         <p><strong>Cargo: </strong> Gerente Regional De Operações</p>
         <p><strong>Departamento: </strong> Dir. Operações</p>
@@ -959,7 +959,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Andre%20Rigobello.png" alt="Foto de André Rigobello Pinto"
+        <img src="../imagem/colaboradores/andre%20rigobello.jpg" alt="Foto de André Rigobello Pinto"
              class="profile-pic">
         <h3>👤 André Rigobello Pinto</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
@@ -1021,7 +1021,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Andreia%20Lopes.png" alt="Foto de Andreia Lopes" class="profile-pic">
+        <img src="../imagem/colaboradores/andreia%20lopes.jpg" alt="Foto de Andreia Lopes" class="profile-pic">
         <h3>👤 Andreia dos Anjos Lopes</h3>
         <p><strong>Cargo: </strong> Coordenadora Financeiro</p>
         <p><strong>Departamento: </strong> Financeiro</p>
@@ -1059,7 +1059,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Angelica%20Pires.png" alt="Foto de Angelica Emanuela dos Santos Pires"
+        <img src="../imagem/colaboradores/angelica%20pires.jpg" alt="Foto de Angelica Emanuela dos Santos Pires"
              class="profile-pic">
         <h3>👤 Angelica Emanuela dos Santos Pires</h3>
         <p><strong>Cargo: </strong> Assistente de CS</p>
@@ -1113,7 +1113,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Ariane%20Herrera.png" alt="Foto de Ariane Herrera" class="profile-pic">
+        <img src="../imagem/colaboradores/ariane%20herrera.jpg" alt="Foto de Ariane Herrera" class="profile-pic">
         <h3>👤 Ariane Alves Herrera</h3>
         <p><strong>Cargo: </strong> Analista Administrativo SR</p>
         <p><strong>Departamento: </strong> Operações Plano</p>
@@ -1168,7 +1168,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Arnaldo%20Junior.png" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
+        <img src="../imagem/colaboradores/arnaldo%20junior.jpg" alt="Foto de Arnaldo Rocha Junior" class="profile-pic">
         <h3>👤 Arnaldo Rocha Junior</h3>
         <p><strong>Cargo: </strong> Gerente Contábil</p>
         <p><strong>Departamento: </strong> Contabilidade</p>
@@ -1215,7 +1215,7 @@
         </div>
     </div>
     <div class="card" onclick="this.classList.toggle('active')">
-        <img src="../imagem/colaboradores/Artur%20Mello.png" alt="Foto de Artur Ferreira Morais Mello"
+        <img src="../imagem/colaboradores/artur%20mello.jpg" alt="Foto de Artur Ferreira Morais Mello"
              class="profile-pic">
         <h3>👤 Artur Ferreira Morais Mello</h3>
         <p><strong>Cargo: </strong> Consultor de Operações</p>
