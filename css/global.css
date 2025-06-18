@@ -71,10 +71,10 @@ body {
 }
 
 .status {
-    width: 128px;
+    width: 100px;
     position: relative;
     top: -90px;
-    right: -450px;
+    right: -460px;
 }
 
 .card .devices {
