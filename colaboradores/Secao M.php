@@ -680,7 +680,7 @@
             </div>
             <div class="device">
                 <h4>📱 Celular</h4>
-                <p><strong>Patrimônio: </strong> 589</p>
+                <p><strong>Patrimônio: </strong>589</p>
                 <p><strong>Série: </strong> R9XT703HHHL</p>
                 <p><strong>Modelo: </strong> Galaxy A03</p>
                 <p><strong>IMEI 1: </strong> 354985989157890/01</p>
